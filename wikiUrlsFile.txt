@@ -1,1172 +1,1173 @@
-/wiki/Harris_HBR_Bipod
-/wiki/Izhmash_SV-98_bipod
-/wiki/KAC_Vertical_pistol_grip
-/wiki/BCM_MOD.3_Tactical_grip
-/wiki/SI_%22Cobra_tactical%22_tactical_grip
-/wiki/Magpul_M-LOK_AFG_Tactical_grip
-/wiki/Hera_Arms_CQR_tactical_grip
-/wiki/Fortis_Shift_tactical_grip
-/wiki/Magpul_AFG_grip
-/wiki/Magpul_RVG_grip
-/wiki/SE-5_Express_Grip
-/wiki/Tango_Down_Stubby_BGV-MK46K_tactical_grip
-/wiki/Viking_Tactical_UVG_Tactical_grip
-/wiki/Zenit_RK-0_Foregrip
-/wiki/Zenit_RK-1_Foregrip
-/wiki/Zenit_RK-1_Foregrip_on_B-25U_mount
-/wiki/Zenit_RK-2_Foregrip
-/wiki/Zenit_RK-4_Foregrip
-/wiki/Zenit_RK-5_Foregrip
-/wiki/Zenit_RK-6_Foregrip
-/wiki/ASh-12_Vertical_pistol_grip
-/wiki/RTM_Pillau_Tactical_grip
-/wiki/B%26T_MP9-N_Vertical_grip
-/wiki/T-5000_Pad
-/wiki/TD_Aluminium_skeletonized_vertical_grip
-/wiki/MVF001_A3_Vertical_Grip_KeyMod_black
-/wiki/Sig_Sauer_Vertical_Foregrip_Keymod_Black
-/wiki/Armytek_Predator_Pro_v3_XHP35_HI_Flashlight
-/wiki/Ultrafire_WF-501B_Flashlight
-/wiki/Zenit_Perst-3_tactical_device
-/wiki/Zenit_2IRS_Klesch_flashlight_%2B_laser_designator
-/wiki/Zenit_2P_Klesch_flashlight_%2B_laser_designator
-/wiki/Zenit_2U_Klesch_tactical_flashlight
-/wiki/AN/PEQ-15_tactical_device
-/wiki/Glock_Tactical_GL21_flashlight_with_laser
-/wiki/Holosun_LS321_Tactical_device
-/wiki/LA-5_tactical_device
-/wiki/LAS/TAC_2_tactical_flashlight
-/wiki/Surefire_XC1_tactical_flashlight
-/wiki/X400_tactical_flashlight
-/wiki/NcSTAR_Tactical_blue_laser_LAM-Module
-/wiki/AN/PEQ-2_tactical_device
-/wiki/Steiner_Dbal_PL_tactical_flashlight
-/wiki/DLP_%22Tactical_Precision%22_LAM_Module_for_TT_Pistol
-/wiki/AGR-870_protection_cap
-/wiki/NSPU-M_scope_eyecup
-/wiki/Vulcan_MG_scope_eyecup
-/wiki/Cobra_Family_Sights_Shade
-/wiki/PSO_scope_eyecup
-/wiki/REAP-IR_scope_eyecup
-/wiki/SV-98_anti-heat_ribbon
-/wiki/SV-98_sound_suppressor_heat_shield
-/wiki/Zev_Tech_sight_mount_cap
-/wiki/USP-1_scope_eyecup
-/wiki/KMZ_1P59_scope_eyecup
-/wiki/KAC_short_panel_for_URX_3/3.1
-/wiki/KAC_long_panel_for_URX_3/3.1
-/wiki/KAC_stopper_panel_for_URX_3/3.1
-/wiki/Slide_lock_for_M1911A1
-/wiki/Hammer_for_M1911A1
-/wiki/Trigger_for_M1911A1
-/wiki/Wilson_Extended_slide_stop_for_M1911A1
-/wiki/Hammer_for_M1911A1_(alternative)
-/wiki/STI_HEX_Hammer_for_M1911A1
-/wiki/Wilson_Ultralight_skeletonized_hammer_for_M1911A1
-/wiki/Caspian_Trik_Trigger_for_M1911A1
-/wiki/Trigger_for_M45A1
-/wiki/Hammer_for_M45A1
-/wiki/Slide_lock_for_M45A1
-/wiki/Magwell_STM-9
-/wiki/Taktika_Tula_AK_and_AKM_adapter
-/wiki/Direct_Thread_Mount_adapter_for_Gemtech_ONE.
-/wiki/ME_Cylinder_muzzle_adapter_12_ga
-/wiki/3_Lug_threaded_protector
-/wiki/SilencerCo_choke_adapter_for_12ga_shotguns
-/wiki/SilencerCo_Salvo_12_thread_adapter
-/wiki/Direct_Thread_Mount_adapter_for_Silencerco_Hybrid_46.
-/wiki/3_Lug_thread_protector
-/wiki/P226_thread_protection_cap
-/wiki/PP-91-01_Kedr-B_muzzle_thread_piece
-/wiki/SOK-12_Protection_tube
-/wiki/Thread_protector_for_Alpha_Wolf_Glock_barrels
-/wiki/Glock_thread_protector_produced_by_Double_Diamond
-/wiki/Glock_thread_protector_produced_by_Salient_Arms
-/wiki/M9A3_thread_protection_cap
-/wiki/Mosin_Weapon_Tuning_thread_adapter
-/wiki/Weapon_Tuning_SKS_tread_adapter
-/wiki/Direct_Thread_adapter_for_the_Lantac_Blast_mitigation_device.
-/wiki/Custom_Mosin_rifle_thread_adapter
-/wiki/Tiger_Rock_Mosin_rifle_tread_adapter
-/wiki/M700_thread_protection_cap
-/wiki/Rotor_43_thread_adapter_for_SVD-S
-/wiki/VPO-215_thread_protection_cap
-/wiki/B%26T_adapter_for_MP9_regular_suppressor.
-/wiki/CNC_Warrior_AK_5.56x45_mm_muzzle_device_adapter
-/wiki/RFB_thread_spacer
-/wiki/RFB_thread_protection_cap
-/wiki/SIG_Taper-LOK_Muzzle_Adapter
-/wiki/Direct_Thread_Mount_adapter_for_Silencerco_Omega_45k
-/wiki/Piston_Mount_adapter_for_Silencerco_Omega_45k
-/wiki/Vector_9x19_thread_protection_cap
-/wiki/Kriss_Vector_.45_ACP_thread_protection_cap
-/wiki/Izhmash_7.62x39_AKM_muzzle_brake_%26_compensator_(6P1_0-14)
-/wiki/Molot_7.62x39_Vepr_KM_/_VPO-136_muzzle_brake_%26_compensator
-/wiki/Thread_protection_for_AKM/VPO-209
-/wiki/KAC_QD_Compensator_5.56x45
-/wiki/Izhmash_7.62x39_flash_hider_for_AKML_system
-/wiki/AAC_Blackout_51T_flash_hider_(7.62x51)
-/wiki/Carver_Custom_4_Port_9x19_muzzle_brake
-/wiki/Decelerator_3_Port_9x19_Compensator
-/wiki/Double_Diamond_flash_hider
-/wiki/Alpha_Wolf_Bullnose_9x19_Compensator
-/wiki/Lone_Wolf_Compensator_9_9x19
-/wiki/Strike_Industries_G4_slide_compensator_9x19
-/wiki/Lantac_Dragon_7.62x39_muzzle_brake_%26_compensator_for_AK
-/wiki/AR-15_SAI_JailBrake_5.56x45_muzzle_device
-/wiki/AAC_Blackout_51T_5.56x45_flash-hider
-/wiki/Thread_adapter_7.62x54_for_SV-98
-/wiki/Surefire_WarComp_5.56x45_Flash_hider_for_AR-15
-/wiki/Lantac_Dragon_7.62x51_muzzle_brake
-/wiki/Izhmash_7.62x54_SVDS_muzzlebrake_%26_compensator
-/wiki/SRVV_%22Mk.2.0%22_compensator_7.62x54_for_SV-98
-/wiki/Venom_Antidote_muzzle_brake_%26_compensator_for_AK
-/wiki/Surefire_SF3P_5.56x45_Flash_hider_for_AR-15
-/wiki/TJ_Custom_9x19_Compensator
-/wiki/Desert_Tech_5.56x45_Flash_hider
-/wiki/HK_Noveske_style_muzzle_brake_%26_compensator_for_MP-5
-/wiki/PM-Laser_DTK-TT_muzzle_brake_for_TT_pistol
-/wiki/Izhmash_5.45x39_RPK-16_muzzle_brake_%26_compensator
-/wiki/ADAR_2-15.56x45_Flashhider
-/wiki/Noveske_KX3_5.56x45_flash_hider
-/wiki/Muzzle_brake_Odin_Works_Atlas-7_7.62x51_for_AR-10
-/wiki/Tacfire_Tanker_style_muzzle_brake_for_Mosin_rifle
-/wiki/Witt_Machine_muzzle_brake_for_Mosin_rifle
-/wiki/HK_A1_4.6x30_Flash_hider_for_MP7
-/wiki/SA-58_7.62x51_Austrian_style_muzzle_brake
-/wiki/Compensator_2A_%22X3%22_7.62x51_for_AR-10
-/wiki/Annihilator_7.62x39,_5.56x45_and_9mm_flash_hider_for_AR-15
-/wiki/SA-58_7.62x51_3_prong_trident_flash_hider
-/wiki/Phantom_7.62x51_muzzle_brake_%26_compensator_for_M14
-/wiki/Vortex_DC_7.62x51_muzzle_brake_%26_compensator_for_M14
-/wiki/National_Match_7.62x51_muzzle_brake_%26_compensator_for_M1A
-/wiki/M14_JP_Enterprises_7.62x51_tactical_muzzle_brake_%26_compensator
-/wiki/Good_Iron_7.62x51_muzzle_brake_%26_compensator_for_M14
-/wiki/Izhmash_5.45x39_AK-74_muzzle_brake_%26_compensator_(6P20_0-20)
-/wiki/Zenit_DTK-1_7.62x39_%26_5.45x39_muzzle_brake_%26_compensator_for_AK
-/wiki/Izhmash_5.45x39_muzzle_brake_for_AKS-74U_(6P26_0-20)
-/wiki/Colt_USGI_A2_5.56x45_Flash_hider_for_AR-15
-/wiki/PWS_CQB_5.56_x_45_Muzzle_brake
-/wiki/A2_9x19_Flash_hider_for_MPX
-/wiki/SV-98_muzzle_device
-/wiki/Muzzle_brake_Vendetta_precision_VP-09_5.56x45
-/wiki/Izhmash_9x19_PP-19-01_muzzle_brake/compensator
-/wiki/Izhmash_9x19_Saiga-9_muzzle_brake/compensator
-/wiki/PWS_CQB_74_5.45x39_Muzzle_brake
-/wiki/DVL-10_M2_muzzle_brake
-/wiki/DVL-10_muzzle_device
-/wiki/Tromix_Monster_Claw_12ga_muzzle_brake
-/wiki/GK-02_Muzzle_Brake
-/wiki/Remington_Tactical_Choke_12ga
-/wiki/Socom_16_7.62x51_muzzle_brake_%26_compensator_for_M1A_(threaded)
-/wiki/Izhmash_5.56x45_AK-101_muzzlebrake_%26_compensator
-/wiki/Izhmash_5.45x39_AK-74M_muzzle_brake_%26_compensator_(6P20_0-20)
-/wiki/Izhmash_5.45x39_AK-105_muzzlebrake_%26_compensator_(6P44_0-20)
-/wiki/Izhmash_7.62x39_AK-104_muzzlebrake_%26_compensator_(6P46_0-20)
-/wiki/Izhmash_7.62x39_AK-103_muzzlebrake_%26_compensator
-/wiki/Izhmash_5.56x45_AK-102_muzzlebrake_%26_compensator_(6P44_0-20)
-/wiki/Socom_16_7.62x51_muzzle_brake_%26_compensator_for_M1A_(unthreaded)
-/wiki/Spike_tactical_dynacomp_7.62x39_muzzle_brake_%26_compensator_for_AK
-/wiki/Texas_Precision_Products_muzzle_brake_for_Mosin_rifle
-/wiki/Fortis_Red_Brake_7.62x51_muzzle_brake_for_AR-10
-/wiki/ASh-12_regular_muzzle_brake_12.7x55
-/wiki/FN_P90_5.7x28_flash_hider
-/wiki/SRVV_5.45x39_AK-74_muzzle_brake
-/wiki/SRVV_7.62x39_AK_muzzle_brake_%26_compensator
-/wiki/TROY_Claymore_5.56x45_muzzle_brake_for_AR-15
-/wiki/Muzzle_brake_Keeno_Arms_SHREWD_7.62x51_for_AR-10
-/wiki/Muzzle_brake_Precision_Armament_M-11_7.62x51_for_AR-10
-/wiki/Carbine_brake_for_SIG_MPX_by_TACCOM
-/wiki/Bulletec_ST-6012_5.56x45_Flash_hider_for_AR-15
-/wiki/Lantac_%22Blast_mitigation_device%22_7.62x51
-/wiki/Nordic_Corvette_7.62x51_muzzle_brake_for_AR-10
-/wiki/Nordic_Corvette_5.56x45_compensator_for_AR-15
-/wiki/Daniel_Defense_Wave_Muzzle_Brake_5.56x45
-/wiki/Daniel_Defense_Wave_Muzzle_Brake_7.62x51
-/wiki/Thunder_Beast_223CB_Muzzle_brake_5.56x45
-/wiki/Thunder_Beast_30CB_Muzzle_Brake_7.62x51
-/wiki/KAC_QDC_Flash_suppressor_kit_7.62x51_flash_hider
-/wiki/Orsis_T-5000M_muzzle_brake
-/wiki/Desert_Tech_.308_Flash_hider
-/wiki/Surefire_FH556RC_5.56x45_Flash_hider_for_AR-15
-/wiki/Anarchy_Outdoors_Muzzle_Brake_.45_ACP
-/wiki/Regular_RFB_7.62x51_Flash_hider
-/wiki/Ferfrans_%22CRD%22_5.56x45
-/wiki/Ferfrans_Muzzle_Brake_5.56x45
-/wiki/JMAC_RRD-4C_7.62x39_muzzle_brake_for_AKM_type_thread
-/wiki/JMAC_RRD-4C_muzzle_brake_for_AK-74_type_thread
-/wiki/SilencerCo_AC-858_ASR_.338_LM_Muzzle_brake
-/wiki/3-prong_SIG_Flash_hider_7.62x51
-/wiki/SIG_micro_brake_muzzle_brake_7.62x51
-/wiki/SIG_Two_Port_brake_muzzle_brake_7.62x51
-/wiki/KRISS_Vector_9x19_Flash_hider
-/wiki/Kriss_Vector_.45_ACP_Flash_hider
-/wiki/STM-9_9x19_muzzle_brake
-/wiki/AR-10_SureFire_ProComp_7.62x51_muzzle_brake
-/wiki/Gemtech_ONE_7.62x51_Sound_Suppressor
-/wiki/AAC_Illusion_9_9x19mm_silencer
-/wiki/Sig_SRD_9_9x19mm_sound_suppressor
-/wiki/Regular_SV-98_7.62x54_silencer
-/wiki/Surefire_SOCOM556-MONSTER_5.56x45_silencer
-/wiki/Surefire_SOCOM556-MINI_MONSTER_5.56x45_Silencer
-/wiki/B%26T_Rotex_2_4.6x30_silencer
-/wiki/Bramit_silencer_for_a_Mosin_rifle
-/wiki/Hexagon_12K_sound_suppressor
-/wiki/PBS-4_5.45x39_Silencer
-/wiki/Hexagon_AK-74_5.45x39_sound_suppressor
-/wiki/Hexagon_SKS_7.62x39_sound_suppressor
-/wiki/Zenit_DTK-4M_muzzle_brake
-/wiki/Hexagon_AKM_7.62x39_sound_suppressor
-/wiki/Rotor_43_9x19_muzzle_brake
-/wiki/Rotor_43_7.62x39_muzzle_brake
-/wiki/Rotor_43_.366TKM_muzzle_brake
-/wiki/Rotor_43_5.56x45_muzzle_brake
-/wiki/Silencer_APB_9x18PM
-/wiki/SilencerCo_Salvo_12_sound_suppressor
-/wiki/MP5SD_9x19_silencer
-/wiki/AAC_762_SDN-6_7.62x51_Sound_Suppressor
-/wiki/SilencerCo_Osprey_9_9x19mm_sound_suppressor
-/wiki/SR1MP_silencer_9x21
-/wiki/Silencerco_Hybrid_46_multi-caliber_silencer
-/wiki/Vityaz_9x19_sound_suppressing_device
-/wiki/TT_7.62x25_makeshift_sound_suppressor
-/wiki/Fischer_Development_FD917_suppressor
-/wiki/Alpha_Dog_Alpha_9_9x19_sound_suppressor
-/wiki/KAC_QDSS_NT-4_5.56x45_silencer
-/wiki/MPX-SD_9x19_Integrated_silencer
-/wiki/VSS_Vintorez_9x39_integral_barrel-suppressor
-/wiki/PBS-1_7.62x39_silencer
-/wiki/Stock_silencer_for_PB_9x18_PM
-/wiki/TGP-A_5.45x39_muzzle_device/suppressor
-/wiki/AS_VAL_9x39_integral_barrel-suppressor
-/wiki/PP-91-01_Kedr-B_9x18PM_suppressor
-/wiki/ASh-12_12.7x55_tactical_suppressor
-/wiki/FN_Attenuator_5.7x28_silencer
-/wiki/Daniel_Defence_Wave_QD_Sound_Suppressor
-/wiki/Gemtech_SFN-57_5.7x28mm_silencer
-/wiki/Thunder_Beast_Ultra_5_Sound_Suppressor
-/wiki/KAC_PRS_QDC_7.62x51_Sound_Suppressor
-/wiki/Rotor_43_7.62x54_muzzle_brake
-/wiki/B%26T_MP9_9x19mm_sound_suppressor
-/wiki/AK_Hexagon_DTKP_MK.2_7.62x39_sound_suppressor
-/wiki/Surefire_SOCOM556-RC2_5.56x45_silencer
-/wiki/Rotor_43_7.62x51_muzzle_brake_for_VPO-101
-/wiki/SIG_Sauer_SRD762Ti_7.62x51_sound_suppressor
-/wiki/Sig-Sauer_SRD_QD_7.62x51_Sound_Suppressor
-/wiki/SilencerCo_Omega_45k_.45_ACP_sound_suppressor
-/wiki/PL-15_9x19mm_sound_suppressor
-/wiki/SilencerCo_SAKER_ASR_556_5.56x45_sound_suppressor
-/wiki/ELCAN_SpecterDR_1x/4x_Scope
-/wiki/Leupold_Mark_4_HAMR_4x24mm_DeltaPoint_hybrid_assault_scope
-/wiki/Primary_Arms_Compact_prism_scope_2.5x
-/wiki/Sig_BRAVO4_4X30_Scope
-/wiki/Trijicon_ACOG_3.5x35_scope
-/wiki/Trijicon_ACOG_TA01NSN_4x32_scope
-/wiki/Valday_PS-320_1x/6x_Scope
-/wiki/Monstrum_Compact_prism_scope_2x32
-/wiki/Aimpoint_COMP_M4_reflex_sight
-/wiki/Cobra_EKP-8-02_reflex_sight
-/wiki/Cobra_EKP-8-18_reflex_sight
-/wiki/Eotech_553_holographic_sight
-/wiki/Eotech_EXPS3_holographic_sight
-/wiki/Eotech_HHS-1_sight
-/wiki/Eotech_XPS3-0_holographic_sight
-/wiki/Eotech_XPS3-2_holographic_sight
-/wiki/Holosun_HS401G5_reflex_sight
-/wiki/OKP-7_reflex_sight
-/wiki/OKP-7_reflex_sight_(Dovetail)
-/wiki/VOMZ_Pilad_P1X42_%22WEAVER%22_reflex_sight
-/wiki/Valday_PK-120_(1P87)_holographic_sight
-/wiki/Valday_Krechet_reflex_sight
-/wiki/Vortex_Razor_AMG_UH-1_holographic_sight
-/wiki/Walther_MRS_reflex_sight
-/wiki/FN_Ring_sight_reflex_sight
-/wiki/Trijicon_SRS-02_reflex_sight
-/wiki/Belomo_PK-06_reflex_sight
-/wiki/Aimpoint_Micro_T-1_reflex_sight
-/wiki/Burris_FastFire_3_Reflex_Sight
-/wiki/Leupold_DeltaPoint_Reflex_Sight
-/wiki/Trijicon_RMR
-/wiki/Sig_Sauer_Romeo_4_reflex_sight
-/wiki/VPO-101_Standard_Rearsight
-/wiki/SVDS_frontsight
-/wiki/SVDS_Rearsight
-/wiki/Izhmash_Rearsight_base_for_RPK-16
-/wiki/Izhmash_Rearsight_for_RPK-16
-/wiki/Mosin_carbine_Rearsight
-/wiki/Trijicon_ACOG_backup_rear_sight
-/wiki/Meprolight_%22Tru_Dot_Night_Sight%22_Frontsight_for_P226
-/wiki/Meprolight_Tru_Dot_Night_Sight_rear_sight_for_P226
-/wiki/KAC_Folding_sight_Rear
-/wiki/KAC_Folding_sight_Frontsight
-/wiki/HK_416A5_Flip_Up_Rearsight
-/wiki/MP7_Flip_Up_Frontsight
-/wiki/MP7_Flip_Up_Rearsight
-/wiki/Magpul_MBUS_Gen2_front_flip-up_sight
-/wiki/Magpul_MBUS_Gen2_rear_flip-up_sight
-/wiki/DS_Arms_Holland_Type_Rearsight_for_SA-58
-/wiki/M1A_SA_National_Match_.062_Blade_front_sight
-/wiki/AR-15_rear_sight_carry_handle
-/wiki/Mosin_frontsight
-/wiki/Mosin_Rearsight
-/wiki/AK-105_Standard_Rearsight_(6P44_Sb.1-30)
-/wiki/AK-74M_Standard_Rearsight_(6P20_Sb.2)
-/wiki/M14_Enlarged_Military_Aperture_Rearsight
-/wiki/APB_Rearsight
-/wiki/APS_Rearsight
-/wiki/APS_Frontsight
-/wiki/M1A_SA_XS_Post_.125_blade_front_sight
-/wiki/SIG_MPX_Flip_Up_Frontsight
-/wiki/AR-15_UTG_Low_Profile_A2_front_sight
-/wiki/Sig_Sauer_Standard_Frontsight
-/wiki/SIG_MPX_Flip_Up_Rearsight
-/wiki/Colt_A2_Rearsight_AR-15
-/wiki/HK_MP5_Drum_Rearsight
-/wiki/Sig_Sauer_P226_Standard_Rearsight
-/wiki/Izhmash_SOK-12_rear_sight
-/wiki/SKS_Standard_Rearsight
-/wiki/Izhmash_SV-98_Rearsight
-/wiki/AS_VAL_Standard_rear_sight
-/wiki/VSS_Vintorez_Standard_Rearsight
-/wiki/Dead_Ringer_Snake_Eye_Glock_front_sight
-/wiki/Glock_Front_Sight
-/wiki/Truglo_TFX_Glock_front_sight
-/wiki/Glock_ZEV_Tech_Front_sight
-/wiki/Dead_Ringer_Snake_Eye_Glock_rear_sight
-/wiki/Glock_Rear_Sight
-/wiki/Truglo_TFX_Glock_rear_sight
-/wiki/Glock_ZEV_Tech_Rear_sight
-/wiki/AK-74_Standard_Rearsight_(6P1_Sb.2)
-/wiki/AKM_Standard_Rearsight_(6P1_Sb.2-1)
-/wiki/AKMB_system_rear_sight
-/wiki/AKMP_system_front_sight_device
-/wiki/AKMP_system_rear_sight_device
-/wiki/AKM_/_VPO-209_Standard_Rearsight
-/wiki/Tactica_Tula_TT01_Rearsight_Weaver_Adapter
-/wiki/Sight_Mount_Sig_220-239_rear_sight_bearing
-/wiki/Izhmash_rear_sight_for_PP-19-01
-/wiki/SOK-12_CSS_SIGHT_RAIL_MOUNT_rear_sight
-/wiki/M9A3_Standard_Frontsight
-/wiki/Beretta_M9A3_Standard_Rearsight
-/wiki/Sight_Mount_M9_rear_sight_bearing
-/wiki/ASh-12_rear_sight_carry_handle
-/wiki/ASh-12_Folding_sight_Frontsight
-/wiki/Five-seveN_Standard_Rear-sight
-/wiki/Five-seveN_MK2_Standard_Frontsight
-/wiki/KAC_Folding_micro_sight_Rear
-/wiki/KAC_Folding_micro_sight_Frontsight
-/wiki/B%26T_MP9_Standard_Rear-sight
-/wiki/M1911A1_Front_Sight
-/wiki/M1911A1_Rear_Sight
-/wiki/Ghost_ring_kit_M590_Frontsight
-/wiki/Ghost_ring_Rear_sight_for_M590
-/wiki/Novak_Lomount_Rear_Sight
-/wiki/Novak_Lomount_Front_Sight
-/wiki/Kriss_%22Defiance_Low_Profile_Flip_Up%22_Frontsight
-/wiki/KRISS_Defiance_Low_Profile_Flip-Up_rear_sight
-/wiki/SIG_MCX_Folding_sight_Frontsight
-/wiki/SIG_MCX_Flip_Up_sight_Rearsight
-/wiki/PL-15_rear_sight
-/wiki/PL-15_extended_rear_sight
-/wiki/PL-15_Standard_Frontsight
-/wiki/PL-15_extended_front_sight
-/wiki/PU_3.5x_riflescope
-/wiki/Nightforce_ATACR_7-35x56_riflescope
-/wiki/Leupold_Mark_4_LR_6.5-20x50_riflescope
-/wiki/Optical_scope_March_Tactical_3-24x42_FFP
-/wiki/Hensoldt_FF_4-16x56_scope
-/wiki/Zenit-Belomo_PSO_1_4x24_scope
-/wiki/Zenit-Belomo_PSO_1M2_4x24_scope
-/wiki/Zenit-Belomo_PSO_1M2-1_4x24_scope
-/wiki/EOtech_Vudu_1-6_riflescope
-/wiki/Burris_FullField_TAC_30_1-4x24_riflescope
-/wiki/NPZ_USP-1_4x_scope
-/wiki/KMZ_1P59_3-10x_riflescope
-/wiki/KMZ_1P69_3-10x_riflescope
-/wiki/VOMZ_Pilad_4x32_riflescope
-/wiki/NcSTAR_ADO_P4_Sniper_3-9x42_riflescope
-/wiki/Vulcan_MG_night_scope_3.5x
-/wiki/Trijicon_REAP-IR_thermal_riflescope
-/wiki/NSPU-M_night_Scope
-/wiki/FLIR_RS-32_2.25-9x_35mm_60Hz_thermal_riflescope
-/wiki/MP-155_Ultima_thermal_camera
-/wiki/Geissele_%22SCH%22_charging_handle_for_MPX
-/wiki/ADAR_2-15_charging_handle
-/wiki/HK_Extended_latch_Charging_Handle
-/wiki/AK_Zenit_RP-1_charging_handle
-/wiki/Badger_Ordnance_Tactical_Charging_Handle_Latch
-/wiki/Raptor_charging_handle_for_AR-15
-/wiki/AR-15_charging_handle
-/wiki/MP5_Cocking_Handle
-/wiki/SIG_double_latch_charging_handle_for_MPX
-/wiki/SIG_single_latch_charging_handle_for_MPX
-/wiki/FN_charge_handle_for_P90
-/wiki/K%26M_The_Handler_charge_handle_for_P90
-/wiki/MP5_Kurz_Cocking_Handle
-/wiki/KAC_Ambidextrous_Charging_Handle_for_AR-10
-/wiki/B%26T_charging_handle_for_MP9
-/wiki/KAC_Charging_Handle_for_SR-25
-/wiki/Geissele_ACH_charging_handle_for_AR-15
-/wiki/Avalanche_Mod.2_charging_handle_for_AR-15
-/wiki/Sig-Sauer_charging_handle_for_MCX
-/wiki/MASP_Ambi_battle_charging_handle_for_AR-15
-/wiki/F5_MPX_Drum_mag_50-round_9x19_magazine
-/wiki/TROY_Battlemag_5.56x45_STANAG_30-round_magazine
-/wiki/ProMag_AALVX_35_7.62x39_35-round_SKS_magazine.
-/wiki/MPX_with_TTI_Base_pad_%2B11_41-round_9x19_magazine
-/wiki/7.62x51_metal_magazine_for_VPO-101_and_compatibles,_10-round_capacity
-/wiki/5-shot_MC_20-01_Sb.3_20ga_magazine_for_TOZ-106
-/wiki/20-round_SVD_7.62x54_magazine
-/wiki/7.62x51_metal_magazine_for_VPO-101_and_compatibles,_5-round_capacity
-/wiki/ProMag_AK-A-16_73-round_7.62x39_magazine_for_AKM_and_compatibles
-/wiki/P226_Extended_magazine_9x19
-/wiki/HK_PM_Gen.2_5.56x45_STANAG_30-round_magazine
-/wiki/Special:Upload?wpDestFile=Editing_SKS_7.62x39_10-round_internal_box_magazine_icon.png
-/wiki/10-round_SVD_7.62x54_magazine
-/wiki/HK_Polymer_mag_30_5.56x45_STANAG_30-round_magazine
-/wiki/5.56x45_MAG5-100_STANAG_100-round_magazine
-/wiki/Standard_MPX_20-round_9x19_magazine
-/wiki/PUFGUN_SG-919_20_20-round_9x19_magazine_for_PP-19-01
-/wiki/PUFGUN_SG-919_30_30-round_9x19_magazine_for_PP-19-01
-/wiki/Arsenal_CWP_30-round_5.56x45_magazine_for_SLR-106_and_compatible_weapons
-/wiki/HK_Steel_Maritime_5.56x45_STANAG_30-round_magazine
-/wiki/Remington_M700_.308_Wyatt%27s_Outdoor_5-round_magazine
-/wiki/Remington_M700_.380_Wyatt%27s_Outdoor_10-round_magazine
-/wiki/95-round_5.45x39_magazine_for_RPK-16_and_compatibles
-/wiki/30-round_5.45x39_magazine_for_AK-12_and_compatibles
-/wiki/7.62x54r_ProMag_OPFOR_for_Archangel_Mosin_rifle_kit,_10-round_capacity
-/wiki/British_FAL/L1A1_7.62x51_30_rnd_magazine
-/wiki/X-14_M14_50_round_7.62x51_magazine
-/wiki/M14_30_round_7.62x51_magazine
-/wiki/Regular_4rnd_magazine_for_Mosin_rifle
-/wiki/PMAG_GEN_M3_30_5.56x45_STANAG_30-round_magazine
-/wiki/6L29_30-round_5.56x45_magazine_for_AK-101_and_compatible_weapons
-/wiki/30-round_7.62x39_magazine_for_AK-103_and_compatible_weapons
-/wiki/M1A_20_round_7.62x51_magazine
-/wiki/PMAG_GEN_M3_10_5.56x45_STANAG_10-round_magazine
-/wiki/Pmag_30_AK74_GEN_M3_5.45x39_magazine_for_AK_and_compatibles,_30-round_capacity
-/wiki/30-round_SR3M.130_9x39_SR3M_magazine
-/wiki/SAI-02_10-round_12x76_magazine_for_SOK-12_and_compatible_weapons
-/wiki/8-shell_MP-133x8_12ga_magazine
-/wiki/Izhmash_6L10_7.62x39_magazine_for_AK_and_compatibles,_30-round_capacity
-/wiki/7.62x39_ribbed_metal_magazine_for_AK_and_compatibles,_10-round_capacity
-/wiki/SR1-MP_magazine
-/wiki/P226_magazine
-/wiki/20-round_6L25_9x39_VSS_magazine
-/wiki/30-round_6L23_5.45x39_magazine_for_AK-74_and_compatibles
-/wiki/45-round_6L26_5.45x39_magazine_for_AK-74_and_compatibles
-/wiki/DVL-10_.308_10-round_magazine
-/wiki/MP-443_9x19_18-round_magazine
-/wiki/Standard_MP5_30-round_9x19_magazine
-/wiki/Glock_9x19_magazine
-/wiki/Standard_MPX_30-round_9x19_magazine
-/wiki/6-shell_MP-133x6_12ga_magazine
-/wiki/MP-153_forend_cap
-/wiki/X_Products_X-5_MP5_50-round_9x19_magazine
-/wiki/MP-153_5-rd_magazine_extension
-/wiki/MP-153_6-rd_magazine_extension
-/wiki/MP-153_7-rd_magazine_extension
-/wiki/MP-153_8-rd_magazine_extension
-/wiki/60-round_6L31_5.45x39_magazine_for_AK-74_and_compatibles
-/wiki/Palm_US_AK30_7.62x39_magazine_for_AK_and_compatibles,_30-round_capacity
-/wiki/TT-105_7.62x25_TT_Magazine
-/wiki/PM/PPSH_9x18PM_84-round_drum_mag_for_PM
-/wiki/90-93_9x18PM_Magazine,_for_8_PM_rounds
-/wiki/Sb.5_5-round_12/76_magazine_for_SOK-12_and_compatible_weapons
-/wiki/ProMag_SKS-A5_7.62x39_20-round_SKS_magazine
-/wiki/6L20_30-round_5.45x39_magazine_for_AK-74_and_compatible_weapons
-/wiki/10-round_6L24_9x39_VSS_magazine
-/wiki/6L18_45-round_5.45x39_magazine_for_AK-74_and_compatible_weapons
-/wiki/Izhmash_AK_magazine_(issued_%E2%80%9855_or_later)_30-round_for_7.62x39_AK_and_compatibles
-/wiki/Izhmash_7.62x39_AKMS_aluminium_magazine_for_AK_and_compatibles,_30-round_capacity
-/wiki/10-round_Saiga_545_5.45x39_magazine_for_AK-74_and_compatibles
-/wiki/10-round_polymer_magazine_7.62x54R_for_SV-98
-/wiki/Molot_6P2.Sb-11_7.62x39_magazine_for_AK_and_compatibles,_40-round_capacity
-/wiki/PMAG_30_AK/AKM_GEN_M3_7.62x39_magazine_for_AK_and_compatibles,_30-round_capacity
-/wiki/Standard_APS_9x18PM_20-round_magazine
-/wiki/10-round_Izh.9x19_Sb.7_magazine
-/wiki/Standard_PP-19-01_30-round_9x19_magazine
-/wiki/Standard_9x18PM_20-round_magazine_for_PP-91
-/wiki/Standard_9x18PM_30-round_magazine_for_PP-91
-/wiki/5.56x45_Colt_AR-15_STANAG_30-round_magazine
-/wiki/Magpul_PMAG_D-60_5.56x45_60-round_magazine
-/wiki/PMAG_GEN_M3_20_5.56x45_STANAG_20-round_magazine
-/wiki/40-round_PMAG_GEN_M3_40_5.56x45_STANAG_magazine
-/wiki/PMAG_GEN_M3_W_30_5.56x45_STANAG_30-round_magazine
-/wiki/60-round_MAG5-60_5.56x45_STANAG_magazine
-/wiki/PMAG_SR/LR_GEN_M3_20_7.62x51_20_rnd
-/wiki/2-shot_MC_20-01_Sb.3_20ga_magazine_for_TOZ-106
-/wiki/4-shot_MC_20-01_Sb.3_20ga_magazine_for_TOZ-106
-/wiki/10-shell_M870x10_12ga_magazine
-/wiki/7-shell_M870x7_12ga_magazine
-/wiki/Pmag_GL9_polymer_magazine
-/wiki/SGMT_Drum_mag_for_Glock_9x19,_50_rounds_capacity
-/wiki/4-shell_M870_12ga_magazine_cap
-/wiki/Glock_9x19_%22Big_Stick%22_33-round_magazine
-/wiki/FAL/SA-58_7.62x51_20_rnd
-/wiki/FAL/SA-58_7.62x51_30_rnd
-/wiki/FAL/SA-58_7.62x51_10_rnd
-/wiki/X-FAL_FAL/SA-58_7.62x51_50_rnd_magazine
-/wiki/FAL/SA-58_%22MMW%22_7.62x51_20_rnd_plastic_mag
-/wiki/Bakelite_7.62x39_magazine_for_AK_and_compatibles,_40-round_capacity
-/wiki/Izhmash_7.62x39_AK_aluminium_magazine_for_AK_and_compatibles,_10-round_capacity
-/wiki/Standard_MP7_20-round_4.6x30_magazine
-/wiki/MP7_4.6x30_30-round_magazine
-/wiki/Standard_MP7_40-round_4.6x30_magazine
-/wiki/M9A3_9x19_17-round_magazine
-/wiki/12.7x55_magazine_for_ASh-12,_10-round_capacity
-/wiki/12.7x55_magazine_for_ASh-12,_20-round_capacity
-/wiki/X-47_AK_7.62x39_50_rnd_magazine
-/wiki/Molot_magazine_for_AK_and_compatibles,_75-round_capacity
-/wiki/FN_magazine_for_P90,_50-round_capacity
-/wiki/Magpul_PMAG_.308_AC_5-round_M700_magazine
-/wiki/Promag_AA-70_10-round_.308_M700_magazine
-/wiki/Promag_AA-70_20-round_.308_M700_magazine
-/wiki/MaxRounds_Powermag_20-round_12/76_magazine_for_SOK-12_and_compatible_weapons
-/wiki/5-round_.308_AICS_M700_magazine
-/wiki/Remington_M700_.308_AICS_10-round_magazine
-/wiki/12-round_.308_MDT_AICS_M700_magazine
-/wiki/Magpul_PMAG_.308_AC_10-round_M700_magazine
-/wiki/Standard_MP5_20-round_9x19_magazine
-/wiki/Five-seveN_20-Round_5.7x28_magazine
-/wiki/Standard_9x19_15-round_magazine_for_MP9
-/wiki/Standard_9x19_20-round_magazine_for_MP9
-/wiki/Standard_9x19_25-round_magazine_for_MP9
-/wiki/Standard_9x19_30-round_magazine_for_MP9
-/wiki/KAC_Steel_10_7.62x51_10_rnd
-/wiki/KAC_Steel_20_7.62x51_20_rnd
-/wiki/Metal_magazine_for_VPO-215_and_compatibles,_.366_TKM_4-round_capacity
-/wiki/5-round_.308_T-5000_magazine
-/wiki/35-round_7.62x25_magazine_for_PPSH-41
-/wiki/71-round_7.62x25_magazine_for_PPSH-41
-/wiki/M1911_.45_ACP_7-round_magazine
-/wiki/M1911A1_.45_ACP_Mec-Gar_11-round_magazine
-/wiki/8-shell_M590A1_12ga_magazine_cap
-/wiki/3-shell_KS-23M_23mm_magazine_cap
-/wiki/M45A1_.45_ACP_7-round_magazine
-/wiki/Glock_.45_ACP_magazine
-/wiki/Magex_G30_magazine_for_Glock_.45_ACP
-/wiki/Standard_UMP_25-round_.45_ACP_magazine
-/wiki/Sword_Int._Mk-18_.338_LM_10-round_magazine
-/wiki/PL-15_9x19_magazine,_16-round_capacity
-/wiki/Standard_Spacer_for_Aimpont_sight
-/wiki/SVDS_Upper_Band
-/wiki/34mm_one_piece_magmount_made_by_I-E-A_Mil_Optics
-/wiki/Dovetail_mount_for_TOZ-106
-/wiki/B-13V_rail_platform_above_reciever_%22Classic%22
-/wiki/TOZ-106_scope_mount
-/wiki/Aimpoint_LRP_mount_for_COMP_M4_sights.
-/wiki/B-13_rail_platform
-/wiki/Izhmash_RPK-16_rail
-/wiki/Stock_adapter_Tactica_Tula_12003_for_MP-133/153
-/wiki/Weaver_extended_multi-slot_base_for_Remington_model_700
-/wiki/30mm_ring-mount_Remington_integral_for_model_700_rifles
-/wiki/Remington_RAHG_2_inch_guide
-/wiki/Remington_RAHG_4_inch_guide
-/wiki/La_Rue_Tactical_picatinny_riser_QD_LT-101_mount
-/wiki/Compact_mount_for_sights
-/wiki/Aim_Sports_%22Tri-Rail%22_rail_for_Mosin_rifle
-/wiki/Aim_Sports_MNG_rail_for_Mosin_rifle
-/wiki/Vltor_CASV_5_inch_guide
-/wiki/Vltor_CASV_4_inch_guide
-/wiki/Vltor_CASV_2_inch_guide
-/wiki/Short_length_rail_for_Hexagon
-/wiki/Magpul_M-LOK_4.1_inch_guide
-/wiki/Magpul_M-LOK_2.5_inch_guide
-/wiki/Medium_length_rail_for_Hexagon
-/wiki/Troy_QARS_4.2_inch_guide
-/wiki/PU_3.5x_ring_mount
-/wiki/Kochetov_Mount_for_Mosin_rifle
-/wiki/30mm_rings_made_by_Nightforce
-/wiki/Armasight_universal_base
-/wiki/Alexander_Arms_10_inch_guide
-/wiki/Alexander_Arms_3_inch_guide
-/wiki/30mm_ring-mount_AR-_P.E.P.R._made_by_Burris
-/wiki/Troy_QARS_3.2_inch_guide
-/wiki/Sig_Sauer_mount_for_the_sights_of_Romeo_series.
-/wiki/M14_UTG_4_point_locking_deluxe_mount
-/wiki/Arms_18_mount_for_M14
-/wiki/M14_Mini_Scout_mount
-/wiki/M14_Ultimak_M8_upper_part
-/wiki/M14_DCSB
-/wiki/M14_Vltor_CASV-14_rail_system
-/wiki/M1A_Socom_16_upper_part
-/wiki/34mm_one_piece_magmount_made_by_Nightforce_with_a_Multimount_rail
-/wiki/34mm_one_piece_magmount_made_by_Nightforce
-/wiki/B-3_mount_combo
-/wiki/Strike_industries_bridge_guide
-/wiki/Strike_Industries_KeyMod_6_inch_rail
-/wiki/Strike_industries_keymod_4_inch_guide
-/wiki/B%26T_3x_rail_mount_for_MP5
-/wiki/Trijicon_RMR_mount_for_ACOG_scopes
-/wiki/Axion_Cobra_mount
-/wiki/SR1MP_single_rail_mount
-/wiki/B%26T_MP5_SD_Tri_Rail_Ring_Mount
-/wiki/Tactica_Tula_10000_mount
-/wiki/SIG_MPX_Gen1_Handguard_2_inch_rail_adapter
-/wiki/MFI_HK_Universal_Low_Profile_Scope_Mount
-/wiki/B-8_mount
-/wiki/Aimpoint_Micro_Spacer_High
-/wiki/B-18_Mount
-/wiki/Aimpoint_mount_for_the_sights_of_Micro_series
-/wiki/B-3_mount
-/wiki/NcStar_MPR45_Backup_mount
-/wiki/High_profile_mount_for_Trijicon_RMR
-/wiki/Cross_Slot_Mount_base_for_Deltapoint_scopes
-/wiki/SR1MP_quad_rail_mount
-/wiki/Low_profile_mount_for_Trijicon_RMR
-/wiki/B-12_Mount
-/wiki/25_mm_mount_ring
-/wiki/TA51_Mount_for_sights
-/wiki/UNV_DLOC-IRD_Mount_for_sights
-/wiki/Trijicon_RMR_mount_for_a_Sig-Sauer_pistols
-/wiki/Burris_FastFire_Weaver_Base
-/wiki/SIG_MPX_Gen1_Handguard_4_inch_rail_adapter
-/wiki/UTG_SKS_SOCOM_Rail_mount
-/wiki/Pilad_043-02_Mount
-/wiki/Dovetail_OP-SKS_mount.
-/wiki/TOZ_6P29M_Mount
-/wiki/30mm_Scope_mount
-/wiki/Delta-tek_Sprut_mount_for_pump-action_shotguns
-/wiki/Rotor_43_RIS_mount_for_PP_Kedr
-/wiki/Kiba_Arms_International_SPRM_mount_for_pump-action_shotguns
-/wiki/JP_Enterprises_30mm_ring_scope_mount
-/wiki/SR1MP_silencer_mount
-/wiki/Vltor_CASV_KeyMod_2_inch_guide
-/wiki/Vltor_CASV_KeyMod_4_inch_guide
-/wiki/Vltor_CASV_keymod_6_inch_guide
-/wiki/Aimtech_glock_base
-/wiki/MTU-028SG_rail_for_M870
-/wiki/Mesa_Tactical_magazine_clamp_for_M870
-/wiki/XS_Short_rail_with_Ghost_ring_for_M870
-/wiki/Aimtech_Tiger_Shark
-/wiki/UM_Tactical_UM3_Sight_Mount
-/wiki/Bridge_Sight_Mount_for_P226
-/wiki/FN_EFFEN_90_rail
-/wiki/FN_side_rail_for_regular_P90_upper_receiver
-/wiki/FN_top_rail_for_regular_P90_upper_receiver
-/wiki/A*B_Arms_MOD_X_mount_for_M700
-/wiki/Magpul_inline_mount_for_PRO_700_chassis
-/wiki/Arbalet_Patriot_K%2BW_mount
-/wiki/KMZ_1P59_Dovetail_mount
-/wiki/KMZ_1P69_Weaver_mount
-/wiki/KAC_URX_3_3_inch_rail
-/wiki/FN_RMR_Mount_for_5-7_Mk.2
-/wiki/25mm_rings_made_by_UTG
-/wiki/SVD_Low_sidemount
-/wiki/B%26T_MP9_side_rail
-/wiki/B%26T_MP9_bottom_rail
-/wiki/ETMI-019_shotgun_rail_mount
-/wiki/Orsis_medium_length_rail
-/wiki/Orsis_long_length_rail
-/wiki/Orsis_scope_mount_for_T-5000M
-/wiki/VPO-215_scope_rail_mount
-/wiki/IzhMash_modern_rail_for_SVD
-/wiki/CAA_XD_RGL_mount_for_SVD
-/wiki/CAA_DRG_L-1_mount_for_SVD
-/wiki/CAA_DRG_L-1_mount_for_SVD
-/wiki/Tactical_rail_for_M590
-/wiki/NCStar_Trigger_guard_mount_for_M1911A1
-/wiki/Weigand_Weig-a-tinny_mount_for_M1911A1
-/wiki/Kel-Tec_RFB_handguard_rail
-/wiki/Kel-Tec_RFB_scope_mount_rail
-/wiki/HK_UMP_Bottom_rail
-/wiki/HK_UMP_Side_rail
-/wiki/KRISS_Vector_Bottom_rail
-/wiki/KRISS_Vector_Side_rail
-/wiki/KRISS_Mk.5_Modular_rail_for_Vector
-/wiki/SI_Advanced_receiver_extension_buffer_tube
-/wiki/Strike_Industries_Viper_Mod_1_stock
-/wiki/PPSh-41_stock
-/wiki/Polymer_stock_for_SVDS
-/wiki/Regular_VPO-101_%22Vepr_Hunter%22_stock
-/wiki/HK_E1_Stock_for_AR-15_and_compatible
-/wiki/PMM_%22ULSS%22_foldable_MCX/MPX_stock
-/wiki/Maxim_Defence_CQB_collapsing/telescoping_MCX/MPX_stock
-/wiki/Custom_cut_mosin_stock_for_TOZ-106
-/wiki/ADAR_2-15_wooden_stock
-/wiki/HK_End_Cap_Stock_for_MP5
-/wiki/Hogue_%22Overmolded_ghillie%22_stock_for_Remington_Model_700
-/wiki/Fab_Defence_buffer_tube_for_AGR-870
-/wiki/Fab_Defence_GLR-16-S_Stock
-/wiki/Mosin_carbine_stock
-/wiki/Mosin_rifle_sniper_carbine_stock
-/wiki/Sawn_off_regular_Mosin_rifle_stock
-/wiki/Sawn_off_Mosin_rifle_sniper_stock
-/wiki/Infantry_Mosin_rifle_stock
-/wiki/Izhmash_AK-12_regular_stock
-/wiki/Izhmash_RPK-16_buffer_tube
-/wiki/ProMag_Archangel_OPFOR_PRS_Mosin_rifle_stock
-/wiki/ATI_Monte_Carlo_Mosin_rifle_stock
-/wiki/Recoil_pad_from_Aim_Sports_for_Mosin_rifle
-/wiki/HK_%22Enhanced_Tube%22_buffer_tube
-/wiki/HK_Slim_Line_Stock
-/wiki/Regular_stock_for_HK_MP7A1
-/wiki/Regular_stock_for_HK_MP7A2
-/wiki/Polymer_stock_DSA_humpback_for_SA-58
-/wiki/DSA_SPR_stock_for_SA-58
-/wiki/SA-58_folding_stock
-/wiki/DSA_BRS_stock_for_SA-58
-/wiki/Magpul_PRS_2_polymer_stock_for_FAL
-/wiki/Buffer_Tube_adapter_for_SA-58
-/wiki/Zhukov-S_for_AK
-/wiki/F93_Pro_Stock
-/wiki/EMOD_Stock
-/wiki/Tapco_buffer_tube
-/wiki/ADAR_buffer_tube
-/wiki/M1A_Archangel_stock
-/wiki/M14_SAGE_International_M14ALCS_(MOD-0)_stock
-/wiki/M14_M14ALCS(MOD._0)_stock_(buttstock)
-/wiki/M870_Mesa_Tactical_LEO_stock_adapter
-/wiki/MC_20-01_stock
-/wiki/Regular_Mosin_rifle_stock
-/wiki/LMT_Sopmod_stock
-/wiki/Troy_S.A.S.S._Chassis_stock_for_M14
-/wiki/AKM/AK-74_PT_Lock
-/wiki/AK74/AK100_PT_Lock
-/wiki/Polymer_stock_for_AK-74M_(6P34_Sb.15)
-/wiki/Izhmash_shoulder_piece_for_AKMSN_(6P4_Sb.1-19)
-/wiki/IzhMash_metal_stock_for_AKS-74_(6P21_Sb.5)
-/wiki/M1A_Socom_16_stock
-/wiki/Fab_Defence_GL_Shock_Stock
-/wiki/MOE_Carbine_stock
-/wiki/HK_A2_Stock
-/wiki/Magpul_Rubber_Butt-Pad_for_Carbine_stock_series
-/wiki/TOZ_stock_for_TOZ-106
-/wiki/HK_A3_old_stock_model
-/wiki/Magpul_PRS_GEN2_FDE_stock
-/wiki/High_Standard_M4SS_Stock
-/wiki/ME_adapter_for_AK
-/wiki/Izhmash_shoulder_piece_for_AKMS_(6P4_Sb.1-19)
-/wiki/UBR_GEN2_stock
-/wiki/AKS-74/AKS-74U_PT_Lock
-/wiki/Izhmash_SOK-12_AK_type_stock
-/wiki/MFT_BUS_Stock
-/wiki/Zenit_PT-3_%22Klassika%22_stock
-/wiki/Zenit_PT-1_%22Klassika%22_stock
-/wiki/Molot_wooden_VPO-136_stock
-/wiki/Izhmash_metal_stock_for_AKS-74U_(6P26_Sb.5)
-/wiki/Wooden_stock_for_Molot_OP-SKS
-/wiki/Izhmash_wooden_AKM_stock_(6P1_Sb.5)
-/wiki/Wooden_stock_56-A-231_Sb.5
-/wiki/Izhmash_polymer_AK-74_stock_(6P20_Sb.7)
-/wiki/TSNIITochMash_VSS_Vintorez_stock
-/wiki/MP-133/153_plastic_pistol_grip
-/wiki/TSNIITochMash_AS_VAL_stock
-/wiki/APB_detachable_wire_stock
-/wiki/SIG_retractable_stock_pipe_adapter
-/wiki/Troy_M7A1_PDW_stock
-/wiki/Armacon_Baskak_stock
-/wiki/Wooden_stock_for_MP-133/153
-/wiki/Early_produced_SIG_collapsing/telescoping_MCX/MPX_stock
-/wiki/Plastic_stock_for_MP-133/153
-/wiki/Recoil_pad_from_GP-25_for_AK_Accessory_Kit
-/wiki/COLT_%22A2%22_buffer_tube
-/wiki/LOBAEV_Arms_Stock
-/wiki/Molot_wooden_VPO-209_stock
-/wiki/Colt_buffer_tube
-/wiki/Izhmash_wooden_AK-74_stock_(6P20_Sb.5)
-/wiki/Metal_Izhmash_stock_for_PP-19-01
-/wiki/SGA_stock_for_M870
-/wiki/Remington_SPS_Polymer_stock_for_M870
-/wiki/Raptor_grip_for_M870
-/wiki/Tapco_INTRAFUSE_Stock_for_SKS
-/wiki/Fab_Defense_UAS_for_AK
-/wiki/FN_P90_stock
-/wiki/FN_PS90_stock
-/wiki/FN_Butt_pad_for_P90
-/wiki/FN_P90_Damage_Industries_buttpad
-/wiki/M700_MOD_X_Gen.3_stock
-/wiki/Buffer_tube_side_folder_adapter_for_M700
-/wiki/Magpul_PRO_700_chassis
-/wiki/PRO_700_folding_stock
-/wiki/Promag_Archangel_polymer_stock_for_M700
-/wiki/CAA_AKTS_AK-74_Buffer_Tube_for_AK_and_compatible
-/wiki/CAA_AKTS_AK-74_Buffer_Tube_for_AK_and_compatible_(foldable)
-/wiki/Fab_Defence_UAS_Stock_for_SKS
-/wiki/Double_Star_Ace_Socom_gen.4_stock_for_AR-15
-/wiki/Double_Star_recoil_pad_0.5_for_ACE_stock_series
-/wiki/Magpul_CTR_Carbine_stock
-/wiki/Fab_Defence_GLR-17_Stock_for_Glock_and_compatible
-/wiki/AT_AICS_polymer_stock_for_M700
-/wiki/HK_End_Cap_Stock_for_MP5_Kurz
-/wiki/Magpul_PRS_GEN3_stock
-/wiki/Regular_stock_for_B%26T_MP9
-/wiki/Regular_VPO-215_stock
-/wiki/Orsis_T-5000M_Stock
-/wiki/Orsis_Aluminium_body_for_T-5000
-/wiki/Hexagon_%22Kocherga%22_stock_red
-/wiki/Polymer_stock_for_M590A1
-/wiki/SGA_stock_for_M590
-/wiki/LEO_stock_adapter_gen.1_for_M590
-/wiki/Mesa_Tactical_Crosshair_Hydraulic_buffer_tube
-/wiki/Wooden_stock_for_KS-23
-/wiki/Wired_stock_for_KS-23M
-/wiki/VPO-101_SVD_style_stock
-/wiki/SIG_Sauer_telescoping_MCX/MPX_stock
-/wiki/SIG_Sauer_Thin_lightweight_MCX/MPX_stock
-/wiki/B5_Precision_stock
-/wiki/KRISS_Defiance_DS150_stock
-/wiki/Polymer_stock_for_UMP
-/wiki/KRISSVector_Gen.2_folding_stock
-/wiki/KRISS_Vector_non_folding_stock_adapter
-/wiki/Kriss_Vector_Pistol_Sling_Adapter
-/wiki/Fab_Defence_GL_Core_Stock
-/wiki/STM_Arms_buffer_tube
-/wiki/HK_416A5_5.56x45_10.6_inch_barrel
-/wiki/MPX_9x19_10.5_inch_barrel
-/wiki/6.5%22_9x19_barrel_for_MPX
-/wiki/406mm_barrel_for_MDR_and_compatible_5.56x45
-/wiki/22%22_barrel_for_a_SVDS_7.62x54
-/wiki/4.5%22_9x19_barrel_for_MPX
-/wiki/14%22_9x19_barrel_for_MPX
-/wiki/406mm_Molot_barrel_for_AR-15_and_compatible_5.56x45
-/wiki/20%22_barrel_for_a_Remington_M700_7.62x51_NATO
-/wiki/26%22_barrel_for_a_Remington_M700_7.62x51_NATO
-/wiki/Sawn_off_200mm_Mosin_barrel
-/wiki/Sawn_off_220mm_Mosin_barrel
-/wiki/Regular_514mm_Mosin_carbine_barrel
-/wiki/15%22_barrel_for_RPK-16_and_compatible_5.45x39
-/wiki/22%22_barrel_for_RPK-16_and_compatible_5.45x39
-/wiki/11%22_barrel_for_416A5_and_compatible_5.56x45
-/wiki/14.5%22_barrel_for_416A5_and_compatible_5.56x45
-/wiki/16.5%22_barrel_for_416A5_and_compatible_5.56x45
-/wiki/20%22_barrel_for_416A5_and_compatible_5.56x45
-/wiki/11%22_barrel_for_SA-58_7.62x51
-/wiki/16%22_barrel_for_SA-58_7.62x51
-/wiki/21%22_barrel_for_SA-58_7.62x51
-/wiki/22%22_barrel_for_a_M1A_7.62x51_NATO
-/wiki/Regular_730mm_Mosin_barrel
-/wiki/16%22_barrel_for_a_M1A_7.62x51_NATO
-/wiki/18%22_barrel_for_a_AR-10_and_compatible_7.62x51_NATO
-/wiki/510mm_barrel_for_MP-133_12ga
-/wiki/500mm_.308_barrel_for_DVL-10
-/wiki/116mm_7.62x25_TT_barrel
-/wiki/116mm_7.62x25_TT_gilded_barrel
-/wiki/Homespun_121mm_7.62x25_TT_barrel_with_threading
-/wiki/Threaded_barrel_for_P226_9x19
-/wiki/260mm_barrel_for_AR-15_and_compatible_5.56x45
-/wiki/370mm_barrel_for_AR-15_and_compatible_5.56x45
-/wiki/165_mm_9x19_barrel_for_MPX-SD
-/wiki/203_mm_9x19_barrel_for_MPX
-/wiki/510mm_barrel_for_MP-133_12ga_shotgun_with_rib
-/wiki/MP-133_12ga_540mm_barrel
-/wiki/540mm_barrel_for_MR-133_12ga_shotgun_with_rib
-/wiki/610mm_barrel_for_MP-133_12ga_shotgun
-/wiki/610mm_barrel_for_MP-133_12ga_shotgun_with_rib
-/wiki/MP-133_12ga_660mm_barrel
-/wiki/660mm_barrel_for_MP-133_12ga_shotgun_with_rib
-/wiki/710mm_barrel_for_MP-133_12ga_shotgun
-/wiki/710mm_barrel_for_MR-133_12ga_shotgun_with_rib
-/wiki/750mm_barrel_for_MP-133_12ga_shotgun
-/wiki/750mm_barrel_for_MP-133_12ga_shotgun_with_rib
-/wiki/610_mm_barrel_for_MP-153_12ga_shotgun
-/wiki/660_mm_barrel_for_MP-153_12ga_shotgun
-/wiki/750_mm_barrel_for_MP-153_12ga_shotgun
-/wiki/112mm_barrel_for_P226_9x19
-/wiki/660mm_.308_barrel_for_DVL-10_M2
-/wiki/22%22_barrel_for_a_AR-10_and_compatible_7.62x51_NATO
-/wiki/710_mm_barrel_for_MP-153_12ga_shotgun
-/wiki/Threaded_barrel_for_Glock_9x19_manufactured_by_Lone_Wolf.
-/wiki/660mm_vent_rib_barrel_for_M870_12ga
-/wiki/508mm_barrel_for_M870_12ga
-/wiki/Basic_barrel_for_Glock_17_9x19
-/wiki/Cut_off_325mm_barrel_for_M870_12ga
-/wiki/355mm_barrel_for_M870_12ga
-/wiki/508mm_barrel_for_M870_12ga_with_a_fixed_sight
-/wiki/Threaded_barrel_for_Glock_9x19_manufactured_by_Double_Diamond
-/wiki/Barrel_with_compensator_for_Glock_17_9x19
-/wiki/Threaded_barrel_for_Glock_9x19_manufactured_by_Salient_Arms
-/wiki/Barrel_with_compensator_for_Glock_18C_9x19
-/wiki/Threaded_barrel_for_M9A3_9x19
-/wiki/FN_P90_5.7x28_10.5_inch_barrel
-/wiki/16%22_barrel_for_P90_5.7x28
-/wiki/26%22_stainless_steel_barrel_for_a_Remington_M700_7.62x51_NATO
-/wiki/20%22_stainless_steel_barrel_for_a_Remington_M700_7.62x51_NATO
-/wiki/Barrel_for_Five-seveN_5.7x28
-/wiki/Threaded_barrel_for_Five-seveN_5.7x28
-/wiki/18%22_barrel_for_AR-15_and_compatible_5.56x45
-/wiki/20%22_barrel_for_AR-15_and_compatible_5.56x45
-/wiki/660mm_.308_barrel_for_T-5000
-/wiki/20%22_barrel_for_SR-25_and_compatible_7.62x51
-/wiki/16%22_barrel_for_SR-25_and_compatible_7.62x51
-/wiki/23%22_barrel_for_a_VPO-215_.366TKM
-/wiki/16_inch_.308_barrel_for_MDR_and_compatible
-/wiki/Standart_barrel_for_M1911A1_.45_ACP
-/wiki/PPSh-41_7.62x25_10.6_inch_barrel
-/wiki/20%22_barrel_for_M590_12ga
-/wiki/510mm_barrel_for_KS-23_23x75mm
-/wiki/700mm_barrel_for_KS-23_23x75mm
-/wiki/18%22_barrel_for_RFB_7.62x51
-/wiki/National_match_barrel_for_M1911_.45_ACP
-/wiki/Threaded_barrel_for_M1911A1_.45_ACP
-/wiki/171mm_barrel_for_MCX_and_compatible_.300_BLK
-/wiki/229mm_barrel_for_MCX_and_compatible_.300_BLK
-/wiki/5%22_barrel_for_Vector_9x19
-/wiki/6%22_barrel_for_Vector_9x19
-/wiki/5%22_Vector_barrel_.45_ACP
-/wiki/6%22_Vector_barrel_.45_ACP
-/wiki/8%22_barrel_for_UMP_.45_ACP
-/wiki/24%22_barrel_for_Mk-18_.338_LM
-/wiki/Regular_barrel_for_PL-15_9x19
-/wiki/Threaded_barrel_for_PL-15
-/wiki/STM-9_9x19_10.5_inch_barrel
-/wiki/12%22_barrel_for_STM-9_9x19
-/wiki/14%22_barrel_for_STM-9_9x19
-/wiki/16%22_barrel_for_STM-9_9x19
-/wiki/VPO-101_Gas_tube
-/wiki/SVDS_Gas_tube
-/wiki/HK_416A5_Regular_Low_Profile_Gas_Block
-/wiki/AK-74_Gas_tube
-/wiki/AKM_(6P1_Sb.1-2)_gas_tube
-/wiki/Molot_AKM_type_gas_tube
-/wiki/Kiba_Arms_VDM_CS_gas_tube
-/wiki/UltiMAK_M1-B_gas_tube_for_AK
-/wiki/Handguard_with_a_gas_block_combo_by_TROY_Industries_for_AK
-/wiki/PP-19-01_gas_tube
-/wiki/AKS-74U_Gas_tube
-/wiki/MK12_Low_Profile_Gas_Block
-/wiki/Colt_M4_Front_sight
-/wiki/Windham_Weaponry_Rail_Gas_Block
-/wiki/JP_Enterprises_Gas_System-6
-/wiki/JP_Enterprises_Gas_System-5b
-/wiki/VS-24_Handguard_with_a_VS-33c_gas_block_combo_for_AK
-/wiki/KAC_Low_Profile_Gas_Block
-/wiki/SIG_MCX_Gas_Block
-/wiki/Mk-18_Gas_Block
-/wiki/Lancer_OEM_14_inch_M-LOK_foregrip_for_MPX
-/wiki/Troy_Industries_13%22_M-LOK_foregrip_for_416A5
-/wiki/Strike_Industries_CRUX_15%22_M-LOK_foregrip_for_416A5
-/wiki/Desert_Tech_foregrip_for_MDR
-/wiki/HK_MRS_14%22_keymod_foregrip_for_416A5
-/wiki/Zenit_B-10_AK_Handguard
-/wiki/SAI_10%22_QD_Rail_foregrip_for_AR15
-/wiki/Midwest_14_inch_M-LOK_foregrip_for_MPX
-/wiki/Midwest_10.5_inch_M-LOK_foregrip_for_MPX
-/wiki/Midwest_4.5_inch_M-LOK_foregrip_for_MPX
-/wiki/Stngr_Vypr_10%22_M-LOK_foregrip_for_AR15
-/wiki/Daniel_Defence_RIS_II_12.25_foregrip_for_AR-15-compatible_systems
-/wiki/Magpul_MOE_SL_carbine_length_M-LOK_foregrip_for_AR15
-/wiki/Daniel_Defence_FDE_RIS_II_FSP_9.5_foregrip_for_AR-15-compatible_systems
-/wiki/Polymer_SVDS_handguard
-/wiki/SAI_14.5%22_QD_Rail_foregrip_for_AR15
-/wiki/Midwest_6.5_inch_M-LOK_foregrip_for_MPX
-/wiki/Midwest_9%22_M-LOK_foregrip_for_416A5
-/wiki/Magpul_Zhukov-U_HAND_GUARD_for_AK
-/wiki/Magpul_MOE_SL_mid_length_M-LOK_foregrip_for_AR15
-/wiki/Midwest_13.5%22_M-LOK_foregrip_for_416A5
-/wiki/Izhmash_RPK-16_regular_handguard
-/wiki/ADAR_2-15_wooden_stock_for_AR-15_and_compatibles
-/wiki/VLTOR_CMRD_Keymod_handguard_for_AK
-/wiki/HK_quadrail_handguard_for_416-compatible_systems
-/wiki/HK_quadrail_handguard_with_a_flip-up_sight_for_416-compatible_systems
-/wiki/HK_extended_quadrail_handguard_for_416-compatible_systems
-/wiki/DS_Arms_Quad_Rail_Full_Length_foregrip_for_SA-58
-/wiki/Vltor_CASV_FAS_foregrip_for_FAL
-/wiki/Vltor_CASV_FAL_foregrip_for_FAL
-/wiki/Original_Austrian_foregrip_for_a_FAL
-/wiki/DSA_Belgian_style_foregrip_for_a_FAL
-/wiki/Aim_sport_Universal_M-LOK_foregrip_for_FAL
-/wiki/SA-58/FAL_AIM_Sports_Universal_KeyMod_handguard
-/wiki/Hexagon_handguard_for_AK
-/wiki/DS_Arms_quad_rail_foregrip_for_SA-58
-/wiki/Handguard_MK_10_for_use_with_AR-15_and_compatible
-/wiki/Strike_industries_TRAX_1_foregrip
-/wiki/Strike_industries_TRAX_2
-/wiki/Colt_M4_Length_handguard_for_AR-15_and_compatibles
-/wiki/XRSU47SU_Tactical_Handguard_for_AKS-74U
-/wiki/MP5_TL-99_Aluminum_handguard
-/wiki/MP5_Wide_Tropical_Polymer_handguard
-/wiki/Wooden_AK-74_handguard_(6P20_Sb.6)
-/wiki/Magpul_MOE_AKM_HAND_GUARD_for_AK
-/wiki/LOBAEV_Arms_DVL-10_M2_handguard
-/wiki/Wooden_AKM_/_VPO-209_handguard
-/wiki/Wooden_AK-74_handguard_(6P1_Sb.6-1)
-/wiki/Wooden_VPO-136_handguard
-/wiki/Izhmekh_MP-153_Polymer_stock
-/wiki/Krebs_Custom_UFM_Keymod_System_handguard_for_AKM
-/wiki/MP5SD_Polymer_handguard
-/wiki/Izhmekh_MP-133_Beechwood_forestock
-/wiki/AKS-74U_Zenit_B-11_handguard
-/wiki/Handguard_SIG_MPX_Gen._1_for_MPX
-/wiki/Remington_Arms_handguard_for_a_R11_RSASS
-/wiki/Handguard_War_Sport_LVOA-C_blk._for_use_with_AR-15_and_compatible
-/wiki/Handguard_War_Sport_LVOA-S_blk._for_use_with_AR-15_and_compatible
-/wiki/AR-15_Daniel_Defense_RIS_II_9.5_handguard
-/wiki/SOK-12_aluminum_handguard_MTU002_Long_Top
-/wiki/Polymer_AK-74_foregrip_(6P20_Sb.9)
-/wiki/SOK-12_polymer_handguard_Sb.7-1
-/wiki/SOK-12_aluminum_handguard_MTU002_Short_Top
-/wiki/CAA_RS47_foregrip_for_AK-compatible_systems
-/wiki/B-10M_foregrip_and_rail_mount_B-19
-/wiki/Wooden_AKS-74U_Handguard_(6P26_Sb.6)
-/wiki/Knight%27s_Armament_KAC_RIS_handguard_for_AR-15_and_compatibles
-/wiki/Custom_plastic_MP-133_forestock_with_mounts
-/wiki/Fab_Defence_PR870_forestock
-/wiki/Magpul_MOE_M870_forestock
-/wiki/Speedfeed_short_M870_forestock
-/wiki/Polymer_AK-100_series_foregrip
-/wiki/Polymer_ASh-12_foregrip
-/wiki/A*B_Arms_MOD_X_Gen.3_keymod_handguard_for_M700
-/wiki/5.45_Design_%22Aggressor%22_handguard_for_AK
-/wiki/Strike_Industries_Viper_carbine_length_M-LOK_foregrip_for_AR-15
-/wiki/Noveske_SWS_N6_10.5_inch_foregrip_for_AR-10-compatible_systems
-/wiki/Noveske_SWS_N6_Split_handguard_for_AR-10-compatible_systems
-/wiki/CAA_HX-5_MP5_handguard
-/wiki/URX_3.1_10.75%22_handguard_for_AR15
-/wiki/URX_3_8%22_handguard_for_AR15
-/wiki/Alfa_Arms_Goliaf_AKS-74U_Handguard
-/wiki/PTR_Tri-Rail_MP5_handguard
-/wiki/TDI_AKM-L_handguard_for_AK
-/wiki/Wooden_CAF_WASR_10-63_handguard
-/wiki/MP5k_Polymer_handguard
-/wiki/Lone_Star_Ion_Lite_handguard_for_AR-15_and_compatible
-/wiki/URX-4_handguard_for_AR-10_and_compatible
-/wiki/Orsis_handguard_for_T-5000
-/wiki/SAG_MK1_Freefloat_Chassis_for_SVD
-/wiki/CAA_XRS_DRG_for_SVD
-/wiki/Izhmash_modern_handguard_for_SVD
-/wiki/Geissele_SMR_Mk.16_9.5_inch_M-LOK_handguard_for_AR-15
-/wiki/Geissele_SMR_Mk.16_13.5_inch_M-LOK_handguard_for_AR-15
-/wiki/Speedfeed_short_M590A1_forestock
-/wiki/Magpul_MOE_M590_forestock
-/wiki/B-30_foregrip_and_rail_mount_B-31%D0%A1
-/wiki/TOZ_KS-23M_forestock
-/wiki/Kel-Tec_RFB_regular_handguard
-/wiki/Lancer_LCH-7_12.5_inch_M-LOK_handguard_for_AR-10
-/wiki/SOK-12_aluminum_handguard_Bravo-18
-/wiki/X47_Tactical_Handguard_for_AK_and_compatible
-/wiki/SIG_12%22_keymod_foregrip_for_MCX
-/wiki/SIG_8%22_keymod_foregrip_for_MCX
-/wiki/Sword_int._18_inch_handguard_for_Mk-18
-/wiki/STM_9_inch_M-LOK_handguard_for_AR-15
-/wiki/STM_12_inch_M-LOK_handguard_for_AR-15
-/wiki/STM_15_inch_M-LOK_handguard_for_AR-15
-/wiki/US_Palm_pistol_grip_for_AK
-/wiki/HK_Grip_V.2_pistol_grip_for_AR-15_based_systems
-/wiki/Izhmash_SVDS_pistol_grip
-/wiki/Desert_Tech_pistol_grip_for_MDR
-/wiki/Razor_Arms_TT_rubber_grips
-/wiki/Hogue_like_TT_rubber_grips
-/wiki/Wooden_Sig_Sauer_Elite_pistol_grip_for_P226
-/wiki/Emperor_scorpion_Sig_Sauer_pistol_grip_for_P226
-/wiki/P226_Hogue_Chain_Link_pistol_grip
-/wiki/Axelson_Tacical_MK.25_pistol_grip_for_P226
-/wiki/PM-Laser_TT-206_side_grips_with_LAM
-/wiki/Fab_Defence_AGR-870_pistol_grip_for_Remington-870
-/wiki/Izhmash_AK-12_regular_pistol_grip
-/wiki/Tacfire_pistol_grip_for_Mosin_rifle
-/wiki/HK_%22Battle_Grip%22_pistol_grip_for_AR-15_based_systems
-/wiki/HK_Battle_Grip_with_Beavertail_pistol_grip_for_AR-15_based_systems
-/wiki/Fab_AG_FAL_pistol_grip_for_SA-58
-/wiki/SA-58_pistol_grip
-/wiki/TAPCO_SAW-Style_black_pistol_grip_for_SA-58
-/wiki/Rubber_with_finger_grooves_pistol_grip_for_P226
-/wiki/Magpul_MOE_pistol_grip_for_AK
-/wiki/M14ALCS(MOD._0)_pistol_grip_for_M14
-/wiki/PP-19-01_Izhmash_pistol_grip
-/wiki/TOZ_002_pistol_grip_for_TOZ-106
-/wiki/Polymer_Izhmekh_pistol_grip_for_MP-443
-/wiki/Sig_Sauer_pistol_grip_for_P226
-/wiki/TSNIITOCHMASH_bakelite_PB_side_grips
-/wiki/Fancy_TT_side_grips
-/wiki/Standard_TT_side_grips
-/wiki/Izhmash_AK_bakelite_pistol_grip_(6P4_Sb.8V)
-/wiki/Izhmash_AK_polymer_pistol_grip_(6P1_Sb.8)
-/wiki/Izhmash_AKM_bakelite_pistol_grip
-/wiki/Wooden_Izhmash_AKM_pistol_grip_for_AK
-/wiki/Izhmash_AK-74_Textolite_pistol_grip_(6P4_Sb.9)
-/wiki/Molot_AK_bakelite_pistol_grip
-/wiki/TAPCO_SAW-Style_pistol_grip_for_AK
-/wiki/Zenit_RK-3_AK_pistol_grip
-/wiki/APS_bakelite_side-pieces
-/wiki/Colt_A2_AR-15_pistol_grip
-/wiki/DI_ECS_FDE_pistol_grip_for_AR-15_based_systems
-/wiki/Hera_Arms_CQR_pistol_grip-stock
-/wiki/Hogue_OverMolded_Rubber_Grip
-/wiki/MIAD_Pistol_grip_for_AR-15_based_systems
-/wiki/Magpul_MOE_AR-15_pistol_grip
-/wiki/Naroh_Arms_GRAL-S_Pistol_grip_for_AR-15-compatible_weapons
-/wiki/Stark_AR_Rifle_Grip_for_AR-15-compatible_weapons
-/wiki/MPX_pistol_grip
-/wiki/ZMZ_Polymer_pistol_grip_for_PP-91
-/wiki/AS_VAL_Pistol_grip
-/wiki/Pachmayr_tactical_rubber_grip
-/wiki/Skeletonized_AR-15_pistol_grip
-/wiki/AS_VAL_Pistol_grip-buffer_tube
-/wiki/TAPCO_SAW-Style_pistol_grip_for_SKS_INTRAFUSE_Kit
-/wiki/Polymer_pistol_grip_for_M9A3
-/wiki/Hera_Arms_HG-15_pistol_grip_for_AR-15_based_systems
-/wiki/Magpul_Pistol_Grip_for_Pro_700_Kit
-/wiki/SI_Enhanced_pistol_grip_for_AK
-/wiki/KGB_MG-47_pistol_grip_for_AK
-/wiki/Fab_Defence_AG-58_pistol_grip_for_VZ-58
-/wiki/HK_Ergo_PSG-1_style_pistol_grip_for_AR-15_based_systems
-/wiki/Orsis_T-5000_Pistol_Grip
-/wiki/Standart_polymerpistol_grip_for_M1911A1
-/wiki/Pachmayr_%22American_legend_grip_423_for_M1911A1
-/wiki/Polymer_pistol_grip_for_KS-23M
-/wiki/Standart_polymerpistol_grip_for_M45A1
-/wiki/AK_Aeroknox_Scorpius_pistol_grip
-/wiki/SIG_MCX_pistol_grip
-/wiki/AR-15_DLG-123_pistol_grip
-/wiki/Molot_VPO-101_dust_cover
-/wiki/Izhmash_SVDS_dust_cover
-/wiki/Upper_receiver_ADAR_2-15_5.56x45_for_2-15_assault_rifle
-/wiki/Noveske_Gen.3_5.56x45_Upper_receiver_for_AR_systems
-/wiki/P226_Sig_Legion_full_size_pistol_slide
-/wiki/P226_Sig_Emperor_scorpion_pistol_slide
-/wiki/P226_Sig_Stainless_elite_pistol_slide
-/wiki/P226_Axelson_tactical_Mk.25_pistol_slide
-/wiki/Izhmash_regular_dust_cover_for_RPK-16
-/wiki/Upper_receiver_HK_416A5_5.56x45_for_416A5
-/wiki/Regular_dust_cover_for_FAL
-/wiki/DS_Arms_Extreme_Duty_dust_cover_for_SA58
-/wiki/Glock_18C_9x19_slide
-/wiki/Izhmash_AK-74M_dust_cover_(6P34_0-1)
-/wiki/Glock_9x19_Moto_Cut_slide
-/wiki/Izhmash_AK-74_dust_cover_(6P1_0-1)
-/wiki/Izhmash_AKM_dust_cover_(6P1_0-1)
-/wiki/Molot_AKM_type_dust_cover
-/wiki/AKS-74U_Dust_cover_(6P26_Sb.7)
-/wiki/Izhmash_AKS-74UB_Dust_cover
-/wiki/Izhmash_Vityaz_receiver_cover
-/wiki/Izhmash_SOK-12_Sb.0-2_dust_cover
-/wiki/AS_VAL_Dust_cover
-/wiki/VSS_Vintorez_dust_cover
-/wiki/Zenit_B-33_dust_cover_for_AK-74
-/wiki/Upper_receiver_Colt_M4A1_5.56x45_for_M4A1_assault_rifle
-/wiki/Vltor_MUR-1S_5.56x45_Upper_receiver_for_AR_systems
-/wiki/HK_MP5SD_Upper_receiver
-/wiki/HK_MP5_Upper_receiver
-/wiki/Upper_receiver_of_the_first_generation_SIG_MPX
-/wiki/SIG_Sauer_P226R_9x19_pistol_slide
-/wiki/Izhmash_Vityaz-SN_receiver_cover
-/wiki/Glock_Alpha_Wolf_Custom_slide
-/wiki/Polymer80_PS9_Glock_slide
-/wiki/Zev_Tech_Hex_Gen3_slide
-/wiki/Glock_9x19_slide
-/wiki/Glock_Zev_Tech_Hex_Spartan_slide
-/wiki/Glock_9x19_Viper_Cut_slide
-/wiki/Glock_Alpha_Wolf_slide
-/wiki/M9A3_9x19_pistol_slide
-/wiki/FN_EFFEN_90_Upper_receiver_for_P90
-/wiki/FN_Upper_receiver_for_P90
-/wiki/FN_Upper_receiver_for_PS90
-/wiki/AKademia_Bastion_dust_cover_for_AK
-/wiki/Fab_Defence_PDC_dust_cover_for_AK-74
-/wiki/TWS_Dog_leg_rail_dust_cover_for_AK
-/wiki/HK_MP5_Kurz_Upper_receiver
-/wiki/Five-seveN_MK2_pistol_slide
-/wiki/Lightweight_upper_5.56x45_for_TX15_rifle
-/wiki/Upper_receiver_KAC_7.62x51_for_SR-25_rifle
-/wiki/Upper_receiver_B%26T_9x19_for_MP9-N_SMG
-/wiki/Upper_receiver_B%26T_9x19_for_MP9_SMG
-/wiki/Custom_SVDS_dust_cover
-/wiki/M1911A1_.45_ACP_slide
-/wiki/PPSH-41_dust_cover
-/wiki/M45A1_.45_ACP_slide
-/wiki/Upper_receiver_of_the_first_generation_Sig-Sauer_MCX
-/wiki/Sword_Int._Mk-18_mod_1_Upper_receiver
-/wiki/PL-15_pistol_slide
-/wiki/Upper_receiver_for_STM-9_9x19_carbine
+b'Harris HBR Bipod':/wiki/Harris_HBR_Bipod
+b'SV-98 bipod':/wiki/SV-98_bipod
+b'KAC vertical grip':/wiki/KAC_vertical_grip
+b'BCM GUNFIGHTER MOD.3 vertical grip':/wiki/BCM_GUNFIGHTER_MOD.3_vertical_grip
+b'Strike Industries Cobra Tactical foregrip':/wiki/Strike_Industries_Cobra_Tactical_foregrip
+b'Magpul M-LOK AFG tactical grip (Black)':/wiki/Magpul_M-LOK_AFG_tactical_grip_(Black)
+b'Hera Arms CQR tactical grip':/wiki/Hera_Arms_CQR_tactical_grip
+b'Fortis Shift tactical grip':/wiki/Fortis_Shift_tactical_grip
+b'Magpul AFG grip':/wiki/Magpul_AFG_grip
+b'Magpul RVG grip':/wiki/Magpul_RVG_grip
+b'Stark SE-5 Express Forward grip':/wiki/Stark_SE-5_Express_Forward_grip
+b'Tango Down Stubby BGV-MK46K tactical grip':/wiki/Tango_Down_Stubby_BGV-MK46K_tactical_grip
+b'VTAC UVG Tactical grip':/wiki/VTAC_UVG_Tactical_grip
+b'Zenit RK-0 foregrip':/wiki/Zenit_RK-0_foregrip
+b'Zenit RK-1 foregrip':/wiki/Zenit_RK-1_foregrip
+b'Zenit RK-1 foregrip on B-25U mount':/wiki/Zenit_RK-1_foregrip_on_B-25U_mount
+b'Zenit RK-2 foregrip':/wiki/Zenit_RK-2_foregrip
+b'Zenit RK-4 foregrip':/wiki/Zenit_RK-4_foregrip
+b'Zenit RK-5 foregrip':/wiki/Zenit_RK-5_foregrip
+b'Zenit RK-6 foregrip':/wiki/Zenit_RK-6_foregrip
+b'ASh-12 Vertical foregrip':/wiki/ASh-12_Vertical_foregrip
+b'RTM Pillau tactical foregrip':/wiki/RTM_Pillau_tactical_foregrip
+b'MP9-N vertical foregrip':/wiki/MP9-N_vertical_foregrip
+b'Orsis T-5000M padded handguard grip':/wiki/Orsis_T-5000M_padded_handguard_grip
+b'Tactical Dynamics aluminum skeletonized vertical grip':/wiki/Tactical_Dynamics_aluminum_skeletonized_vertical_grip
+b'MVF001 A3 KeyMod vertical grip (Black)':/wiki/MVF001_A3_KeyMod_vertical_grip_(Black)
+b'SIG Sauer Vertical Foregrip KeyMod (Black)':/wiki/SIG_Sauer_Vertical_Foregrip_KeyMod_(Black)
+b'Armytek Predator Pro v3 XHP35 HI flashlight':/wiki/Armytek_Predator_Pro_v3_XHP35_HI_flashlight
+b'Ultrafire WF-501B Flashlight':/wiki/Ultrafire_WF-501B_Flashlight
+b'Zenit Perst-3 tactical device':/wiki/Zenit_Perst-3_tactical_device
+b'Zenit 2IRS Klesch flashlight + laser designator':/wiki/Zenit_2IRS_Klesch_flashlight_%2B_laser_designator
+b'Zenit 2P Klesch flashlight + laser designator':/wiki/Zenit_2P_Klesch_flashlight_%2B_laser_designator
+b'Zenit Klesch-2U tactical flashlight':/wiki/Zenit_Klesch-2U_tactical_flashlight
+b'AN/PEQ-15 tactical device':/wiki/AN/PEQ-15_tactical_device
+b'Glock GTL 21 tactical flashlight with laser':/wiki/Glock_GTL_21_tactical_flashlight_with_laser
+b'Holosun LS321 Tactical device':/wiki/Holosun_LS321_Tactical_device
+b'LA-5B/PEQ tactical device':/wiki/LA-5B/PEQ_tactical_device
+b'Steiner LAS/TAC 2 tactical flashlight':/wiki/Steiner_LAS/TAC_2_tactical_flashlight
+b'SureFire XC1 tactical flashlight':/wiki/SureFire_XC1_tactical_flashlight
+b'Surefire X400 Ultra tactical flashlight':/wiki/Surefire_X400_Ultra_tactical_flashlight
+b'NcSTAR Tactical blue laser LAM-Module':/wiki/NcSTAR_Tactical_blue_laser_LAM-Module
+b'AN/PEQ-2 tactical device':/wiki/AN/PEQ-2_tactical_device
+b'Steiner DBAL-PL tactical laser device':/wiki/Steiner_DBAL-PL_tactical_laser_device
+b'TT DLP Tactical Precision LAM module':/wiki/TT_DLP_Tactical_Precision_LAM_module
+b'FAB Defense protection cap for AGR-870':/wiki/FAB_Defense_protection_cap_for_AGR-870
+b'NSPU-M scope eyecup':/wiki/NSPU-M_scope_eyecup
+b'Armasight Vulcan MG scope eyecup':/wiki/Armasight_Vulcan_MG_scope_eyecup
+b'Cobra Family Sights Shade':/wiki/Cobra_Family_Sights_Shade
+b'PSO scope eyecup':/wiki/PSO_scope_eyecup
+b'Trijicon REAP-IR scope eyecup':/wiki/Trijicon_REAP-IR_scope_eyecup
+b'SV-98 anti-heat ribbon':/wiki/SV-98_anti-heat_ribbon
+b'SV-98 sound suppressor heat shield':/wiki/SV-98_sound_suppressor_heat_shield
+b'Glock ZEV Tech sight mount cap':/wiki/Glock_ZEV_Tech_sight_mount_cap
+b'NPZ USP-1 scope eyecup':/wiki/NPZ_USP-1_scope_eyecup
+b'KMZ 1P59 scope eyecup':/wiki/KMZ_1P59_scope_eyecup
+b'KAC URX 3/3.1 short panel':/wiki/KAC_URX_3/3.1_short_panel
+b'KAC URX 3/3.1 long panel':/wiki/KAC_URX_3/3.1_long_panel
+b'KAC URX 3/3.1 stopper panel':/wiki/KAC_URX_3/3.1_stopper_panel
+b'M1911A1 slide stop':/wiki/M1911A1_slide_stop
+b'M1911A1 hammer':/wiki/M1911A1_hammer
+b'M1911A1 trigger':/wiki/M1911A1_trigger
+b'M1911A1 Wilson Extended slide stop':/wiki/M1911A1_Wilson_Extended_slide_stop
+b'M1911A1 hammer (alternative)':/wiki/M1911A1_hammer_(alternative)
+b'M1911A1 STI HEX hammer':/wiki/M1911A1_STI_HEX_hammer
+b'M1911A1 Wilson Ultralight skeletonized hammer':/wiki/M1911A1_Wilson_Ultralight_skeletonized_hammer
+b'M1911A1 Caspian Arms Trik Trigger':/wiki/M1911A1_Caspian_Arms_Trik_Trigger
+b'M45A1 trigger':/wiki/M45A1_trigger
+b'M45A1 hammer':/wiki/M45A1_hammer
+b'M45A1 slide lock':/wiki/M45A1_slide_lock
+b'STM-9 magwell':/wiki/STM-9_magwell
+b'AK 7.62x39 Taktika Tula muzzle adapter':/wiki/AK_7.62x39_Taktika_Tula_muzzle_adapter
+b'Gemtech ONE direct thread mount adapter':/wiki/Gemtech_ONE_direct_thread_mount_adapter
+b'ME Cylinder 12ga muzzle adapter':/wiki/ME_Cylinder_12ga_muzzle_adapter
+b'MP5 3-lug threaded muzzle protector':/wiki/MP5_3-lug_threaded_muzzle_protector
+b'SilencerCo 12ga choke adapter':/wiki/SilencerCo_12ga_choke_adapter
+b'SilencerCo Salvo 12 thread adapter':/wiki/SilencerCo_Salvo_12_thread_adapter
+b'SilencerCo Hybrid 46 Direct Thread Mount adapter':/wiki/SilencerCo_Hybrid_46_Direct_Thread_Mount_adapter
+b'MP5 3-lug thread protector':/wiki/MP5_3-lug_thread_protector
+b'P226 thread protection cap':/wiki/P226_thread_protection_cap
+b'PP-91-01 Kedr-B muzzle thread piece':/wiki/PP-91-01_Kedr-B_muzzle_thread_piece
+b'SOK-12 thread protection tube':/wiki/SOK-12_thread_protection_tube
+b'Glock 9x19 Alpha Wolf thread protector':/wiki/Glock_9x19_Alpha_Wolf_thread_protector
+b'Glock 9x19 Double Diamond thread protector':/wiki/Glock_9x19_Double_Diamond_thread_protector
+b'Glock SAI thread protector':/wiki/Glock_SAI_thread_protector
+b'M9A3 thread protection cap':/wiki/M9A3_thread_protection_cap
+b'Mosin Weapon Tuning thread adapter':/wiki/Mosin_Weapon_Tuning_thread_adapter
+b'SKS 7.62x39 Weapon Tuning thread adapter':/wiki/SKS_7.62x39_Weapon_Tuning_thread_adapter
+b'Lantac BMD Blast Mitigation Device A3 direct thread adapter':/wiki/Lantac_BMD_Blast_Mitigation_Device_A3_direct_thread_adapter
+b'Mosin Custom thread adapter':/wiki/Mosin_Custom_thread_adapter
+b'Mosin Tiger Rock thread adapter':/wiki/Mosin_Tiger_Rock_thread_adapter
+b'Remington M700 thread protection cap':/wiki/Remington_M700_thread_protection_cap
+b'SVDS Rotor 43 thread adapter':/wiki/SVDS_Rotor_43_thread_adapter
+b'VPO-215 thread protection cap':/wiki/VPO-215_thread_protection_cap
+b'MP9 9x19 sound suppressor adapter':/wiki/MP9_9x19_sound_suppressor_adapter
+b'AK 5.56x45 CNC Warrior muzzle device adapter':/wiki/AK_5.56x45_CNC_Warrior_muzzle_device_adapter
+b'RFB thread spacer':/wiki/RFB_thread_spacer
+b'RFB thread protection cap':/wiki/RFB_thread_protection_cap
+b'SIG Sauer Taper-LOK muzzle adapter':/wiki/SIG_Sauer_Taper-LOK_muzzle_adapter
+b'SilencerCo Omega 45k direct thread mount adapter':/wiki/SilencerCo_Omega_45k_direct_thread_mount_adapter
+b'SilencerCo Omega 45k piston mount adapter':/wiki/SilencerCo_Omega_45k_piston_mount_adapter
+b'KRISS Vector 9x19 thread protection cap':/wiki/KRISS_Vector_9x19_thread_protection_cap
+b'KRISS Vector .45 ACP thread protection cap':/wiki/KRISS_Vector_.45_ACP_thread_protection_cap
+b'Izhmash 7.62x39 AKM muzzle brake & compensator (6P1 0-14)':/wiki/Izhmash_7.62x39_AKM_muzzle_brake_%26_compensator_(6P1_0-14)
+b'VPO-136 Vepr KM 7.62x39 muzzle brake & compensator':/wiki/VPO-136_Vepr_KM_7.62x39_muzzle_brake_%26_compensator
+b'VPO-209 thread protector':/wiki/VPO-209_thread_protector
+b'KAC QDC 5.56x45 flash suppressor kit':/wiki/KAC_QDC_5.56x45_flash_suppressor_kit
+b'AKML 7.62x39 system Izhmash flash hider':/wiki/AKML_7.62x39_system_Izhmash_flash_hider
+b'AAC Blackout 51T 7.62x51 flash hider':/wiki/AAC_Blackout_51T_7.62x51_flash_hider
+b'Glock 9x19 Carver Custom 4 Port muzzle brake':/wiki/Glock_9x19_Carver_Custom_4_Port_muzzle_brake
+b'Glock 9x19 CARVER Custom Decelerator 3 Port compensator':/wiki/Glock_9x19_CARVER_Custom_Decelerator_3_Port_compensator
+b'Glock Double Diamond flash hider':/wiki/Glock_Double_Diamond_flash_hider
+b'Glock 9x19 Alpha Wolf bullnose compensator':/wiki/Glock_9x19_Alpha_Wolf_bullnose_compensator
+b'Glock 9x19 Lone Wolf LWD-COMP9 compensator':/wiki/Glock_9x19_Lone_Wolf_LWD-COMP9_compensator
+b'Glock 9x19 Strike Industries G4 slide compensator':/wiki/Glock_9x19_Strike_Industries_G4_slide_compensator
+b'AK 7.62x39 Lantac Dragon muzzle brake & compensator':/wiki/AK_7.62x39_Lantac_Dragon_muzzle_brake_%26_compensator
+b'AR-15 SAI JailBrake 5.56x45 muzzle device':/wiki/AR-15_SAI_JailBrake_5.56x45_muzzle_device
+b'AAC Blackout 51T 5.56x45 flash hider':/wiki/AAC_Blackout_51T_5.56x45_flash_hider
+b'SV-98 7.62x54R thread adapter':/wiki/SV-98_7.62x54R_thread_adapter
+b'AR-15 Surefire WarComp 5.56x45 Flash hider':/wiki/AR-15_Surefire_WarComp_5.56x45_Flash_hider
+b'Lantac Dragon 7.62x51 muzzle brake':/wiki/Lantac_Dragon_7.62x51_muzzle_brake
+b'SVDS 7.62x54R muzzle brake & compensator':/wiki/SVDS_7.62x54R_muzzle_brake_%26_compensator
+b'SV-98 7.62x54R SRVV mk.2.0 compensator':/wiki/SV-98_7.62x54R_SRVV_mk.2.0_compensator
+b'Venom Antidote muzzle brake & compensator for AK':/wiki/Venom_Antidote_muzzle_brake_%26_compensator_for_AK
+b'AR-15 Surefire SF3P 5.56x45 Flash hider':/wiki/AR-15_Surefire_SF3P_5.56x45_Flash_hider
+b"P226 9x19 TJ's Custom compensator":/wiki/P226_9x19_TJ%27s_Custom_compensator
+b'Desert Tech 5.56x45 flash hider':/wiki/Desert_Tech_5.56x45_flash_hider
+b'MP5 Noveske-style muzzle brake & compensator':/wiki/MP5_Noveske-style_muzzle_brake_%26_compensator
+b'TT PM-Laser DTK-TT muzzle brake':/wiki/TT_PM-Laser_DTK-TT_muzzle_brake
+b'RPK-16 5.45x39 muzzle brake & compensator':/wiki/RPK-16_5.45x39_muzzle_brake_%26_compensator
+b'ADAR 2-15.56x45 flash hider':/wiki/ADAR_2-15.56x45_flash_hider
+b'Noveske KX3 5.56x45 flash hider':/wiki/Noveske_KX3_5.56x45_flash_hider
+b'AR-10 Odin Works Atlas 7 7.62x51 muzzle brake':/wiki/AR-10_Odin_Works_Atlas_7_7.62x51_muzzle_brake
+b'Mosin Tacfire Tanker Style muzzle brake':/wiki/Mosin_Tacfire_Tanker_Style_muzzle_brake
+b'Mosin Witt Machine muzzle brake':/wiki/Mosin_Witt_Machine_muzzle_brake
+b'MP7A1 4.6x30 flash hider':/wiki/MP7A1_4.6x30_flash_hider
+b'SA-58 7.62x51 Austrian style muzzle brake':/wiki/SA-58_7.62x51_Austrian_style_muzzle_brake
+b'AR-10 2A Armanent X3 7.62x51 compensator':/wiki/AR-10_2A_Armanent_X3_7.62x51_compensator
+b'AR-15 Yankee Hill Annihilator multi-caliber flash hider':/wiki/AR-15_Yankee_Hill_Annihilator_multi-caliber_flash_hider
+b'SA-58 7.62x51 3 prong trident flash hider':/wiki/SA-58_7.62x51_3_prong_trident_flash_hider
+b'M14 Yankee Hill Phantom 7.62x51 muzzle brake & compensator':/wiki/M14_Yankee_Hill_Phantom_7.62x51_muzzle_brake_%26_compensator
+b'M14 Smith Enterprise Vortex 7.62x51 muzzle brake & compensator':/wiki/M14_Smith_Enterprise_Vortex_7.62x51_muzzle_brake_%26_compensator
+b'M1A National Match 7.62x51 muzzle brake & compensator':/wiki/M1A_National_Match_7.62x51_muzzle_brake_%26_compensator
+b'M14 JP Enterprises 7.62x51 tactical muzzle brake & compensator':/wiki/M14_JP_Enterprises_7.62x51_tactical_muzzle_brake_%26_compensator
+b'M14 Good Iron 7.62x51 muzzle brake & compensator':/wiki/M14_Good_Iron_7.62x51_muzzle_brake_%26_compensator
+b'Izhmash 5.45x39 AK-74 muzzle brake & compensator (6P20 0-20)':/wiki/Izhmash_5.45x39_AK-74_muzzle_brake_%26_compensator_(6P20_0-20)
+b'AK Zenit DTK-1 7.62x39 & 5.45x39 muzzle brake & compensator':/wiki/AK_Zenit_DTK-1_7.62x39_%26_5.45x39_muzzle_brake_%26_compensator
+b'Izhmash 5.45x39 muzzle brake for AKS-74U (6P26 0-20)':/wiki/Izhmash_5.45x39_muzzle_brake_for_AKS-74U_(6P26_0-20)
+b'AR-15 Colt USGI A2 5.56x45 flash hider':/wiki/AR-15_Colt_USGI_A2_5.56x45_flash_hider
+b'PWS CQB 5.56x45 muzzle brake':/wiki/PWS_CQB_5.56x45_muzzle_brake
+b'MPX A2 9x19 flash hider':/wiki/MPX_A2_9x19_flash_hider
+b'SV-98 muzzle device':/wiki/SV-98_muzzle_device
+b'Vendetta Precision 5.56x45 VP-09 Interceptor muzzle brake':/wiki/Vendetta_Precision_5.56x45_VP-09_Interceptor_muzzle_brake
+b'PP-19-01 Vityaz-SN 9x19 muzzle brake/compensator':/wiki/PP-19-01_Vityaz-SN_9x19_muzzle_brake/compensator
+b'Saiga-9 9x19 muzzle brake/compensator':/wiki/Saiga-9_9x19_muzzle_brake/compensator
+b'PWS CQB 74 5.45x39 muzzle brake':/wiki/PWS_CQB_74_5.45x39_muzzle_brake
+b'DVL-10 M2 muzzle brake':/wiki/DVL-10_M2_muzzle_brake
+b'DVL-10 muzzle device':/wiki/DVL-10_muzzle_device
+b'Tromix Monster Claw 12ga muzzle brake':/wiki/Tromix_Monster_Claw_12ga_muzzle_brake
+b'GK-02 12ga muzzle brake':/wiki/GK-02_12ga_muzzle_brake
+b'Remington Tactical Choke 12ga':/wiki/Remington_Tactical_Choke_12ga
+b'Socom 16 7.62x51 muzzle brake & compensator for M1A (threaded)':/wiki/Socom_16_7.62x51_muzzle_brake_%26_compensator_for_M1A_(threaded)
+b'Izhmash 5.56x45 AK-101 muzzlebrake & compensator':/wiki/Izhmash_5.56x45_AK-101_muzzlebrake_%26_compensator
+b'Izhmash 5.45x39 AK-74M muzzle brake & compensator (6P20 0-20)':/wiki/Izhmash_5.45x39_AK-74M_muzzle_brake_%26_compensator_(6P20_0-20)
+b'Izhmash 5.45x39 AK-105 muzzlebrake & compensator (6P44 0-20)':/wiki/Izhmash_5.45x39_AK-105_muzzlebrake_%26_compensator_(6P44_0-20)
+b'Izhmash 7.62x39 AK-104 muzzlebrake & compensator (6P46 0-20)':/wiki/Izhmash_7.62x39_AK-104_muzzlebrake_%26_compensator_(6P46_0-20)
+b'Izhmash 7.62x39 AK-103 muzzlebrake & compensator':/wiki/Izhmash_7.62x39_AK-103_muzzlebrake_%26_compensator
+b'Izhmash 5.56x45 AK-102 muzzlebrake & compensator (6P44 0-20)':/wiki/Izhmash_5.56x45_AK-102_muzzlebrake_%26_compensator_(6P44_0-20)
+b'Socom 16 7.62x51 muzzle brake & compensator for M1A (unthreaded)':/wiki/Socom_16_7.62x51_muzzle_brake_%26_compensator_for_M1A_(unthreaded)
+b'AK Spikes Tactical Dynacomp 7.62x39 muzzle brake & compensator':/wiki/AK_Spikes_Tactical_Dynacomp_7.62x39_muzzle_brake_%26_compensator
+b'Mosin Texas Precision Products muzzle brake':/wiki/Mosin_Texas_Precision_Products_muzzle_brake
+b'AR-10 Fortis RED Brake 7.62x51 muzzle brake':/wiki/AR-10_Fortis_RED_Brake_7.62x51_muzzle_brake
+b'ASh-12 12.7x55 muzzle brake':/wiki/ASh-12_12.7x55_muzzle_brake
+b'FN P90 5.7x28 flash hider':/wiki/FN_P90_5.7x28_flash_hider
+b'SRVV 5.45x39 AK-74 muzzle brake':/wiki/SRVV_5.45x39_AK-74_muzzle_brake
+b'SRVV 7.62x39 AK muzzle brake & compensator':/wiki/SRVV_7.62x39_AK_muzzle_brake_%26_compensator
+b'AR-15 TROY Claymore 5.56x45 muzzle brake':/wiki/AR-15_TROY_Claymore_5.56x45_muzzle_brake
+b'AR-10 Keeno Arms SHREWD 7.62x51 muzzle brake':/wiki/AR-10_Keeno_Arms_SHREWD_7.62x51_muzzle_brake
+b'AR-10 Precision Armanent M11 7.62x51 muzzle brake':/wiki/AR-10_Precision_Armanent_M11_7.62x51_muzzle_brake
+b'MPX TACCOM muzzle brake':/wiki/MPX_TACCOM_muzzle_brake
+b'AR-15 Bulletec ST-6012 5.56x45 muzzle brake':/wiki/AR-15_Bulletec_ST-6012_5.56x45_muzzle_brake
+b'Lantac BMD 7.62x51 Blast Mitigation Device':/wiki/Lantac_BMD_7.62x51_Blast_Mitigation_Device
+b'AR-10 Nordic Components Corvette 7.62x51 muzzle brake':/wiki/AR-10_Nordic_Components_Corvette_7.62x51_muzzle_brake
+b'AR-15 Nordic Components Corvette 5.56x45 compensator':/wiki/AR-15_Nordic_Components_Corvette_5.56x45_compensator
+b'Daniel Defense WAVE 5.56x45 muzzle brake':/wiki/Daniel_Defense_WAVE_5.56x45_muzzle_brake
+b'Daniel Defense WAVE 7.62x51 muzzle brake':/wiki/Daniel_Defense_WAVE_7.62x51_muzzle_brake
+b'Thunder Beast Arms 223CB 5.56x45 muzzle brake':/wiki/Thunder_Beast_Arms_223CB_5.56x45_muzzle_brake
+b'Thunder Beast Arms 30CB 7.62x51 muzzle brake':/wiki/Thunder_Beast_Arms_30CB_7.62x51_muzzle_brake
+b'KAC QDC 7.62x51 flash suppressor kit':/wiki/KAC_QDC_7.62x51_flash_suppressor_kit
+b'Orsis T-5000M muzzle brake':/wiki/Orsis_T-5000M_muzzle_brake
+b'Desert Tech .308 flash hider':/wiki/Desert_Tech_.308_flash_hider
+b'AR-15 SureFire FH556RC 5.56x45 flash hider':/wiki/AR-15_SureFire_FH556RC_5.56x45_flash_hider
+b'M1911A1 Anarchy Outdoors muzzle brake':/wiki/M1911A1_Anarchy_Outdoors_muzzle_brake
+b'RFB 7.62x51 flash hider':/wiki/RFB_7.62x51_flash_hider
+b'Ferfrans CRD Concussion Reduction Device 5.56x45':/wiki/Ferfrans_CRD_Concussion_Reduction_Device_5.56x45
+b'Ferfrans CQB 5.56x45 muzzle brake':/wiki/Ferfrans_CQB_5.56x45_muzzle_brake
+b'AK 7.62x39 JMAC RRD-4C muzzle brake':/wiki/AK_7.62x39_JMAC_RRD-4C_muzzle_brake
+b'AK-74 thread type JMac Customs RRD-4C multi-caliber muzzle brake':/wiki/AK-74_thread_type_JMac_Customs_RRD-4C_multi-caliber_muzzle_brake
+b'SilencerCo AC-858 ASR .338 LM Muzzle brake':/wiki/SilencerCo_AC-858_ASR_.338_LM_Muzzle_brake
+b'SIG Sauer 7.62x51 3-prong flash hider':/wiki/SIG_Sauer_7.62x51_3-prong_flash_hider
+b'SIG Sauer Micro Brake 7.62x51 muzzle brake':/wiki/SIG_Sauer_Micro_Brake_7.62x51_muzzle_brake
+b'SIG Sauer Two Port Brake 7.62x51 muzzle brake':/wiki/SIG_Sauer_Two_Port_Brake_7.62x51_muzzle_brake
+b'KRISS Vector 9x19 flash hider':/wiki/KRISS_Vector_9x19_flash_hider
+b'KRISS Vector .45 ACP flash hider':/wiki/KRISS_Vector_.45_ACP_flash_hider
+b'STM-9 9x19 muzzle brake':/wiki/STM-9_9x19_muzzle_brake
+b'AR-10 SureFire ProComp 7.62x51 muzzle brake':/wiki/AR-10_SureFire_ProComp_7.62x51_muzzle_brake
+b'Gemtech ONE multi-caliber sound suppressor':/wiki/Gemtech_ONE_multi-caliber_sound_suppressor
+b'AAC Illusion 9 9x19mm sound suppressor':/wiki/AAC_Illusion_9_9x19mm_sound_suppressor
+b'SIG Sauer SRD9 9x19mm sound suppressor':/wiki/SIG_Sauer_SRD9_9x19mm_sound_suppressor
+b'SV-98 7.62x54R sound suppressor':/wiki/SV-98_7.62x54R_sound_suppressor
+b'Surefire SOCOM556-MONSTER 5.56x45 sound suppressor':/wiki/Surefire_SOCOM556-MONSTER_5.56x45_sound_suppressor
+b'Surefire SOCOM556-MINI MONSTER 5.56x45 sound suppressor':/wiki/Surefire_SOCOM556-MINI_MONSTER_5.56x45_sound_suppressor
+b'B&T Rotex 2 4.6x30 sound suppressor':/wiki/B%26T_Rotex_2_4.6x30_sound_suppressor
+b'Mosin 7.62x54R Bramit sound suppressor':/wiki/Mosin_7.62x54R_Bramit_sound_suppressor
+b'Hexagon 12K 12ga sound suppressor':/wiki/Hexagon_12K_12ga_sound_suppressor
+b'PBS-4 5.45x39 sound suppressor':/wiki/PBS-4_5.45x39_sound_suppressor
+b'AK-74 Hexagon 5.45x39 sound suppressor':/wiki/AK-74_Hexagon_5.45x39_sound_suppressor
+b'SKS Hexagon 7.62x39 sound suppressor':/wiki/SKS_Hexagon_7.62x39_sound_suppressor
+b'Zenit DTK-4M muzzle brake':/wiki/Zenit_DTK-4M_muzzle_brake
+b'AKM Hexagon 7.62x39 sound suppressor':/wiki/AKM_Hexagon_7.62x39_sound_suppressor
+b'Rotor 43 9x19 muzzle brake':/wiki/Rotor_43_9x19_muzzle_brake
+b'Rotor 43 7.62x39 muzzle brake':/wiki/Rotor_43_7.62x39_muzzle_brake
+b'Rotor 43 .366TKM muzzle brake':/wiki/Rotor_43_.366TKM_muzzle_brake
+b'Rotor 43 5.56x45 muzzle brake':/wiki/Rotor_43_5.56x45_muzzle_brake
+b'APB 9x18PM sound suppressor':/wiki/APB_9x18PM_sound_suppressor
+b'SilencerCo Salvo 12 12ga sound suppressor':/wiki/SilencerCo_Salvo_12_12ga_sound_suppressor
+b'MP5SD 9x19 sound suppressor':/wiki/MP5SD_9x19_sound_suppressor
+b'AAC 762 SDN-6 7.62x51 sound suppressor':/wiki/AAC_762_SDN-6_7.62x51_sound_suppressor
+b'SilencerCo Osprey 9 9x19mm sound suppressor':/wiki/SilencerCo_Osprey_9_9x19mm_sound_suppressor
+b'SR-1MP 9x21 silencer':/wiki/SR-1MP_9x21_silencer
+b'SilencerCo Hybrid 46 multi-caliber silencer':/wiki/SilencerCo_Hybrid_46_multi-caliber_silencer
+b'PP-19-01 Vityaz-SN 9x19 sound suppressor':/wiki/PP-19-01_Vityaz-SN_9x19_sound_suppressor
+b'TT 7.62x25 makeshift sound suppressor':/wiki/TT_7.62x25_makeshift_sound_suppressor
+b'Glock 9x19 Fischer Development FD917 sound suppressor':/wiki/Glock_9x19_Fischer_Development_FD917_sound_suppressor
+b'Alpha Dog Alpha 9 9x19 sound suppressor':/wiki/Alpha_Dog_Alpha_9_9x19_sound_suppressor
+b'KAC QDSS NT-4 5.56x45 silencer':/wiki/KAC_QDSS_NT-4_5.56x45_silencer
+b'MPX-SD 9x19 integrated sound suppressor':/wiki/MPX-SD_9x19_integrated_sound_suppressor
+b'VSS Vintorez 9x39 integral barrel-suppressor':/wiki/VSS_Vintorez_9x39_integral_barrel-suppressor
+b'PBS-1 7.62x39 sound suppressor':/wiki/PBS-1_7.62x39_sound_suppressor
+b'PB 9x18PM sound suppressor':/wiki/PB_9x18PM_sound_suppressor
+b'AK 5.45x39 TGP-A muzzle device/suppressor':/wiki/AK_5.45x39_TGP-A_muzzle_device/suppressor
+b'AS VAL 9x39 integral barrel-suppressor':/wiki/AS_VAL_9x39_integral_barrel-suppressor
+b'PP-91-01 Kedr-B 9x18PM sound suppressor':/wiki/PP-91-01_Kedr-B_9x18PM_sound_suppressor
+b'ASh-12 12.7x55 tactical sound suppressor':/wiki/ASh-12_12.7x55_tactical_sound_suppressor
+b'FN Attenuator 5.7x28 sound suppressor':/wiki/FN_Attenuator_5.7x28_sound_suppressor
+b'Daniel Defense WAVE QD sound suppressor':/wiki/Daniel_Defense_WAVE_QD_sound_suppressor
+b'Gemtech SFN-57 5.7x28 sound suppressor':/wiki/Gemtech_SFN-57_5.7x28_sound_suppressor
+b'Thunder Beast Arms Ultra 5 sound suppressor':/wiki/Thunder_Beast_Arms_Ultra_5_sound_suppressor
+b'KAC PRS/QDC 7.62x51 sound suppressor':/wiki/KAC_PRS/QDC_7.62x51_sound_suppressor
+b'Rotor 43 7.62x54R muzzle brake':/wiki/Rotor_43_7.62x54R_muzzle_brake
+b'MP9 9x19 sound suppressor':/wiki/MP9_9x19_sound_suppressor
+b'AK Hexagon DTKP MK.2 7.62x39 sound suppressor':/wiki/AK_Hexagon_DTKP_MK.2_7.62x39_sound_suppressor
+b'Surefire SOCOM556-RC2 5.56x45 sound suppressor':/wiki/Surefire_SOCOM556-RC2_5.56x45_sound_suppressor
+b'VPO-101 Vepr Hunter 7.62x51 Rotor 43 muzzle brake':/wiki/VPO-101_Vepr_Hunter_7.62x51_Rotor_43_muzzle_brake
+b'SIG Sauer SRD762Ti 7.62x51 sound suppressor':/wiki/SIG_Sauer_SRD762Ti_7.62x51_sound_suppressor
+b'SIG Sauer SRD762-QD 7.62x51 sound suppressor':/wiki/SIG_Sauer_SRD762-QD_7.62x51_sound_suppressor
+b'SilencerCo Omega 45k .45 ACP sound suppressor':/wiki/SilencerCo_Omega_45k_.45_ACP_sound_suppressor
+b'PL-15 9x19 sound suppressor':/wiki/PL-15_9x19_sound_suppressor
+b'SilencerCo SAKER ASR 556 5.56x45 sound suppressor':/wiki/SilencerCo_SAKER_ASR_556_5.56x45_sound_suppressor
+b'ELCAN SpecterDR 1x/4x Scope':/wiki/ELCAN_SpecterDR_1x/4x_Scope
+b'Leupold Mark 4 HAMR 4x24mm DeltaPoint hybrid assault scope':/wiki/Leupold_Mark_4_HAMR_4x24mm_DeltaPoint_hybrid_assault_scope
+b'Primary Arms Compact prism scope 2.5x':/wiki/Primary_Arms_Compact_prism_scope_2.5x
+b'SIG Sauer BRAVO4 4X30 Scope':/wiki/SIG_Sauer_BRAVO4_4X30_Scope
+b'Trijicon ACOG 3.5x35 scope':/wiki/Trijicon_ACOG_3.5x35_scope
+b'Trijicon ACOG TA01NSN 4x32 scope (Black)':/wiki/Trijicon_ACOG_TA01NSN_4x32_scope_(Black)
+b'Valday PS-320 1x/6x scope':/wiki/Valday_PS-320_1x/6x_scope
+b'Monstrum Compact prism scope 2x32':/wiki/Monstrum_Compact_prism_scope_2x32
+b'Aimpoint COMP M4 reflex sight':/wiki/Aimpoint_COMP_M4_reflex_sight
+b'Axion Kobra EKP-8-02 reflex sight (Dovetail)':/wiki/Axion_Kobra_EKP-8-02_reflex_sight_(Dovetail)
+b'Axion Kobra EKP-8-18 reflex sight':/wiki/Axion_Kobra_EKP-8-18_reflex_sight
+b'EOTech 553 holographic sight':/wiki/EOTech_553_holographic_sight
+b'EOTech EXPS3 holographic sight':/wiki/EOTech_EXPS3_holographic_sight
+b'EOTech HHS-1 hybrid sight':/wiki/EOTech_HHS-1_hybrid_sight
+b'EOTech XPS3-0 holographic sight':/wiki/EOTech_XPS3-0_holographic_sight
+b'EOTech XPS3-2 holographic sight':/wiki/EOTech_XPS3-2_holographic_sight
+b'Holosun HS401G5 reflex sight':/wiki/Holosun_HS401G5_reflex_sight
+b'OKP-7 reflex sight (Dovetail)':/wiki/OKP-7_reflex_sight_(Dovetail)
+b'OKP-7 reflex sight (Dovetail) (Dovetail)':/wiki/OKP-7_reflex_sight_(Dovetail)_(Dovetail)
+b'VOMZ Pilad P1x42 Weaver reflex sight':/wiki/VOMZ_Pilad_P1x42_Weaver_reflex_sight
+b'Valday PK-120 (1P87) holographic sight':/wiki/Valday_PK-120_(1P87)_holographic_sight
+b'Valday Krechet reflex sight':/wiki/Valday_Krechet_reflex_sight
+b'Vortex RAZOR AMG UH-1 holographic sight':/wiki/Vortex_RAZOR_AMG_UH-1_holographic_sight
+b'Walther MRS reflex sight':/wiki/Walther_MRS_reflex_sight
+b'FN P90 Ring Sight reflex sight':/wiki/FN_P90_Ring_Sight_reflex_sight
+b'Trijicon SRS-02 reflex sight':/wiki/Trijicon_SRS-02_reflex_sight
+b'BelOMO PK-06 reflex sight':/wiki/BelOMO_PK-06_reflex_sight
+b'Aimpoint Micro T-1 reflex sight':/wiki/Aimpoint_Micro_T-1_reflex_sight
+b'Burris FastFire 3 reflex sight':/wiki/Burris_FastFire_3_reflex_sight
+b'Leupold DeltaPoint Reflex Sight':/wiki/Leupold_DeltaPoint_Reflex_Sight
+b'Trijicon RMR reflex sight':/wiki/Trijicon_RMR_reflex_sight
+b'SIG Sauer ROMEO4 reflex sight':/wiki/SIG_Sauer_ROMEO4_reflex_sight
+b'VPO-101 Vepr Hunter rear sight':/wiki/VPO-101_Vepr_Hunter_rear_sight
+b'SVDS front sight':/wiki/SVDS_front_sight
+b'SVDS rear sight':/wiki/SVDS_rear_sight
+b'RPK-16 rear sight base':/wiki/RPK-16_rear_sight_base
+b'RPK-16 rear sight':/wiki/RPK-16_rear_sight
+b'Mosin carbine rear sight':/wiki/Mosin_carbine_rear_sight
+b'Trijicon ACOG backup rear sight':/wiki/Trijicon_ACOG_backup_rear_sight
+b'P226 Meprolight TRU-DOT Night front sight':/wiki/P226_Meprolight_TRU-DOT_Night_front_sight
+b'P226 Meprolight TRU-DOT Night rear sight':/wiki/P226_Meprolight_TRU-DOT_Night_rear_sight
+b'KAC Folding rear sight':/wiki/KAC_Folding_rear_sight
+b'KAC Folding front sight':/wiki/KAC_Folding_front_sight
+b'HK 416A5 flip up rear sight':/wiki/HK_416A5_flip_up_rear_sight
+b'MP7 flip up front sight':/wiki/MP7_flip_up_front_sight
+b'MP7 flip up rear sight':/wiki/MP7_flip_up_rear_sight
+b'Magpul MBUS Gen2 front flip-up sight':/wiki/Magpul_MBUS_Gen2_front_flip-up_sight
+b'Magpul MBUS Gen2 rear flip-up sight':/wiki/Magpul_MBUS_Gen2_rear_flip-up_sight
+b'SA-58 Holland type rear sight':/wiki/SA-58_Holland_type_rear_sight
+b'M1A SA National Match .062 Blade front sight':/wiki/M1A_SA_National_Match_.062_Blade_front_sight
+b'AR-15 rear sight carry handle':/wiki/AR-15_rear_sight_carry_handle
+b'Mosin front sight':/wiki/Mosin_front_sight
+b'Mosin rear sight':/wiki/Mosin_rear_sight
+b'AK-105 rear sight (6P44 Sb.1-30)':/wiki/AK-105_rear_sight_(6P44_Sb.1-30)
+b'AK-74M rear sight (6P20 Sb.2)':/wiki/AK-74M_rear_sight_(6P20_Sb.2)
+b'M14 Enlarged Military Aperture rear sight':/wiki/M14_Enlarged_Military_Aperture_rear_sight
+b'APB rear sight':/wiki/APB_rear_sight
+b'APS rear sight':/wiki/APS_rear_sight
+b'APS front sight':/wiki/APS_front_sight
+b'M1A SA XS Post .125 blade front sight':/wiki/M1A_SA_XS_Post_.125_blade_front_sight
+b'MPX flip-up front sight':/wiki/MPX_flip-up_front_sight
+b'AR-15 UTG Low Profile A2 front sight':/wiki/AR-15_UTG_Low_Profile_A2_front_sight
+b'P226 front sight':/wiki/P226_front_sight
+b'MPX flip-up rear sight':/wiki/MPX_flip-up_rear_sight
+b'AR-15 A2 rear sight':/wiki/AR-15_A2_rear_sight
+b'MP5 Drum rear sight':/wiki/MP5_Drum_rear_sight
+b'P226 rear sight':/wiki/P226_rear_sight
+b'Izhmash SOK-12 rear sight':/wiki/Izhmash_SOK-12_rear_sight
+b'SKS rear sight':/wiki/SKS_rear_sight
+b'SV-98 rear sight':/wiki/SV-98_rear_sight
+b'AS VAL rear sight':/wiki/AS_VAL_rear_sight
+b'VSS Vintorez rear sight':/wiki/VSS_Vintorez_rear_sight
+b'Glock Dead Ringer Snake Eye front sight':/wiki/Glock_Dead_Ringer_Snake_Eye_front_sight
+b'Glock front sight':/wiki/Glock_front_sight
+b'Glock TruGlo TFX front sight':/wiki/Glock_TruGlo_TFX_front_sight
+b'Glock ZEV Tech Front sight':/wiki/Glock_ZEV_Tech_Front_sight
+b'Glock Dead Ringer Snake Eye rear sight':/wiki/Glock_Dead_Ringer_Snake_Eye_rear_sight
+b'Glock rear sight':/wiki/Glock_rear_sight
+b'Glock TruGlo TFX rear sight':/wiki/Glock_TruGlo_TFX_rear_sight
+b'Glock ZEV Tech rear sight':/wiki/Glock_ZEV_Tech_rear_sight
+b'AK-74 rear sight (6P20 Sb.2)':/wiki/AK-74_rear_sight_(6P20_Sb.2)
+b'AKM rear sight (6P1 Sb.2-1)':/wiki/AKM_rear_sight_(6P1_Sb.2-1)
+b'AKMB system rear sight':/wiki/AKMB_system_rear_sight
+b'AKMP system front sight device':/wiki/AKMP_system_front_sight_device
+b'AKMP system rear sight device':/wiki/AKMP_system_rear_sight_device
+b'VPO-209 rear sight':/wiki/VPO-209_rear_sight
+b'AK Taktika Tula TT01 rear sight Weaver adapter':/wiki/AK_Taktika_Tula_TT01_rear_sight_Weaver_adapter
+b'P226 Sight Mount 220-239 rear sight bearing':/wiki/P226_Sight_Mount_220-239_rear_sight_bearing
+b'Izhmash rear sight for PP-19-01':/wiki/Izhmash_rear_sight_for_PP-19-01
+b'SOK-12 CSS rear sight rail mount':/wiki/SOK-12_CSS_rear_sight_rail_mount
+b'M9A3 front sight':/wiki/M9A3_front_sight
+b'M9A3 rear sight':/wiki/M9A3_rear_sight
+b'M9A3 Sight Mount rear sight rail':/wiki/M9A3_Sight_Mount_rear_sight_rail
+b'ASh-12 rear sight carry handle':/wiki/ASh-12_rear_sight_carry_handle
+b'ASh-12 folding front sight':/wiki/ASh-12_folding_front_sight
+b'FN Five-seveN MK2 rear sight':/wiki/FN_Five-seveN_MK2_rear_sight
+b'FN Five-seveN MK2 front sight':/wiki/FN_Five-seveN_MK2_front_sight
+b'KAC Folding Micro rear sight':/wiki/KAC_Folding_Micro_rear_sight
+b'KAC Folding Micro front sight':/wiki/KAC_Folding_Micro_front_sight
+b'MP9 rear sight':/wiki/MP9_rear_sight
+b'M1911A1 front sight':/wiki/M1911A1_front_sight
+b'M1911A1 rear sight':/wiki/M1911A1_rear_sight
+b'M590 ghost ring front sight':/wiki/M590_ghost_ring_front_sight
+b'M590 ghost ring rear sight':/wiki/M590_ghost_ring_rear_sight
+b'M45A1 Novak Lomount rear sight':/wiki/M45A1_Novak_Lomount_rear_sight
+b'M45A1 Novak Lomount front sight':/wiki/M45A1_Novak_Lomount_front_sight
+b'KRISS Defiance low profile flip-up front sight':/wiki/KRISS_Defiance_low_profile_flip-up_front_sight
+b'KRISS Defiance low profile flip up rearsight':/wiki/KRISS_Defiance_low_profile_flip_up_rearsight
+b'MCX flip-up front sight':/wiki/MCX_flip-up_front_sight
+b'MCX flip-up rear sight':/wiki/MCX_flip-up_rear_sight
+b'PL-15 rear sight':/wiki/PL-15_rear_sight
+b'PL-15 extended rear sight':/wiki/PL-15_extended_rear_sight
+b'PL-15 front sight':/wiki/PL-15_front_sight
+b'PL-15 extended front sight':/wiki/PL-15_extended_front_sight
+b'PU 3.5x riflescope':/wiki/PU_3.5x_riflescope
+b'Nightforce ATACR 7-35x56 riflescope':/wiki/Nightforce_ATACR_7-35x56_riflescope
+b'Leupold Mark 4 LR 6.5-20x50 riflescope':/wiki/Leupold_Mark_4_LR_6.5-20x50_riflescope
+b'March Tactical 3-24x42 FFP optical scope':/wiki/March_Tactical_3-24x42_FFP_optical_scope
+b'Hensoldt FF 4-16x56 scope':/wiki/Hensoldt_FF_4-16x56_scope
+b'Zenit-BelOMO PSO-1 4x24 scope':/wiki/Zenit-BelOMO_PSO-1_4x24_scope
+b'Zenit-BelOMO PSO-1M2 4x24 scope':/wiki/Zenit-BelOMO_PSO-1M2_4x24_scope
+b'Zenit-BelOMO PSO-1M2-1 4x24 scope':/wiki/Zenit-BelOMO_PSO-1M2-1_4x24_scope
+b'EOTech Vudu 1-6x24 riflescope':/wiki/EOTech_Vudu_1-6x24_riflescope
+b'Burris FullField TAC30 1-4x24 riflescope':/wiki/Burris_FullField_TAC30_1-4x24_riflescope
+b'NPZ USP-1 4x scope':/wiki/NPZ_USP-1_4x_scope
+b'KMZ 1P59 3-10x riflescope':/wiki/KMZ_1P59_3-10x_riflescope
+b'KMZ 1P69 3-10x riflescope':/wiki/KMZ_1P69_3-10x_riflescope
+b'VOMZ Pilad 4x32 riflescope':/wiki/VOMZ_Pilad_4x32_riflescope
+b'NcSTAR ADO P4 Sniper 3-9x42 riflescope':/wiki/NcSTAR_ADO_P4_Sniper_3-9x42_riflescope
+b'Armasight Vulcan MG 3.5x night vision scope':/wiki/Armasight_Vulcan_MG_3.5x_night_vision_scope
+b'Trijicon REAP-IR thermal scope':/wiki/Trijicon_REAP-IR_thermal_scope
+b'NSPU-M night vision scope':/wiki/NSPU-M_night_vision_scope
+b'FLIR RS-32 2.25-9x 35mm 60Hz thermal riflescope':/wiki/FLIR_RS-32_2.25-9x_35mm_60Hz_thermal_riflescope
+b'MP-155 Ultima thermal camera':/wiki/MP-155_Ultima_thermal_camera
+b'Torrey Pines Logic T12W thermal reflex sight':/wiki/Torrey_Pines_Logic_T12W_thermal_reflex_sight
+b'MPX Geissele SCH charging handle':/wiki/MPX_Geissele_SCH_charging_handle
+b'ADAR 2-15 charging handle':/wiki/ADAR_2-15_charging_handle
+b'HK Extended Latch charging handle':/wiki/HK_Extended_Latch_charging_handle
+b'AK Zenit RP-1 charging handle':/wiki/AK_Zenit_RP-1_charging_handle
+b'Badger Ordnance Tactical Charging Handle Latch':/wiki/Badger_Ordnance_Tactical_Charging_Handle_Latch
+b'AR-15 Radian Weapons Raptor charging handle':/wiki/AR-15_Radian_Weapons_Raptor_charging_handle
+b'AR-15 charging handle':/wiki/AR-15_charging_handle
+b'MP5 Cocking Handle':/wiki/MP5_Cocking_Handle
+b'MPX double latch charging handle':/wiki/MPX_double_latch_charging_handle
+b'MPX single latch charging handle':/wiki/MPX_single_latch_charging_handle
+b'FN P90 charging handle':/wiki/FN_P90_charging_handle
+b'FN P90 K&M The Handler charging handle':/wiki/FN_P90_K%26M_The_Handler_charging_handle
+b'MP5K cocking handle':/wiki/MP5K_cocking_handle
+b'SR-25 Ambidextrous charging handle':/wiki/SR-25_Ambidextrous_charging_handle
+b'MP9 charging handle':/wiki/MP9_charging_handle
+b'SR-25 charging handle':/wiki/SR-25_charging_handle
+b'AR-15 Geissele ACH charging handle':/wiki/AR-15_Geissele_ACH_charging_handle
+b'AR-15 Avalanche MOD2 charging handle':/wiki/AR-15_Avalanche_MOD2_charging_handle
+b'MCX charging handle':/wiki/MCX_charging_handle
+b'AR-15 MASP Industries Ambidextrous Battle Charging Handle':/wiki/AR-15_MASP_Industries_Ambidextrous_Battle_Charging_Handle
+b'MPX 9x19 F5 50-round drum magazine':/wiki/MPX_9x19_F5_50-round_drum_magazine
+b'5.56x45 TROY BattleMag STANAG 30-round magazine':/wiki/5.56x45_TROY_BattleMag_STANAG_30-round_magazine
+b'SKS 7.62x39 ProMag AALVX 35-round magazine':/wiki/SKS_7.62x39_ProMag_AALVX_35-round_magazine
+b'MPX 9x19 41-round magazine':/wiki/MPX_9x19_41-round_magazine
+b'VPO-101 Vepr Hunter 7.62x51 10-round magazine':/wiki/VPO-101_Vepr_Hunter_7.62x51_10-round_magazine
+b'TOZ-106 20ga MC 20-01 Sb.3 5-shot magazine':/wiki/TOZ-106_20ga_MC_20-01_Sb.3_5-shot_magazine
+b'SVD 7.62x54R 20-round magazine':/wiki/SVD_7.62x54R_20-round_magazine
+b'VPO-101 Vepr Hunter 7.62x51 5-round magazine':/wiki/VPO-101_Vepr_Hunter_7.62x51_5-round_magazine
+b'AK 7.62x39 ProMag AK-A-16 73-round drum magazine':/wiki/AK_7.62x39_ProMag_AK-A-16_73-round_drum_magazine
+b'P226 9x19 20-round extended magazine':/wiki/P226_9x19_20-round_extended_magazine
+b'5.56x45 HK PM Gen.2 STANAG 30-round magazine':/wiki/5.56x45_HK_PM_Gen.2_STANAG_30-round_magazine
+b'SKS 7.62x39 10-round internal box magazine':/wiki/SKS_7.62x39_10-round_internal_box_magazine
+b'SVD 7.62x54R 10-round magazine':/wiki/SVD_7.62x54R_10-round_magazine
+b'5.56x45 HK 30 STANAG polymer 30-round magazine':/wiki/5.56x45_HK_30_STANAG_polymer_30-round_magazine
+b'5.56x45 MAG5-100 STANAG 100-round magazine':/wiki/5.56x45_MAG5-100_STANAG_100-round_magazine
+b'MPX 9x19 20-round magazine':/wiki/MPX_9x19_20-round_magazine
+b'PP-19-01 Vityaz-SN 9x19 PUFGUN SG-919 20 20-round magazine':/wiki/PP-19-01_Vityaz-SN_9x19_PUFGUN_SG-919_20_20-round_magazine
+b'PP-19-01 Vityaz-SN 9x19 PUFGUN SG-919 30 30-round magazine':/wiki/PP-19-01_Vityaz-SN_9x19_PUFGUN_SG-919_30_30-round_magazine
+b'AK-101/SLR-106 5.56x45 Circle 10 30-round Magazine':/wiki/AK-101/SLR-106_5.56x45_Circle_10_30-round_Magazine
+b'5.56x45 HK Steel Maritime STANAG 30-round magazine':/wiki/5.56x45_HK_Steel_Maritime_STANAG_30-round_magazine
+b"Remington M700 .308 Wyatt's Outdoor 5-round magazine":/wiki/Remington_M700_.308_Wyatt%27s_Outdoor_5-round_magazine
+b"Remington M700 .380 Wyatt's Outdoor 10-round magazine":/wiki/Remington_M700_.380_Wyatt%27s_Outdoor_10-round_magazine
+b'RPK-16 5.45x39 95-round drum magazine':/wiki/RPK-16_5.45x39_95-round_drum_magazine
+b'30-round 5.45x39 magazine for AK-12 and compatibles':/wiki/30-round_5.45x39_magazine_for_AK-12_and_compatibles
+b'Mosin 7.62x54R ProMag Archangel OPFOR 10-round magazine':/wiki/Mosin_7.62x54R_ProMag_Archangel_OPFOR_10-round_magazine
+b'SA-58/FAL 7.62x51 British 30-round magazine':/wiki/SA-58/FAL_7.62x51_British_30-round_magazine
+b'M14 7.62x51 X-14 50-round drum magazine':/wiki/M14_7.62x51_X-14_50-round_drum_magazine
+b'M14 7.62x51 30-round magazine':/wiki/M14_7.62x51_30-round_magazine
+b'Mosin 7.62x54R 5-round magazine':/wiki/Mosin_7.62x54R_5-round_magazine
+b'5.56x45 Magpul PMAG GEN M3 30 STANAG 30-round magazine':/wiki/5.56x45_Magpul_PMAG_GEN_M3_30_STANAG_30-round_magazine
+b'6L29 30-round 5.56x45 magazine for AK-101 and compatible weapons':/wiki/6L29_30-round_5.56x45_magazine_for_AK-101_and_compatible_weapons
+b'30-round 7.62x39 magazine for AK-103 and compatible weapons':/wiki/30-round_7.62x39_magazine_for_AK-103_and_compatible_weapons
+b'M1A 7.62x51 20-round magazine':/wiki/M1A_7.62x51_20-round_magazine
+b'5.56x45 Magpul PMAG GEN M3 10 STANAG 10-round magazine':/wiki/5.56x45_Magpul_PMAG_GEN_M3_10_STANAG_10-round_magazine
+b'AK-74 5.45x39 Magpul PMAG 30 GEN M3 30-round magazine':/wiki/AK-74_5.45x39_Magpul_PMAG_30_GEN_M3_30-round_magazine
+b'9x39 SR3M.130 30-round magazine':/wiki/9x39_SR3M.130_30-round_magazine
+b'SOK-12 12/76 SAI-02 10-round magazine':/wiki/SOK-12_12/76_SAI-02_10-round_magazine
+b'MP-133 12ga 8-shell magazine':/wiki/MP-133_12ga_8-shell_magazine
+b'AK 7.62x39 6L10 30-round magazine':/wiki/AK_7.62x39_6L10_30-round_magazine
+b'AK 7.62x39 ribbed metal 10-round magazine':/wiki/AK_7.62x39_ribbed_metal_10-round_magazine
+b'SR-1MP 9x21 18-round magazine':/wiki/SR-1MP_9x21_18-round_magazine
+b'P226 9x19 15-round magazine':/wiki/P226_9x19_15-round_magazine
+b'VSS 9x39 6L25 20-round magazine':/wiki/VSS_9x39_6L25_20-round_magazine
+b'30-round 6L23 5.45x39 magazine for AK-74 and compatibles':/wiki/30-round_6L23_5.45x39_magazine_for_AK-74_and_compatibles
+b'45-round 6L26 5.45x39 magazine for AK-74 and compatibles':/wiki/45-round_6L26_5.45x39_magazine_for_AK-74_and_compatibles
+b'DVL-10 .308 10-round magazine':/wiki/DVL-10_.308_10-round_magazine
+b'MP-443 9x19 18-round magazine':/wiki/MP-443_9x19_18-round_magazine
+b'MP5 9x19 30-round magazine':/wiki/MP5_9x19_30-round_magazine
+b'Glock 9x19 17-round magazine':/wiki/Glock_9x19_17-round_magazine
+b'MPX 9x19 30-round magazine':/wiki/MPX_9x19_30-round_magazine
+b'MP-133 12ga 6-shell magazine':/wiki/MP-133_12ga_6-shell_magazine
+b'MP-153 forend cap':/wiki/MP-153_forend_cap
+b'MP5 9x19 X Products X-5 50-round drum magazine':/wiki/MP5_9x19_X_Products_X-5_50-round_drum_magazine
+b'MP-153 5-rd magazine extension':/wiki/MP-153_5-rd_magazine_extension
+b'MP-153 6-rd magazine extension':/wiki/MP-153_6-rd_magazine_extension
+b'MP-153 7-rd magazine extension':/wiki/MP-153_7-rd_magazine_extension
+b'MP-153 8-rd magazine extension':/wiki/MP-153_8-rd_magazine_extension
+b'60-round 6L31 5.45x39 magazine for AK-74 and compatibles':/wiki/60-round_6L31_5.45x39_magazine_for_AK-74_and_compatibles
+b'Palm US AK30 7.62x39 magazine for AK and compatibles, 30-round capacity':/wiki/Palm_US_AK30_7.62x39_magazine_for_AK_and_compatibles,_30-round_capacity
+b'TT-105 7.62x25 TT Magazine':/wiki/TT-105_7.62x25_TT_Magazine
+b'PM 9x18PM 84-round makeshift drum magazine':/wiki/PM_9x18PM_84-round_makeshift_drum_magazine
+b'PM 9x18PM 90-93 8-round magazine':/wiki/PM_9x18PM_90-93_8-round_magazine
+b'SOK-12 12/76 sb.5 5-round magazine':/wiki/SOK-12_12/76_sb.5_5-round_magazine
+b'ProMag SKS-A5 7.62x39 20-round SKS magazine':/wiki/ProMag_SKS-A5_7.62x39_20-round_SKS_magazine
+b'6L20 30-round 5.45x39 magazine for AK-74 and compatible weapons':/wiki/6L20_30-round_5.45x39_magazine_for_AK-74_and_compatible_weapons
+b'VSS 9x39 6L24 10-round magazine':/wiki/VSS_9x39_6L24_10-round_magazine
+b'6L18 45-round 5.45x39 magazine for AK-74 and compatible weapons':/wiki/6L18_45-round_5.45x39_magazine_for_AK-74_and_compatible_weapons
+b"AK 7.62x39 30-round magazine (issued '55 or later)":/wiki/AK_7.62x39_30-round_magazine_(issued_%2755_or_later)
+b'AK 7.62x39 aluminium 30-round magazine':/wiki/AK_7.62x39_aluminium_30-round_magazine
+b'AK-74/Saiga 5.45x39 10-round magazine':/wiki/AK-74/Saiga_5.45x39_10-round_magazine
+b'SV-98 7.62x54R polymer 10-round magazine':/wiki/SV-98_7.62x54R_polymer_10-round_magazine
+b'AK 7.62x39 Molot 40-round magazine (6P2.Sb-11)':/wiki/AK_7.62x39_Molot_40-round_magazine_(6P2.Sb-11)
+b'PMAG 30 AK/AKM GEN M3 7.62x39 magazine for AK and compatibles, 30-round capacity':/wiki/PMAG_30_AK/AKM_GEN_M3_7.62x39_magazine_for_AK_and_compatibles,_30-round_capacity
+b'APS 9x18PM 20-round magazine':/wiki/APS_9x18PM_20-round_magazine
+b'Saiga-9 9x19 10-round magazine':/wiki/Saiga-9_9x19_10-round_magazine
+b'PP-19-01 Vityaz-SN 9x19 30-round magazine':/wiki/PP-19-01_Vityaz-SN_9x19_30-round_magazine
+b'PP-91 9x18PM 20-round magazine':/wiki/PP-91_9x18PM_20-round_magazine
+b'PP-91 9x18PM 30-round magazine':/wiki/PP-91_9x18PM_30-round_magazine
+b'5.56x45 Colt AR-15 STANAG 30-round magazine':/wiki/5.56x45_Colt_AR-15_STANAG_30-round_magazine
+b'5.56x45 Magpul PMAG D-60 60-round magazine':/wiki/5.56x45_Magpul_PMAG_D-60_60-round_magazine
+b'5.56x45 Magpul PMAG GEN M3 20 STANAG 20-round magazine':/wiki/5.56x45_Magpul_PMAG_GEN_M3_20_STANAG_20-round_magazine
+b'5.56x45 Magpul PMAG GEN M3 40 STANAG 40-round magazine':/wiki/5.56x45_Magpul_PMAG_GEN_M3_40_STANAG_40-round_magazine
+b'5.56x45 Magpul PMAG GEN M3 W 30 STANAG 30-round magazine':/wiki/5.56x45_Magpul_PMAG_GEN_M3_W_30_STANAG_30-round_magazine
+b'5.56x45 Surefire MAG5-60 STANAG 60-round magazine':/wiki/5.56x45_Surefire_MAG5-60_STANAG_60-round_magazine
+b'7.62x51 Magpul PMAG SR-LR GEN M3 20 20-round magazine':/wiki/7.62x51_Magpul_PMAG_SR-LR_GEN_M3_20_20-round_magazine
+b'2-shot MC 20-01 Sb.3 20ga magazine for TOZ-106':/wiki/2-shot_MC_20-01_Sb.3_20ga_magazine_for_TOZ-106
+b'TOZ-106 20ga MC 20-01 Sb.3 4-shot magazine':/wiki/TOZ-106_20ga_MC_20-01_Sb.3_4-shot_magazine
+b'M870 12ga 10-shell magazine':/wiki/M870_12ga_10-shell_magazine
+b'M870 12ga 7-shell magazine':/wiki/M870_12ga_7-shell_magazine
+b'Glock 9x19 Magpul PMAG GL9 21-round magazine':/wiki/Glock_9x19_Magpul_PMAG_GL9_21-round_magazine
+b'Glock 9x19 SGMT 50-round drum magazine':/wiki/Glock_9x19_SGMT_50-round_drum_magazine
+b'M870 12ga 4-shell magazine':/wiki/M870_12ga_4-shell_magazine
+b'Glock 9x19 "Big Stick" 33-round magazine':/wiki/Glock_9x19_%22Big_Stick%22_33-round_magazine
+b'SA-58/FAL 7.62x51 20-round magazine':/wiki/SA-58/FAL_7.62x51_20-round_magazine
+b'SA-58/FAL 7.62x51 30-round magazine':/wiki/SA-58/FAL_7.62x51_30-round_magazine
+b'SA-58/FAL 7.62x51 10-round magazine':/wiki/SA-58/FAL_7.62x51_10-round_magazine
+b'SA-58/FAL 7.62x51 X-FAL 50-round drum magazine':/wiki/SA-58/FAL_7.62x51_X-FAL_50-round_drum_magazine
+b'SA-58/FAL 7.62x51 "MMW" plastic 20-round magazine':/wiki/SA-58/FAL_7.62x51_%22MMW%22_plastic_20-round_magazine
+b'AK 7.62x39 bakelite 40-round magazine':/wiki/AK_7.62x39_bakelite_40-round_magazine
+b'AK 7.62x39 aluminium 10-round magazine':/wiki/AK_7.62x39_aluminium_10-round_magazine
+b'MP7 4.6x30 20-round magazine':/wiki/MP7_4.6x30_20-round_magazine
+b'MP7 4.6x30 30-round magazine':/wiki/MP7_4.6x30_30-round_magazine
+b'MP7 4.6x30 40-round magazine':/wiki/MP7_4.6x30_40-round_magazine
+b'M9A3 9x19 17-round magazine':/wiki/M9A3_9x19_17-round_magazine
+b'ASh-12 12.7x55 10-round magazine':/wiki/ASh-12_12.7x55_10-round_magazine
+b'ASh-12 12.7x55 20-round magazine':/wiki/ASh-12_12.7x55_20-round_magazine
+b'AK 7.62x39 X-47 50-round drum magazine':/wiki/AK_7.62x39_X-47_50-round_drum_magazine
+b'AK 7.62x39 Molot 75-round drum magazine':/wiki/AK_7.62x39_Molot_75-round_drum_magazine
+b'FN P90 5.7x28 50-round magazine':/wiki/FN_P90_5.7x28_50-round_magazine
+b'Remington M700 .308 Magpul PMAG AC 5-round magazine':/wiki/Remington_M700_.308_Magpul_PMAG_AC_5-round_magazine
+b'Remington M700 .308 ProMag AA-70 10-round magazine':/wiki/Remington_M700_.308_ProMag_AA-70_10-round_magazine
+b'Remington M700 .308 ProMag AA-70 20-round magazine':/wiki/Remington_M700_.308_ProMag_AA-70_20-round_magazine
+b'SOK-12 12/76 MaxRounds Powermag 20-round magazine':/wiki/SOK-12_12/76_MaxRounds_Powermag_20-round_magazine
+b'Remington M700 .308 AICS 5-round magazine':/wiki/Remington_M700_.308_AICS_5-round_magazine
+b'Remington M700 .308 AICS 10-round magazine':/wiki/Remington_M700_.308_AICS_10-round_magazine
+b'Remington M700 .308 MDT AICS 12-round magazine':/wiki/Remington_M700_.308_MDT_AICS_12-round_magazine
+b'Remington M700 .308 Magpul PMAG AC 10-round magazine':/wiki/Remington_M700_.308_Magpul_PMAG_AC_10-round_magazine
+b'MP5 9x19 20-round magazine':/wiki/MP5_9x19_20-round_magazine
+b'FN Five-seveN 5.7x28 20-round magazine':/wiki/FN_Five-seveN_5.7x28_20-round_magazine
+b'MP9 9x19 15-round magazine':/wiki/MP9_9x19_15-round_magazine
+b'MP9 9x19 20-round magazine':/wiki/MP9_9x19_20-round_magazine
+b'MP9 9x19 25-round magazine':/wiki/MP9_9x19_25-round_magazine
+b'MP9 9x19 30-round magazine':/wiki/MP9_9x19_30-round_magazine
+b'KAC 7.62x51 10-round steel magazine':/wiki/KAC_7.62x51_10-round_steel_magazine
+b'KAC 7.62x51 20-round steel magazine':/wiki/KAC_7.62x51_20-round_steel_magazine
+b'VPO-215 .366 TKM metal 4-round magazine':/wiki/VPO-215_.366_TKM_metal_4-round_magazine
+b'Orsis T-5000M .308 5-round magazine':/wiki/Orsis_T-5000M_.308_5-round_magazine
+b'PPSh-41 7.62x25 35-round magazine':/wiki/PPSh-41_7.62x25_35-round_magazine
+b'PPSh-41 7.62x25 71-round drum magazine':/wiki/PPSh-41_7.62x25_71-round_drum_magazine
+b'M1911A1 .45 ACP 7-round magazine':/wiki/M1911A1_.45_ACP_7-round_magazine
+b'M1911A1 .45 ACP Mec-Gar 11-round magazine':/wiki/M1911A1_.45_ACP_Mec-Gar_11-round_magazine
+b'M590A1 12ga 8-shell magazine cap':/wiki/M590A1_12ga_8-shell_magazine_cap
+b'KS-23M 23x75 3-shell magazine cap':/wiki/KS-23M_23x75_3-shell_magazine_cap
+b'M45A1 .45 ACP 7-round magazine':/wiki/M45A1_.45_ACP_7-round_magazine
+b'Glock .45 ACP 13-round magazine':/wiki/Glock_.45_ACP_13-round_magazine
+b'Glock .45 ACP KRISS G30 MagEx 30-round magazine':/wiki/Glock_.45_ACP_KRISS_G30_MagEx_30-round_magazine
+b'HK UMP .45 ACP 25-round magazine':/wiki/HK_UMP_.45_ACP_25-round_magazine
+b'Mk-18 .338 LM 10-round magazine':/wiki/Mk-18_.338_LM_10-round_magazine
+b'PL-15 9x19 16-round magazine':/wiki/PL-15_9x19_16-round_magazine
+b'Aimpoint Standard Spacer':/wiki/Aimpoint_Standard_Spacer
+b'SVDS Upper Band':/wiki/SVDS_Upper_Band
+b'IEA Mil-Optics 34mm one piece magmount':/wiki/IEA_Mil-Optics_34mm_one_piece_magmount
+b'TOZ-106 dovetail mount':/wiki/TOZ-106_dovetail_mount
+b'Zenit B-13V "Klassika" dovetail rail platform':/wiki/Zenit_B-13V_%22Klassika%22_dovetail_rail_platform
+b'TOZ-106 scope mount':/wiki/TOZ-106_scope_mount
+b'Aimpoint LRP mount for COMP M4 sights':/wiki/Aimpoint_LRP_mount_for_COMP_M4_sights
+b'Zenit B-13 "Klassika" dovetail rail platform':/wiki/Zenit_B-13_%22Klassika%22_dovetail_rail_platform
+b'RPK-16 handguard rail':/wiki/RPK-16_handguard_rail
+b'MP-133/153 Taktika Tula 12003 stock adapter':/wiki/MP-133/153_Taktika_Tula_12003_stock_adapter
+b'Remington M700 extended multi-slot Weaver rail base':/wiki/Remington_M700_extended_multi-slot_Weaver_rail_base
+b'Remington M700 30mm integral ring-mount':/wiki/Remington_M700_30mm_integral_ring-mount
+b'Remington RAHG 2 inch rail':/wiki/Remington_RAHG_2_inch_rail
+b'Remington RAHG 4 inch rail':/wiki/Remington_RAHG_4_inch_rail
+b'LaRue LT101 QD tactical picatinny riser mount':/wiki/LaRue_LT101_QD_tactical_picatinny_riser_mount
+b'Compact Mount adapter for sights':/wiki/Compact_Mount_adapter_for_sights
+b'Mosin AIM Sports Tri-Rail mount':/wiki/Mosin_AIM_Sports_Tri-Rail_mount
+b'Mosin AIM Sports MNG rail mount':/wiki/Mosin_AIM_Sports_MNG_rail_mount
+b'Vltor CASV 5 inch rail':/wiki/Vltor_CASV_5_inch_rail
+b'Vltor CASV 4 inch rail':/wiki/Vltor_CASV_4_inch_rail
+b'Vltor CASV 2 inch rail':/wiki/Vltor_CASV_2_inch_rail
+b'Hexagon short length rail':/wiki/Hexagon_short_length_rail
+b'Magpul M-LOK 4.1 inch rail':/wiki/Magpul_M-LOK_4.1_inch_rail
+b'Magpul M-LOK 2.5 inch rail':/wiki/Magpul_M-LOK_2.5_inch_rail
+b'Hexagon medium length rail':/wiki/Hexagon_medium_length_rail
+b'TROY QARS 4.2 inch rail':/wiki/TROY_QARS_4.2_inch_rail
+b'PU 3.5x ring mount':/wiki/PU_3.5x_ring_mount
+b'Mosin Kochetov mount':/wiki/Mosin_Kochetov_mount
+b'Nightforce Magmount 30mm rings':/wiki/Nightforce_Magmount_30mm_rings
+b'Armasight Vulcan universal base':/wiki/Armasight_Vulcan_universal_base
+b'Alexander Arms 10 inch rail':/wiki/Alexander_Arms_10_inch_rail
+b'Alexander Arms 3 inch rail':/wiki/Alexander_Arms_3_inch_rail
+b'Burris AR-P.E.P.R. 30mm ring mount':/wiki/Burris_AR-P.E.P.R._30mm_ring_mount
+b'TROY QARS 3.2 inch rail':/wiki/TROY_QARS_3.2_inch_rail
+b'SIG Sauer ROMEO sights mount':/wiki/SIG_Sauer_ROMEO_sights_mount
+b'M14 UTG 4-Point Locking Deluxe mount':/wiki/M14_UTG_4-Point_Locking_Deluxe_mount
+b'Arms 18 mount for M14':/wiki/Arms_18_mount_for_M14
+b'M14 Mini Scout Mount system':/wiki/M14_Mini_Scout_Mount_system
+b'M14 Ultimak M8 Forward Optic mount':/wiki/M14_Ultimak_M8_Forward_Optic_mount
+b'M14 SAGE International DCSB mount':/wiki/M14_SAGE_International_DCSB_mount
+b'M14 Vltor CASV-14 rail system':/wiki/M14_Vltor_CASV-14_rail_system
+b'M1A SOCOM 16 upper part':/wiki/M1A_SOCOM_16_upper_part
+b'Nightforce Magmount 34mm rings with a Multimount rail':/wiki/Nightforce_Magmount_34mm_rings_with_a_Multimount_rail
+b'Nightforce Magmount 34mm rings':/wiki/Nightforce_Magmount_34mm_rings
+b'VSS/VAL Zenit B-3 ring mount combo':/wiki/VSS/VAL_Zenit_B-3_ring_mount_combo
+b'Strike Industries TRAX bridge rail':/wiki/Strike_Industries_TRAX_bridge_rail
+b'Strike Industries KeyMod 6 inch rail':/wiki/Strike_Industries_KeyMod_6_inch_rail
+b'Strike Industries KeyMod 4 inch rail':/wiki/Strike_Industries_KeyMod_4_inch_rail
+b'MP5 B&T tri-rail receiver mount':/wiki/MP5_B%26T_tri-rail_receiver_mount
+b'Trijicon RMR reflex sight mount for ACOG scopes':/wiki/Trijicon_RMR_reflex_sight_mount_for_ACOG_scopes
+b'Axion Kobra dovetail mount':/wiki/Axion_Kobra_dovetail_mount
+b'SR-1MP single rail mount':/wiki/SR-1MP_single_rail_mount
+b'MP5SD B&T tri-rail ring mount':/wiki/MP5SD_B%26T_tri-rail_ring_mount
+b'Tactica Tula 10000 mount':/wiki/Tactica_Tula_10000_mount
+b'MPX GEN1 handguard 2 inch rail':/wiki/MPX_GEN1_handguard_2_inch_rail
+b'MP5 MFI HK universal low profile scope mount':/wiki/MP5_MFI_HK_universal_low_profile_scope_mount
+b'MP-443 Zenit B-8 mount':/wiki/MP-443_Zenit_B-8_mount
+b'Aimpoint Micro Spacer High':/wiki/Aimpoint_Micro_Spacer_High
+b'AKS-74U Zenit B-18 Mount':/wiki/AKS-74U_Zenit_B-18_Mount
+b'Aimpoint mount for the sights of Micro series':/wiki/Aimpoint_mount_for_the_sights_of_Micro_series
+b'VSS/VAL Zenit B-3 ring mount':/wiki/VSS/VAL_Zenit_B-3_ring_mount
+b'NcStar MPR45 Backup mount':/wiki/NcStar_MPR45_Backup_mount
+b'Trijicon RMR reflex sight high profile mount':/wiki/Trijicon_RMR_reflex_sight_high_profile_mount
+b'DeltaPoint Cross Slot Mount base':/wiki/DeltaPoint_Cross_Slot_Mount_base
+b'SR-1MP quad rail mount':/wiki/SR-1MP_quad_rail_mount
+b'Trijicon RMR reflex sight low profile mount':/wiki/Trijicon_RMR_reflex_sight_low_profile_mount
+b'AK Zenit B-12 Mount':/wiki/AK_Zenit_B-12_Mount
+b'25mm mount ring':/wiki/25mm_mount_ring
+b'Trijicon TA51 sight mount':/wiki/Trijicon_TA51_sight_mount
+b'UNV DLOC-IRD sight mount':/wiki/UNV_DLOC-IRD_sight_mount
+b'Trijicon RMR reflex sight mount for a Sig-Sauer pistols':/wiki/Trijicon_RMR_reflex_sight_mount_for_a_Sig-Sauer_pistols
+b'Burris FastFire Weaver Base':/wiki/Burris_FastFire_Weaver_Base
+b'MPX GEN1 handguard 4 inch rail':/wiki/MPX_GEN1_handguard_4_inch_rail
+b'SKS UTG SOCOM rail mount':/wiki/SKS_UTG_SOCOM_rail_mount
+b'Pilad 043-02 dovetail mount':/wiki/Pilad_043-02_dovetail_mount
+b'OP-SKS dovetail mount':/wiki/OP-SKS_dovetail_mount
+b'VSS/VAL TOZ 6P29M mount':/wiki/VSS/VAL_TOZ_6P29M_mount
+b'30mm Scope mount':/wiki/30mm_Scope_mount
+b'Delta-tek Sprut mount for pump-action shotguns':/wiki/Delta-tek_Sprut_mount_for_pump-action_shotguns
+b'PP-91 Kedr Rotor 43 RIS mount':/wiki/PP-91_Kedr_Rotor_43_RIS_mount
+b'Kiba Arms International SPRM rail mount for pump-action shotguns':/wiki/Kiba_Arms_International_SPRM_rail_mount_for_pump-action_shotguns
+b'JP Enterprises 30mm ring scope mount':/wiki/JP_Enterprises_30mm_ring_scope_mount
+b'SR-1MP sound suppressor mount':/wiki/SR-1MP_sound_suppressor_mount
+b'Vltor CASV KeyMod 2 inch rail':/wiki/Vltor_CASV_KeyMod_2_inch_rail
+b'Vltor CASV KeyMod 4 inch rail':/wiki/Vltor_CASV_KeyMod_4_inch_rail
+b'Vltor CASV KeyMod 6 inch rail':/wiki/Vltor_CASV_KeyMod_6_inch_rail
+b'Glock Aimtech mount base':/wiki/Glock_Aimtech_mount_base
+b'M870 Leapers UTG PRO MTU-028SG rail':/wiki/M870_Leapers_UTG_PRO_MTU-028SG_rail
+b'M870 Mesa Tactical magazine clamp':/wiki/M870_Mesa_Tactical_magazine_clamp
+b'M870 XS SHOTRAIL rail with Ghost ring':/wiki/M870_XS_SHOTRAIL_rail_with_Ghost_ring
+b'Glock Aimtech Tiger Shark sight mount':/wiki/Glock_Aimtech_Tiger_Shark_sight_mount
+b'UM Tactical UM3 pistol sight mount':/wiki/UM_Tactical_UM3_pistol_sight_mount
+b'P226 bridge sight mount':/wiki/P226_bridge_sight_mount
+b'FN P90 EFFEN 90 receiver rail':/wiki/FN_P90_EFFEN_90_receiver_rail
+b'FN P90 upper receiver side rail':/wiki/FN_P90_upper_receiver_side_rail
+b'FN P90 upper receiver top rail':/wiki/FN_P90_upper_receiver_top_rail
+b'Remington M700 AB Arms MOD*X rail mount':/wiki/Remington_M700_AB_Arms_MOD*X_rail_mount
+b'Remington M700 Magpul Pro 700 chassis inline mount':/wiki/Remington_M700_Magpul_Pro_700_chassis_inline_mount
+b'Mosin Arbalet Patriot K+W rail mount':/wiki/Mosin_Arbalet_Patriot_K%2BW_rail_mount
+b'KMZ 1P59 Dovetail mount':/wiki/KMZ_1P59_Dovetail_mount
+b'KMZ 1P69 Weaver mount':/wiki/KMZ_1P69_Weaver_mount
+b'KAC URX 3 3 inch rail':/wiki/KAC_URX_3_3_inch_rail
+b'FN Five-seveN MK2 RMR mount':/wiki/FN_Five-seveN_MK2_RMR_mount
+b'UTG 25mm ring mount':/wiki/UTG_25mm_ring_mount
+b'SVD SAG low sidemount':/wiki/SVD_SAG_low_sidemount
+b'MP9 side rail':/wiki/MP9_side_rail
+b'MP9 bottom rail':/wiki/MP9_bottom_rail
+b'ETMI-019 shotgun rail mount':/wiki/ETMI-019_shotgun_rail_mount
+b'Orsis T-5000M medium length rail':/wiki/Orsis_T-5000M_medium_length_rail
+b'Orsis T-5000M long length rail':/wiki/Orsis_T-5000M_long_length_rail
+b'Orsis T-5000M scope mount':/wiki/Orsis_T-5000M_scope_mount
+b'VPO-215 scope rail mount':/wiki/VPO-215_scope_rail_mount
+b'SVD modern top rail':/wiki/SVD_modern_top_rail
+b'SVD CAA XD RGL receiver mount':/wiki/SVD_CAA_XD_RGL_receiver_mount
+b'SVD CAA DRG L-1 mount rail':/wiki/SVD_CAA_DRG_L-1_mount_rail
+b'SVD CAA DRG L-1 mount rail':/wiki/SVD_CAA_DRG_L-1_mount_rail
+b'M590A1 tactical rail':/wiki/M590A1_tactical_rail
+b'M1911A1 NcSTAR trigger guard mount':/wiki/M1911A1_NcSTAR_trigger_guard_mount
+b'M1911A1 Weigand Weig-a-tinny rail mount':/wiki/M1911A1_Weigand_Weig-a-tinny_rail_mount
+b'RFB handguard rail mount':/wiki/RFB_handguard_rail_mount
+b'RFB scope mount rail':/wiki/RFB_scope_mount_rail
+b'HK UMP bottom handguard rail':/wiki/HK_UMP_bottom_handguard_rail
+b'HK UMP side handguard rail':/wiki/HK_UMP_side_handguard_rail
+b'KRISS Vector bottom rail':/wiki/KRISS_Vector_bottom_rail
+b'KRISS Vector side rail':/wiki/KRISS_Vector_side_rail
+b'KRISS Vector Mk.5 modular rail':/wiki/KRISS_Vector_Mk.5_modular_rail
+b'Strike Industries Advanced Receiver Extension buffer tube':/wiki/Strike_Industries_Advanced_Receiver_Extension_buffer_tube
+b'Strike Industries Viper Mod 1 stock':/wiki/Strike_Industries_Viper_Mod_1_stock
+b'PPSh-41 stock':/wiki/PPSh-41_stock
+b'SVDS polymer stock':/wiki/SVDS_polymer_stock
+b'VPO-101 Vepr Hunter stock':/wiki/VPO-101_Vepr_Hunter_stock
+b'HK E1 stock':/wiki/HK_E1_stock
+b'MPX PMM ULSS foldable stock':/wiki/MPX_PMM_ULSS_foldable_stock
+b'MPX Maxim Defense CQB telescoping stock':/wiki/MPX_Maxim_Defense_CQB_telescoping_stock
+b'TOZ-106 custom cut Mosin stock':/wiki/TOZ-106_custom_cut_Mosin_stock
+b'ADAR 2-15 wooden stock':/wiki/ADAR_2-15_wooden_stock
+b'MP5 End Cap stock':/wiki/MP5_End_Cap_stock
+b'Remington M700 Hogue Overmolded Ghillie stock':/wiki/Remington_M700_Hogue_Overmolded_Ghillie_stock
+b'FAB Defense buffer tube for AGR-870':/wiki/FAB_Defense_buffer_tube_for_AGR-870
+b'FAB Defense GLR-16-S stock':/wiki/FAB_Defense_GLR-16-S_stock
+b'Mosin carbine stock':/wiki/Mosin_carbine_stock
+b'Mosin sniper carbine stock':/wiki/Mosin_sniper_carbine_stock
+b'Mosin sawn-off stock':/wiki/Mosin_sawn-off_stock
+b'Mosin sawn-off sniper stock':/wiki/Mosin_sawn-off_sniper_stock
+b'Mosin Infantry stock':/wiki/Mosin_Infantry_stock
+b'AK-12 stock':/wiki/AK-12_stock
+b'RPK-16 buffer tube':/wiki/RPK-16_buffer_tube
+b'Mosin ProMag Archangel OPFOR PRS stock':/wiki/Mosin_ProMag_Archangel_OPFOR_PRS_stock
+b'Mosin ATI Monte Carlo stock':/wiki/Mosin_ATI_Monte_Carlo_stock
+b'Mosin AIM Sports Recoil pad':/wiki/Mosin_AIM_Sports_Recoil_pad
+b'HK Enhanced Tube buffer tube':/wiki/HK_Enhanced_Tube_buffer_tube
+b'HK Slim Line Stock':/wiki/HK_Slim_Line_Stock
+b'MP7A1 stock':/wiki/MP7A1_stock
+b'MP7A2 stock':/wiki/MP7A2_stock
+b'SA-58 humpback polymer stock':/wiki/SA-58_humpback_polymer_stock
+b'SA-58 SPR stock':/wiki/SA-58_SPR_stock
+b'SA-58 folding stock':/wiki/SA-58_folding_stock
+b'SA-58 BRS stock':/wiki/SA-58_BRS_stock
+b'SA-58/FAL Magpul PRS 2 polymer stock':/wiki/SA-58/FAL_Magpul_PRS_2_polymer_stock
+b'SA-58 buffer tube adapter':/wiki/SA-58_buffer_tube_adapter
+b'AKM/AK-74 Magpul Zhukov-S stock':/wiki/AKM/AK-74_Magpul_Zhukov-S_stock
+b'ERGO F93 Pro stock':/wiki/ERGO_F93_Pro_stock
+b'Vltor EMOD stock':/wiki/Vltor_EMOD_stock
+b'SKS TAPCO Intrafuse buffer tube':/wiki/SKS_TAPCO_Intrafuse_buffer_tube
+b'ADAR 2-15 buffer tube':/wiki/ADAR_2-15_buffer_tube
+b'M1A ProMag Archangel stock':/wiki/M1A_ProMag_Archangel_stock
+b'M14 SAGE International M14ALCS (MOD-0) stock':/wiki/M14_SAGE_International_M14ALCS_(MOD-0)_stock
+b'M14 M14ALCS(MOD. 0) stock (buttstock)':/wiki/M14_M14ALCS(MOD._0)_stock_(buttstock)
+b'M870 Mesa Tactical LEO stock adapter':/wiki/M870_Mesa_Tactical_LEO_stock_adapter
+b'MC 20-01 stock':/wiki/MC_20-01_stock
+b'Mosin rifle standard stock':/wiki/Mosin_rifle_standard_stock
+b'LMT SOPMOD stock':/wiki/LMT_SOPMOD_stock
+b'M14 TROY S.A.S.S. chassis stock':/wiki/M14_TROY_S.A.S.S._chassis_stock
+b'AKM/AK-74 Zenit PT Lock':/wiki/AKM/AK-74_Zenit_PT_Lock
+b'AK74/AK100 PT Lock':/wiki/AK74/AK100_PT_Lock
+b'AK-74M polymer stock (6P34 Sb.15)':/wiki/AK-74M_polymer_stock_(6P34_Sb.15)
+b'AKMSN shoulder piece (6P4 Sb.1-19)':/wiki/AKMSN_shoulder_piece_(6P4_Sb.1-19)
+b'AKS-74 metal skeletonized stock (6P21 Sb.5)':/wiki/AKS-74_metal_skeletonized_stock_(6P21_Sb.5)
+b'M1A SOCOM 16 stock':/wiki/M1A_SOCOM_16_stock
+b'FAB Defense GL-SHOCK buttstock':/wiki/FAB_Defense_GL-SHOCK_buttstock
+b'Magpul MOE Carbine stock (Black)':/wiki/Magpul_MOE_Carbine_stock_(Black)
+b'MP5 A2 stock':/wiki/MP5_A2_stock
+b'Magpul MOE Carbine stock series Rubber Butt-Pad':/wiki/Magpul_MOE_Carbine_stock_series_Rubber_Butt-Pad
+b'TOZ-106 stock':/wiki/TOZ-106_stock
+b'HK A3 old stock model':/wiki/HK_A3_old_stock_model
+b'127x':/wiki/Magpul_PRS_GEN2_stock_(Flat_Dark_Earth)
+b'High Standard M4SS Stock':/wiki/High_Standard_M4SS_Stock
+b'ME adapter for AK':/wiki/ME_adapter_for_AK
+b'AKMS shoulder piece (6P4 Sb.1-19)':/wiki/AKMS_shoulder_piece_(6P4_Sb.1-19)
+b'UBR GEN2 stock':/wiki/UBR_GEN2_stock
+b'AKS-74/AKS-74U PT Lock':/wiki/AKS-74/AKS-74U_PT_Lock
+b'Izhmash SOK-12 AK type stock':/wiki/Izhmash_SOK-12_AK_type_stock
+b'MFT BUS Stock':/wiki/MFT_BUS_Stock
+b'AK Zenit PT-3 "Klassika" stock':/wiki/AK_Zenit_PT-3_%22Klassika%22_stock
+b'AK Zenit PT-1 "Klassika" stock':/wiki/AK_Zenit_PT-1_%22Klassika%22_stock
+b'VPO-136 Vepr KM wooden stock':/wiki/VPO-136_Vepr_KM_wooden_stock
+b'Izhmash metal stock for AKS-74U (6P26 Sb.5)':/wiki/Izhmash_metal_stock_for_AKS-74U_(6P26_Sb.5)
+b'OP-SKS wooden stock':/wiki/OP-SKS_wooden_stock
+b'Izhmash wooden AKM stock (6P1 Sb.5)':/wiki/Izhmash_wooden_AKM_stock_(6P1_Sb.5)
+b'SKS TOZ wooden stock (56-A-231 Sb.5)':/wiki/SKS_TOZ_wooden_stock_(56-A-231_Sb.5)
+b'Izhmash polymer AK-74 stock (6P20 Sb.7)':/wiki/Izhmash_polymer_AK-74_stock_(6P20_Sb.7)
+b'VSS Vintorez wooden stock':/wiki/VSS_Vintorez_wooden_stock
+b'MP-133/153 plastic pistol grip':/wiki/MP-133/153_plastic_pistol_grip
+b'AS VAL skeleton stock':/wiki/AS_VAL_skeleton_stock
+b'APB detachable wire stock':/wiki/APB_detachable_wire_stock
+b'MPX retractable stock pipe adapter':/wiki/MPX_retractable_stock_pipe_adapter
+b'Troy M7A1 PDW stock':/wiki/Troy_M7A1_PDW_stock
+b'Armacon Baskak stock':/wiki/Armacon_Baskak_stock
+b'MP-133/153 wooden stock':/wiki/MP-133/153_wooden_stock
+b'MPX collapsing/telescoping stock':/wiki/MPX_collapsing/telescoping_stock
+b'MP-133/153 plastic stock':/wiki/MP-133/153_plastic_stock
+b'AK GP-25 accessory kit recoil pad':/wiki/AK_GP-25_accessory_kit_recoil_pad
+b'Colt A2 buffer tube':/wiki/Colt_A2_buffer_tube
+b'DVL-10 stock':/wiki/DVL-10_stock
+b'VPO-209 wooden stock':/wiki/VPO-209_wooden_stock
+b'Colt buffer tube':/wiki/Colt_buffer_tube
+b'Izhmash wooden AK-74 stock (6P20 Sb.5)':/wiki/Izhmash_wooden_AK-74_stock_(6P20_Sb.5)
+b'PP-19-01 Vityaz-SN metal skeleton stock':/wiki/PP-19-01_Vityaz-SN_metal_skeleton_stock
+b'M870 Magpul SGA polymer stock':/wiki/M870_Magpul_SGA_polymer_stock
+b'M870 SPS polymer stock':/wiki/M870_SPS_polymer_stock
+b'M870 Shockwave Raptor grip':/wiki/M870_Shockwave_Raptor_grip
+b'SKS TAPCO Intrafuse stock':/wiki/SKS_TAPCO_Intrafuse_stock
+b'AKM/AK-74 FAB Defense UAS stock':/wiki/AKM/AK-74_FAB_Defense_UAS_stock
+b'FN P90 stock':/wiki/FN_P90_stock
+b'FN PS90 stock':/wiki/FN_PS90_stock
+b'FN P90 butt pad':/wiki/FN_P90_butt_pad
+b'FN P90 Damage Industries buttpad':/wiki/FN_P90_Damage_Industries_buttpad
+b'Remington M700 AB Arms MOD*X GEN 3 stock':/wiki/Remington_M700_AB_Arms_MOD*X_GEN_3_stock
+b'Remington M700 AB Arms buffer tube side folder adapter':/wiki/Remington_M700_AB_Arms_buffer_tube_side_folder_adapter
+b'Remington M700 Magpul Pro 700 chassis':/wiki/Remington_M700_Magpul_Pro_700_chassis
+b'Remington M700 Magpul Pro 700 folding stock':/wiki/Remington_M700_Magpul_Pro_700_folding_stock
+b'Remington M700 ProMag Archangel polymer stock':/wiki/Remington_M700_ProMag_Archangel_polymer_stock
+b'AK-74M CAA AKTS AK74 buffer tube':/wiki/AK-74M_CAA_AKTS_AK74_buffer_tube
+b'AK-74M CAA AKTS AK74 buffer tube (foldable)':/wiki/AK-74M_CAA_AKTS_AK74_buffer_tube_(foldable)
+b'SKS FAB Defense UAS stock':/wiki/SKS_FAB_Defense_UAS_stock
+b'AR-15 DoubleStar ACE SOCOM Gen.4 stock':/wiki/AR-15_DoubleStar_ACE_SOCOM_Gen.4_stock
+b'AR-15 DoubleStar ACE 0.5 inch recoil pad':/wiki/AR-15_DoubleStar_ACE_0.5_inch_recoil_pad
+b'Magpul CTR Carbine stock':/wiki/Magpul_CTR_Carbine_stock
+b'Glock FAB Defense GLR-17 stock':/wiki/Glock_FAB_Defense_GLR-17_stock
+b'Remington M700 AT AICS polymer stock':/wiki/Remington_M700_AT_AICS_polymer_stock
+b'MP5 End Cap stock Kurz':/wiki/MP5_End_Cap_stock_Kurz
+b'Magpul PRS GEN3 stock':/wiki/Magpul_PRS_GEN3_stock
+b'MP9 stock':/wiki/MP9_stock
+b'VPO-215 stock':/wiki/VPO-215_stock
+b'Orsis T-5000M stock':/wiki/Orsis_T-5000M_stock
+b'Orsis T-5000M aluminium body':/wiki/Orsis_T-5000M_aluminium_body
+b'AKM/AK-74 Hexagon "Kocherga" stock (Anodized Red)':/wiki/AKM/AK-74_Hexagon_%22Kocherga%22_stock_(Anodized_Red)
+b'M590A1 polymer stock':/wiki/M590A1_polymer_stock
+b'M590A1 Magpul SGA stock':/wiki/M590A1_Magpul_SGA_stock
+b'M590A1 Mesa Tactical LEO gen.1 stock adapter':/wiki/M590A1_Mesa_Tactical_LEO_gen.1_stock_adapter
+b'Mesa Tactical Crosshair Hydraulic buffer tube':/wiki/Mesa_Tactical_Crosshair_Hydraulic_buffer_tube
+b'KS-23 wooden stock':/wiki/KS-23_wooden_stock
+b'KS-23M wire stock':/wiki/KS-23M_wire_stock
+b'VPO-101 Vepr Hunter SVD-style stock':/wiki/VPO-101_Vepr_Hunter_SVD-style_stock
+b'MCX telescoping stock':/wiki/MCX_telescoping_stock
+b'MCX thin lightweight stock':/wiki/MCX_thin_lightweight_stock
+b'B5 Systems Precision stock':/wiki/B5_Systems_Precision_stock
+b'KRISS Defiance DS150 stock (Black)':/wiki/KRISS_Defiance_DS150_stock_(Black)
+b'HK UMP polymer stock':/wiki/HK_UMP_polymer_stock
+b'KRISS Vector Gen.2 folding stock':/wiki/KRISS_Vector_Gen.2_folding_stock
+b'KRISS Vector non-folding stock adapter':/wiki/KRISS_Vector_non-folding_stock_adapter
+b'KRISS Vector Pistol Sling adapter':/wiki/KRISS_Vector_Pistol_Sling_adapter
+b'FAB Defense GL-Core buttstock':/wiki/FAB_Defense_GL-Core_buttstock
+b'STM Arms buffer tube':/wiki/STM_Arms_buffer_tube
+b'HK 416A5 5.56x45 10.6 inch barrel':/wiki/HK_416A5_5.56x45_10.6_inch_barrel
+b'MPX 9x19 10.5 inch barrel':/wiki/MPX_9x19_10.5_inch_barrel
+b'MPX 9x19 6.5 inch barrel':/wiki/MPX_9x19_6.5_inch_barrel
+b'MDR 5.56x45 406mm barrel':/wiki/MDR_5.56x45_406mm_barrel
+b'SVDS 7.62x54R 22 inch barrel':/wiki/SVDS_7.62x54R_22_inch_barrel
+b'MPX 9x19 4.5 inch barrel':/wiki/MPX_9x19_4.5_inch_barrel
+b'MPX 9x19 14 inch barrel':/wiki/MPX_9x19_14_inch_barrel
+b'AR-15 5.56x45 406mm barrel':/wiki/AR-15_5.56x45_406mm_barrel
+b'Remington M700 7.62x51 20 inch barrel':/wiki/Remington_M700_7.62x51_20_inch_barrel
+b'Remington M700 7.62x51 26 inch barrel':/wiki/Remington_M700_7.62x51_26_inch_barrel
+b'Mosin 7.62x54R sawn-off 200mm barrel':/wiki/Mosin_7.62x54R_sawn-off_200mm_barrel
+b'Mosin 7.62x54R sawn-off 220mm barrel':/wiki/Mosin_7.62x54R_sawn-off_220mm_barrel
+b'Mosin 7.62x54R 514mm carbine barrel':/wiki/Mosin_7.62x54R_514mm_carbine_barrel
+b'RPK-16 5.45x39 15 inch barrel':/wiki/RPK-16_5.45x39_15_inch_barrel
+b'RPK-16 5.45x39 22 inch barrel':/wiki/RPK-16_5.45x39_22_inch_barrel
+b'HK 416A5 5.56x45 11 inch barrel':/wiki/HK_416A5_5.56x45_11_inch_barrel
+b'HK 416A5 5.56x45 14.5 inch barrel':/wiki/HK_416A5_5.56x45_14.5_inch_barrel
+b'HK 416A5 5.56x45 16.5 inch barrel with flip-up front sight':/wiki/HK_416A5_5.56x45_16.5_inch_barrel_with_flip-up_front_sight
+b'HK 416A5 5.56x45 20 inch barrel':/wiki/HK_416A5_5.56x45_20_inch_barrel
+b'SA-58 7.62x51 11 inch barrel':/wiki/SA-58_7.62x51_11_inch_barrel
+b'SA-58 7.62x51 16 inch barrel':/wiki/SA-58_7.62x51_16_inch_barrel
+b'SA-58 7.62x51 21 inch barrel':/wiki/SA-58_7.62x51_21_inch_barrel
+b'M1A 7.62x51 22 inch barrel':/wiki/M1A_7.62x51_22_inch_barrel
+b'Mosin 730mm regular barrel':/wiki/Mosin_730mm_regular_barrel
+b'M1A 7.62x51 16 inch barrel':/wiki/M1A_7.62x51_16_inch_barrel
+b'AR-10 7.62x51 18 inch barrel':/wiki/AR-10_7.62x51_18_inch_barrel
+b'MP-133 12ga 510mm barrel':/wiki/MP-133_12ga_510mm_barrel
+b'DVL-10 .308 500mm barrel':/wiki/DVL-10_.308_500mm_barrel
+b'TT 7.62x25 116mm barrel':/wiki/TT_7.62x25_116mm_barrel
+b'TT 7.62x25 116mm gilded barrel':/wiki/TT_7.62x25_116mm_gilded_barrel
+b'Homespun 121mm 7.62x25 TT barrel with threading':/wiki/Homespun_121mm_7.62x25_TT_barrel_with_threading
+b'P226 9x19 threaded barrel':/wiki/P226_9x19_threaded_barrel
+b'AR-15 5.56x45 260mm barrel':/wiki/AR-15_5.56x45_260mm_barrel
+b'AR-15 5.56x45 370mm barrel':/wiki/AR-15_5.56x45_370mm_barrel
+b'MPX-SD 9x19 165mm barrel':/wiki/MPX-SD_9x19_165mm_barrel
+b'MPX 9x19 203mm barrel':/wiki/MPX_9x19_203mm_barrel
+b'MP-133 12ga 510mm barrel shotgun with rib':/wiki/MP-133_12ga_510mm_barrel_shotgun_with_rib
+b'MP-133 12ga 540mm barrel':/wiki/MP-133_12ga_540mm_barrel
+b'540mm barrel for MR-133 12ga shotgun with rib':/wiki/540mm_barrel_for_MR-133_12ga_shotgun_with_rib
+b'MP-133 12ga 610mm barrel':/wiki/MP-133_12ga_610mm_barrel
+b'MP-133 12ga 610mm barrel with rib':/wiki/MP-133_12ga_610mm_barrel_with_rib
+b'MP-133 12ga 660mm barrel':/wiki/MP-133_12ga_660mm_barrel
+b'MP-133 12ga 660mm barrel with rib':/wiki/MP-133_12ga_660mm_barrel_with_rib
+b'MP-133 12ga 710mm barrel':/wiki/MP-133_12ga_710mm_barrel
+b'710mm barrel for MR-133 12ga shotgun with rib':/wiki/710mm_barrel_for_MR-133_12ga_shotgun_with_rib
+b'MP-133 12ga 750mm barrel':/wiki/MP-133_12ga_750mm_barrel
+b'MP-133 12ga 750mm barrel with rib':/wiki/MP-133_12ga_750mm_barrel_with_rib
+b'MP-153 12ga 610mm barrel':/wiki/MP-153_12ga_610mm_barrel
+b'MP-153 12ga 660mm barrel':/wiki/MP-153_12ga_660mm_barrel
+b'MP-153 12ga 750mm barrel':/wiki/MP-153_12ga_750mm_barrel
+b'P226 9x19 112mm barrel':/wiki/P226_9x19_112mm_barrel
+b'DVL-10 M2 .308 660mm barrel':/wiki/DVL-10_M2_.308_660mm_barrel
+b'AR-10 7.62x51 22 inch barrel':/wiki/AR-10_7.62x51_22_inch_barrel
+b'MP-153 12ga 710mm barrel':/wiki/MP-153_12ga_710mm_barrel
+b'Glock 9x19 Lone Wolf threaded barrel':/wiki/Glock_9x19_Lone_Wolf_threaded_barrel
+b'M870 12ga 660mm vent rib barrel':/wiki/M870_12ga_660mm_vent_rib_barrel
+b'M870 12ga 508mm barrel':/wiki/M870_12ga_508mm_barrel
+b'Glock 17 9x19 barrel':/wiki/Glock_17_9x19_barrel
+b'M870 12ga cut off 325mm barrell':/wiki/M870_12ga_cut_off_325mm_barrell
+b'M870 12ga 355mm barrel':/wiki/M870_12ga_355mm_barrel
+b'M870 12ga 508mm barrel with a fixed sight':/wiki/M870_12ga_508mm_barrel_with_a_fixed_sight
+b'Glock 9x19 Double Diamond threaded barrel':/wiki/Glock_9x19_Double_Diamond_threaded_barrel
+b'Glock 17 9x19 Barrel with compensator':/wiki/Glock_17_9x19_Barrel_with_compensator
+b'Glock 9x19 SAI threaded barrel':/wiki/Glock_9x19_SAI_threaded_barrel
+b'Glock 18C 9x19 barrel with compensator':/wiki/Glock_18C_9x19_barrel_with_compensator
+b'M9A3 9x19 threaded barrel':/wiki/M9A3_9x19_threaded_barrel
+b'FN P90 5.7x28 10.5 inch barrel':/wiki/FN_P90_5.7x28_10.5_inch_barrel
+b'FN P90 5.7x28 16 inch barrel':/wiki/FN_P90_5.7x28_16_inch_barrel
+b'Remington M700 7.62x51 26 inch stainless steel barrel':/wiki/Remington_M700_7.62x51_26_inch_stainless_steel_barrel
+b'Remington M700 7.62x51 20 inch stainless steel barrel':/wiki/Remington_M700_7.62x51_20_inch_stainless_steel_barrel
+b'FN Five-seveN 5.7x28 barrel':/wiki/FN_Five-seveN_5.7x28_barrel
+b'FN Five-seveN 5.7x28 threaded barrel':/wiki/FN_Five-seveN_5.7x28_threaded_barrel
+b'AR-15 5.56x45 18 inch barrel':/wiki/AR-15_5.56x45_18_inch_barrel
+b'AR-15 5.56x45 20 inch barrel':/wiki/AR-15_5.56x45_20_inch_barrel
+b'T-5000M .308 660mm barrel':/wiki/T-5000M_.308_660mm_barrel
+b'SR-25 7.62x51 20 inch barrel':/wiki/SR-25_7.62x51_20_inch_barrel
+b'SR-25 7.62x51 16 inch barrel':/wiki/SR-25_7.62x51_16_inch_barrel
+b'VPO-215 .366TKM 23 inch barrel':/wiki/VPO-215_.366TKM_23_inch_barrel
+b'MDR .308 16 inch barrel':/wiki/MDR_.308_16_inch_barrel
+b'M1911A1 .45 ACP 127mm barrel':/wiki/M1911A1_.45_ACP_127mm_barrel
+b'PPSh-41 7.62x25 10.6 inch barrel':/wiki/PPSh-41_7.62x25_10.6_inch_barrel
+b'M590A1 12ga 20 inch barrel':/wiki/M590A1_12ga_20_inch_barrel
+b'KS-23 23x75 510mm barrel':/wiki/KS-23_23x75_510mm_barrel
+b'KS-23 23x75 700mm barrel':/wiki/KS-23_23x75_700mm_barrel
+b'RFB 7.62x51 18 inch barrel':/wiki/RFB_7.62x51_18_inch_barrel
+b'M1911A1 .45 ACP National Match barrel':/wiki/M1911A1_.45_ACP_National_Match_barrel
+b'M1911A1 .45 ACP threaded barrel':/wiki/M1911A1_.45_ACP_threaded_barrel
+b'MCX .300 BLK 171mm barrel':/wiki/MCX_.300_BLK_171mm_barrel
+b'MCX .300 BLK 229mm barrel':/wiki/MCX_.300_BLK_229mm_barrel
+b'KRISS Vector 9x19 5 inch barrel':/wiki/KRISS_Vector_9x19_5_inch_barrel
+b'KRISS Vector 9x19 6 inch barrel':/wiki/KRISS_Vector_9x19_6_inch_barrel
+b'KRISS Vector .45 ACP 5 inch barrel':/wiki/KRISS_Vector_.45_ACP_5_inch_barrel
+b'KRISS Vector .45 ACP 6 inch barrel':/wiki/KRISS_Vector_.45_ACP_6_inch_barrel
+b'HK UMP .45 ACP 8 inch barrel':/wiki/HK_UMP_.45_ACP_8_inch_barrel
+b'Mk-18 .338 LM 24 inch barrel':/wiki/Mk-18_.338_LM_24_inch_barrel
+b'PL-15 9x19 barrel':/wiki/PL-15_9x19_barrel
+b'PL-15 9x19 threaded barrel':/wiki/PL-15_9x19_threaded_barrel
+b'STM-9 9x19 10.5 inch barrel':/wiki/STM-9_9x19_10.5_inch_barrel
+b'STM-9 9x19 12 inch barrel':/wiki/STM-9_9x19_12_inch_barrel
+b'STM-9 9x19 14 inch barrel':/wiki/STM-9_9x19_14_inch_barrel
+b'STM-9 9x19 16 inch barrel':/wiki/STM-9_9x19_16_inch_barrel
+b'VPO-101 Vepr Hunter gas tube':/wiki/VPO-101_Vepr_Hunter_gas_tube
+b'SVDS gas tube':/wiki/SVDS_gas_tube
+b'HK 416A5 low profile gas block':/wiki/HK_416A5_low_profile_gas_block
+b'AK-74 gas tube':/wiki/AK-74_gas_tube
+b'AKM gas tube (6P1 Sb.1-2)':/wiki/AKM_gas_tube_(6P1_Sb.1-2)
+b'AKM type Molot gas tube':/wiki/AKM_type_Molot_gas_tube
+b'AK Kiba Arms VDM CS gas tube':/wiki/AK_Kiba_Arms_VDM_CS_gas_tube
+b'UltiMAK M1-B gas tube for AK':/wiki/UltiMAK_M1-B_gas_tube_for_AK
+b'AK TROY Industries handguard & gas block combo':/wiki/AK_TROY_Industries_handguard_%26_gas_block_combo
+b'PP-19-01 Vityaz-SN gas tube':/wiki/PP-19-01_Vityaz-SN_gas_tube
+b'AKS-74U gas tube':/wiki/AKS-74U_gas_tube
+b'MK12 Low Profile Gas Block':/wiki/MK12_Low_Profile_Gas_Block
+b'M4A1 front sight':/wiki/M4A1_front_sight
+b'AR-15 Windham Weaponry Rail Gas Block':/wiki/AR-15_Windham_Weaponry_Rail_Gas_Block
+b'JP Enterprises Gas System-6':/wiki/JP_Enterprises_Gas_System-6
+b'JP Enterprises Gas System-5B':/wiki/JP_Enterprises_Gas_System-5B
+b'127x64':/wiki/AK_Vezhlivyy_Strelok_VS-24_%2B_VS-33c_handguard_%26_gas_block_combo
+b'SR-25 Low Profile Gas Block':/wiki/SR-25_Low_Profile_Gas_Block
+b'MCX gas block':/wiki/MCX_gas_block
+b'Mk-18 gas block':/wiki/Mk-18_gas_block
+b'MPX Lancer OEM 14 inch M-LOK handguard':/wiki/MPX_Lancer_OEM_14_inch_M-LOK_handguard
+b'HK 416A5 TROY Industries M-LOK 13 inch handguard':/wiki/HK_416A5_TROY_Industries_M-LOK_13_inch_handguard
+b'HK 416A5 Strike Industries CRUX 15 inch M-LOK handguard':/wiki/HK_416A5_Strike_Industries_CRUX_15_inch_M-LOK_handguard
+b'MDR handguard':/wiki/MDR_handguard
+b'HK 416A5 MRS KeyMod 14 inch handguard':/wiki/HK_416A5_MRS_KeyMod_14_inch_handguard
+b'AK Zenit B-10 Handguard':/wiki/AK_Zenit_B-10_Handguard
+b'AR-15 SAI 10 inch QD Rail handguard':/wiki/AR-15_SAI_10_inch_QD_Rail_handguard
+b'MPX Midwest Industries 14 inch M-LOK handguard':/wiki/MPX_Midwest_Industries_14_inch_M-LOK_handguard
+b'MPX Midwest Industries 10.5 inch M-LOK handguard':/wiki/MPX_Midwest_Industries_10.5_inch_M-LOK_handguard
+b'MPX Midwest Industries 4.5 inch M-LOK handguard':/wiki/MPX_Midwest_Industries_4.5_inch_M-LOK_handguard
+b'AR-15 STNGR VYPR 10 inch M-LOK handguard':/wiki/AR-15_STNGR_VYPR_10_inch_M-LOK_handguard
+b'AR-15 Daniel Defense RIS II 12.25 handguard':/wiki/AR-15_Daniel_Defense_RIS_II_12.25_handguard
+b'Magpul MOE SL carbine length M-LOK foregrip for AR15':/wiki/Magpul_MOE_SL_carbine_length_M-LOK_foregrip_for_AR15
+b'AR-15 Daniel Defense RIS II FSP 9.5 handguard (Flat Dark Earth)':/wiki/AR-15_Daniel_Defense_RIS_II_FSP_9.5_handguard_(Flat_Dark_Earth)
+b'SVDS polymer handguard':/wiki/SVDS_polymer_handguard
+b'AR-15 SAI 14.5 inch QD Rail handguard':/wiki/AR-15_SAI_14.5_inch_QD_Rail_handguard
+b'MPX Midwest Industries 6.5 inch M-LOK handguard':/wiki/MPX_Midwest_Industries_6.5_inch_M-LOK_handguard
+b'HK 416A5 Midwest Industries 9 inch M-LOK handguard':/wiki/HK_416A5_Midwest_Industries_9_inch_M-LOK_handguard
+b'Magpul Zhukov-U HAND GUARD for AK':/wiki/Magpul_Zhukov-U_HAND_GUARD_for_AK
+b'AR-15 Magpul MOE SL mid length M-LOK handguard':/wiki/AR-15_Magpul_MOE_SL_mid_length_M-LOK_handguard
+b'HK 416A5 Midwest Industries 13.5 inch M-LOK handguard':/wiki/HK_416A5_Midwest_Industries_13.5_inch_M-LOK_handguard
+b'RPK-16 handguard':/wiki/RPK-16_handguard
+b'ADAR 2-15 wooden handguard':/wiki/ADAR_2-15_wooden_handguard
+b'AK Vltor CMRD KeyMod handguard':/wiki/AK_Vltor_CMRD_KeyMod_handguard
+b'HK 416A5 Quad Rail handguard':/wiki/HK_416A5_Quad_Rail_handguard
+b'HK 416A5 Quad Rail handguard with flip up front sight':/wiki/HK_416A5_Quad_Rail_handguard_with_flip_up_front_sight
+b'HK 416A5 Extended Quad Rail handguard':/wiki/HK_416A5_Extended_Quad_Rail_handguard
+b'SA-58 quad rail full length handguard':/wiki/SA-58_quad_rail_full_length_handguard
+b'SA-58/FAL Vltor CASV FAS handguard':/wiki/SA-58/FAL_Vltor_CASV_FAS_handguard
+b'SA-58/FAL Vltor CASV-FAL handguard':/wiki/SA-58/FAL_Vltor_CASV-FAL_handguard
+b'SA-58/FAL original Austrian handguard':/wiki/SA-58/FAL_original_Austrian_handguard
+b'SA-58/FAL Belgian style handguard':/wiki/SA-58/FAL_Belgian_style_handguard
+b'SA-58/FAL AIM Sports Universal M-LOK handguard':/wiki/SA-58/FAL_AIM_Sports_Universal_M-LOK_handguard
+b'SA-58/FAL AIM Sports Universal KeyMod handguard':/wiki/SA-58/FAL_AIM_Sports_Universal_KeyMod_handguard
+b'AK Hexagon handguard':/wiki/AK_Hexagon_handguard
+b'SA-58 quad rail handguard':/wiki/SA-58_quad_rail_handguard
+b'AR-15 Alexander Arms MK10 handguard':/wiki/AR-15_Alexander_Arms_MK10_handguard
+b'AK Strike Industries TRAX 1 handguard':/wiki/AK_Strike_Industries_TRAX_1_handguard
+b'AK Strike Industries TRAX 2 handguard extension':/wiki/AK_Strike_Industries_TRAX_2_handguard_extension
+b'AR-15 Colt M4 Carbine Length handguard':/wiki/AR-15_Colt_M4_Carbine_Length_handguard
+b'AKS-74U CAA XRSU47SU tactical handguard':/wiki/AKS-74U_CAA_XRSU47SU_tactical_handguard
+b'MP5 TL-99 aluminum handguard':/wiki/MP5_TL-99_aluminum_handguard
+b'MP5 Wide Tropical Polymer handguard':/wiki/MP5_Wide_Tropical_Polymer_handguard
+b'AK-74 wooden handguard (6P20 Sb.6)':/wiki/AK-74_wooden_handguard_(6P20_Sb.6)
+b'Magpul MOE AKM HAND GUARD for AK':/wiki/Magpul_MOE_AKM_HAND_GUARD_for_AK
+b'LOBAEV Arms DVL-10 M2 handguard':/wiki/LOBAEV_Arms_DVL-10_M2_handguard
+b'VPO-209 wooden handguard':/wiki/VPO-209_wooden_handguard
+b'AK-74 wooden handguard (6P1 Sb.6-1)':/wiki/AK-74_wooden_handguard_(6P1_Sb.6-1)
+b'VPO-136 Vepr KM wooden handguard':/wiki/VPO-136_Vepr_KM_wooden_handguard
+b'Izhmekh MP-153 Polymer stock':/wiki/Izhmekh_MP-153_Polymer_stock
+b'AK Krebs Custom UFM KeyMod handguard':/wiki/AK_Krebs_Custom_UFM_KeyMod_handguard
+b'MP5SD polymer handguard':/wiki/MP5SD_polymer_handguard
+b'MP-133 beechwood forestock':/wiki/MP-133_beechwood_forestock
+b'AKS-74U Zenit B-11 handguard':/wiki/AKS-74U_Zenit_B-11_handguard
+b'MPX GEN1 handguard':/wiki/MPX_GEN1_handguard
+b'Remington R11 RSASS handguard':/wiki/Remington_R11_RSASS_handguard
+b'AR-15 War Sport LVOA-C handguard (Black)':/wiki/AR-15_War_Sport_LVOA-C_handguard_(Black)
+b'AR-15 War Sport LVOA-S handguard (Black)':/wiki/AR-15_War_Sport_LVOA-S_handguard_(Black)
+b'AR-15 Daniel Defense RIS II 9.5 handguard':/wiki/AR-15_Daniel_Defense_RIS_II_9.5_handguard
+b'SOK-12 Leapers UTG PRO MTU002 Long Top aluminum handguard':/wiki/SOK-12_Leapers_UTG_PRO_MTU002_Long_Top_aluminum_handguard
+b'AK-74 polymer handguard (6P20 Sb.9)':/wiki/AK-74_polymer_handguard_(6P20_Sb.9)
+b'SOK-12 polymer handguard (Sb.7-1)':/wiki/SOK-12_polymer_handguard_(Sb.7-1)
+b'SOK-12 Leapers UTG PRO MTU002 Short Top aluminum handguard':/wiki/SOK-12_Leapers_UTG_PRO_MTU002_Short_Top_aluminum_handguard
+b'AK CAA RS47 handguard':/wiki/AK_CAA_RS47_handguard
+b'B-10M foregrip and rail mount B-19':/wiki/B-10M_foregrip_and_rail_mount_B-19
+b'AKS-74U wooden handguard (6P26 Sb.6)':/wiki/AKS-74U_wooden_handguard_(6P26_Sb.6)
+b'AR-15 KAC RIS handguard':/wiki/AR-15_KAC_RIS_handguard
+b'MP-133 custom plastic forestock with rails':/wiki/MP-133_custom_plastic_forestock_with_rails
+b'M870 FAB Defense PR870 forestock':/wiki/M870_FAB_Defense_PR870_forestock
+b'M870 Magpul MOE handguard':/wiki/M870_Magpul_MOE_handguard
+b'M870 SpeedFeed short handguard':/wiki/M870_SpeedFeed_short_handguard
+b'AK-100 series polymer handguard':/wiki/AK-100_series_polymer_handguard
+b'ASh-12 polymer handguard':/wiki/ASh-12_polymer_handguard
+b'Remington M700 AB Arms MOD*X GEN 3 KeyMod handguard':/wiki/Remington_M700_AB_Arms_MOD*X_GEN_3_KeyMod_handguard
+b'AK 5.45 Design Aggressor handguard':/wiki/AK_5.45_Design_Aggressor_handguard
+b'AR-15 Strike Industries Viper Carbine Length M-LOK handguard':/wiki/AR-15_Strike_Industries_Viper_Carbine_Length_M-LOK_handguard
+b'AR-10 Noveske SWS N6 10.5 inch handguard':/wiki/AR-10_Noveske_SWS_N6_10.5_inch_handguard
+b'AR-10 Noveske SWS N6 Split handguard':/wiki/AR-10_Noveske_SWS_N6_Split_handguard
+b'MP5 CAA HX-5 handguard':/wiki/MP5_CAA_HX-5_handguard
+b'AR-15 URX 3.1 10.75 inch handguard':/wiki/AR-15_URX_3.1_10.75_inch_handguard
+b'AR-15 URX 3 8 inch handguard':/wiki/AR-15_URX_3_8_inch_handguard
+b'AKS-74U Alfa Arms Goliaf handguard':/wiki/AKS-74U_Alfa_Arms_Goliaf_handguard
+b'MP5 PTR Tri-Rail handguard':/wiki/MP5_PTR_Tri-Rail_handguard
+b'AK TDI AKM-L handguard':/wiki/AK_TDI_AKM-L_handguard
+b'WASR-10/63 CAF wooden foregrip':/wiki/WASR-10/63_CAF_wooden_foregrip
+b'MP5K polymer handguard':/wiki/MP5K_polymer_handguard
+b'AR-15 Lone Star Armory Ion Lite handguard':/wiki/AR-15_Lone_Star_Armory_Ion_Lite_handguard
+b'AR-10 URX 4 handguard':/wiki/AR-10_URX_4_handguard
+b'Orsis T-5000M handguard':/wiki/Orsis_T-5000M_handguard
+b'SVD SAG MK1 Freefloat Chassis':/wiki/SVD_SAG_MK1_Freefloat_Chassis
+b'SVD CAA XRS-DRG handguard':/wiki/SVD_CAA_XRS-DRG_handguard
+b'SVD modern handguard':/wiki/SVD_modern_handguard
+b'AR-15 Geissele SMR MK16 9.5 inch M-LOK handguard':/wiki/AR-15_Geissele_SMR_MK16_9.5_inch_M-LOK_handguard
+b'AR-15 Geissele SMR MK16 13.5 inch M-LOK handguard':/wiki/AR-15_Geissele_SMR_MK16_13.5_inch_M-LOK_handguard
+b'M590A1 SpeedFeed short forestock':/wiki/M590A1_SpeedFeed_short_forestock
+b'M590A1 Magpul MOE forestock':/wiki/M590A1_Magpul_MOE_forestock
+b'B-30 handguard with B-31S upper handguard rail':/wiki/B-30_handguard_with_B-31S_upper_handguard_rail
+b'KS-23M forestock':/wiki/KS-23M_forestock
+b'RFB handguard':/wiki/RFB_handguard
+b'AR-10 Lancer LCH-7 12.5 inch M-LOK handguard':/wiki/AR-10_Lancer_LCH-7_12.5_inch_M-LOK_handguard
+b'SOK-12 Bravo-18 aluminium handguard':/wiki/SOK-12_Bravo-18_aluminium_handguard
+b'AK TDI X47 tactical handguard rail system':/wiki/AK_TDI_X47_tactical_handguard_rail_system
+b'MCX 12 inch KeyMod handguard':/wiki/MCX_12_inch_KeyMod_handguard
+b'MCX 8 inch KeyMod handguard':/wiki/MCX_8_inch_KeyMod_handguard
+b'Mk-18 18 inch handguard':/wiki/Mk-18_18_inch_handguard
+b'AR-15 STM 9 inch M-LOK handguard':/wiki/AR-15_STM_9_inch_M-LOK_handguard
+b'AR-15 STM 12 inch M-LOK handguard':/wiki/AR-15_STM_12_inch_M-LOK_handguard
+b'AR-15 STM 15 inch M-LOK handguard':/wiki/AR-15_STM_15_inch_M-LOK_handguard
+b'AK US Palm pistol grip':/wiki/AK_US_Palm_pistol_grip
+b'AR-15 HK V2 pistol grip':/wiki/AR-15_HK_V2_pistol_grip
+b'SVDS pistol grip':/wiki/SVDS_pistol_grip
+b'MDR pistol grip':/wiki/MDR_pistol_grip
+b'TT Razor Arms rubber grip':/wiki/TT_Razor_Arms_rubber_grip
+b'TT Hogue-like rubber grip':/wiki/TT_Hogue-like_rubber_grip
+b'P226 Elite Wooden pistol grip':/wiki/P226_Elite_Wooden_pistol_grip
+b'P226 Emperor Scorpion pistol grip':/wiki/P226_Emperor_Scorpion_pistol_grip
+b'P226 Hogue Chain Link pistol grip':/wiki/P226_Hogue_Chain_Link_pistol_grip
+b'P226 Axelson Tactical MK.25 pistol grip':/wiki/P226_Axelson_Tactical_MK.25_pistol_grip
+b'TT PM-Laser TT-206 side grips with laser sight':/wiki/TT_PM-Laser_TT-206_side_grips_with_laser_sight
+b'M870 FAB Defense AGR-870 pistol grip':/wiki/M870_FAB_Defense_AGR-870_pistol_grip
+b'AK-12 pistol grip':/wiki/AK-12_pistol_grip
+b'Mosin Tacfire pistol grip':/wiki/Mosin_Tacfire_pistol_grip
+b'AR-15 HK Battle Grip pistol grip':/wiki/AR-15_HK_Battle_Grip_pistol_grip
+b'AR-15 HK Battle Grip pistol grip with Beavertail':/wiki/AR-15_HK_Battle_Grip_pistol_grip_with_Beavertail
+b'SA-58 FAB Defense AG-FAL pistol grip':/wiki/SA-58_FAB_Defense_AG-FAL_pistol_grip
+b'SA-58 pistol grip':/wiki/SA-58_pistol_grip
+b'SA-58 TAPCO SAW-style pistol grip (Black)':/wiki/SA-58_TAPCO_SAW-style_pistol_grip_(Black)
+b'P226 Hogue rubber pistol grip with finger grooves':/wiki/P226_Hogue_rubber_pistol_grip_with_finger_grooves
+b'AK Magpul MOE pistol grip':/wiki/AK_Magpul_MOE_pistol_grip
+b'M14 SAGE International M14ALCS (MOD-0) pistol grip':/wiki/M14_SAGE_International_M14ALCS_(MOD-0)_pistol_grip
+b'PP-19-01 Vityaz-SN pistol grip':/wiki/PP-19-01_Vityaz-SN_pistol_grip
+b'TOZ-106 002 pistol grip':/wiki/TOZ-106_002_pistol_grip
+b'MP-443 polymer pistol grip':/wiki/MP-443_polymer_pistol_grip
+b'Sig Sauer pistol grip for P226':/wiki/Sig_Sauer_pistol_grip_for_P226
+b'PB bakilte side grips':/wiki/PB_bakilte_side_grips
+b'TT ornated side grips':/wiki/TT_ornated_side_grips
+b'TT side grips':/wiki/TT_side_grips
+b'AK bakelite pistol grip (6P4 Sb.8V)':/wiki/AK_bakelite_pistol_grip_(6P4_Sb.8V)
+b'AK polymer pistol grip (6P1 Sb.8)':/wiki/AK_polymer_pistol_grip_(6P1_Sb.8)
+b'AKM bakelite pistol grip':/wiki/AKM_bakelite_pistol_grip
+b'AKM wooden pistol grip':/wiki/AKM_wooden_pistol_grip
+b'AK-74 textolite pistol grip (6P4 Sb.9)':/wiki/AK-74_textolite_pistol_grip_(6P4_Sb.9)
+b'AK bakelite pistol grip':/wiki/AK_bakelite_pistol_grip
+b'TAPCO SAW-Style pistol grip for AK':/wiki/TAPCO_SAW-Style_pistol_grip_for_AK
+b'AK Zenit RK-3 pistol grip':/wiki/AK_Zenit_RK-3_pistol_grip
+b'APS bakelite side-pieces':/wiki/APS_bakelite_side-pieces
+b'AR-15 A2 pistol grip':/wiki/AR-15_A2_pistol_grip
+b'AR-15 DI ECS pistol grip (Flat Dark Earth)':/wiki/AR-15_DI_ECS_pistol_grip_(Flat_Dark_Earth)
+b'AR-15 Hera Arms CQR pistol grip-stock':/wiki/AR-15_Hera_Arms_CQR_pistol_grip-stock
+b'Hogue OverMolded Rubber Grip':/wiki/Hogue_OverMolded_Rubber_Grip
+b'AR-15 Magpul MIAD pistol grip (Flat Dark Earth)':/wiki/AR-15_Magpul_MIAD_pistol_grip_(Flat_Dark_Earth)
+b'AR-15 Magpul MOE pistol grip':/wiki/AR-15_Magpul_MOE_pistol_grip
+b'AR-15 Naroh Arms GRAL-S pistol grip':/wiki/AR-15_Naroh_Arms_GRAL-S_pistol_grip
+b'AR-15 Stark AR Rifle grip':/wiki/AR-15_Stark_AR_Rifle_grip
+b'MPX pistol grip':/wiki/MPX_pistol_grip
+b'PP-91 ZMZ polymer pistol grip':/wiki/PP-91_ZMZ_polymer_pistol_grip
+b'AS VAL pistol grip':/wiki/AS_VAL_pistol_grip
+b'Glock Pachmayr tactical rubber grip':/wiki/Glock_Pachmayr_tactical_rubber_grip
+b'AR-15 Tactical Dynamics Skeletonized pistol grip':/wiki/AR-15_Tactical_Dynamics_Skeletonized_pistol_grip
+b'AS VAL pistol grip-buffer tube':/wiki/AS_VAL_pistol_grip-buffer_tube
+b'SKS TAPCO Intrafuse kit SAW-Style pistol grip':/wiki/SKS_TAPCO_Intrafuse_kit_SAW-Style_pistol_grip
+b'M9A3 polymer pistol grip':/wiki/M9A3_polymer_pistol_grip
+b'AR-15 Hera Arms HG-15 pistol grip':/wiki/AR-15_Hera_Arms_HG-15_pistol_grip
+b'Remington M700 Magpul Pro 700 pistol grip':/wiki/Remington_M700_Magpul_Pro_700_pistol_grip
+b'AK Strike Industries Enhanced Pistol Grip':/wiki/AK_Strike_Industries_Enhanced_Pistol_Grip
+b'AK KGB MG-47 pistol grip':/wiki/AK_KGB_MG-47_pistol_grip
+b'SKS/VZ-58 FAB Defense AG-58 pistol grip':/wiki/SKS/VZ-58_FAB_Defense_AG-58_pistol_grip
+b'HK Ergo PSG-1 style pistol grip':/wiki/HK_Ergo_PSG-1_style_pistol_grip
+b'Orsis T-5000M pistol grip':/wiki/Orsis_T-5000M_pistol_grip
+b'M1911A1 polymer pistol grip':/wiki/M1911A1_polymer_pistol_grip
+b'Pachmayr "American legend grip 423 for M1911A1':/wiki/Pachmayr_%22American_legend_grip_423_for_M1911A1
+b'KS-23M polymer pistol grip':/wiki/KS-23M_polymer_pistol_grip
+b'M45A1 polymer pistol grip':/wiki/M45A1_polymer_pistol_grip
+b'AK Aeroknox Scorpius pistol grip':/wiki/AK_Aeroknox_Scorpius_pistol_grip
+b'MCX pistol grip':/wiki/MCX_pistol_grip
+b'AR-15 DLG-123 pistol grip':/wiki/AR-15_DLG-123_pistol_grip
+b'VPO-101 Vepr Hunter dust cover':/wiki/VPO-101_Vepr_Hunter_dust_cover
+b'SVDS dust cover':/wiki/SVDS_dust_cover
+b'ADAR 2-15 5.56x45 upper receiver':/wiki/ADAR_2-15_5.56x45_upper_receiver
+b'AR-15 Noveske Gen.3 5.56x45 upper receiver':/wiki/AR-15_Noveske_Gen.3_5.56x45_upper_receiver
+b'P226 Legion full size pistol slide':/wiki/P226_Legion_full_size_pistol_slide
+b'P226 Emperor Scorpion pistol slide':/wiki/P226_Emperor_Scorpion_pistol_slide
+b'P226 Stainless Elite pistol slide':/wiki/P226_Stainless_Elite_pistol_slide
+b'P226 Axelson tactical Mk.25 pistol slide':/wiki/P226_Axelson_tactical_Mk.25_pistol_slide
+b'RPK-16 dust cover':/wiki/RPK-16_dust_cover
+b'HK 416A5 5.56x45 upper receiver':/wiki/HK_416A5_5.56x45_upper_receiver
+b'SA-58/FAL standard dust cover':/wiki/SA-58/FAL_standard_dust_cover
+b'SA-58 Extreme Duty dust cover':/wiki/SA-58_Extreme_Duty_dust_cover
+b'Glock 18C 9x19 pistol slide':/wiki/Glock_18C_9x19_pistol_slide
+b'Izhmash AK-74M dust cover (6P34 0-1)':/wiki/Izhmash_AK-74M_dust_cover_(6P34_0-1)
+b'Glock 9x19 Moto Cut pistol slide':/wiki/Glock_9x19_Moto_Cut_pistol_slide
+b'Izhmash AK-74 dust cover (6P1 0-1)':/wiki/Izhmash_AK-74_dust_cover_(6P1_0-1)
+b'Izhmash AKM dust cover (6P1 0-1)':/wiki/Izhmash_AKM_dust_cover_(6P1_0-1)
+b'Molot AKM type dust cover':/wiki/Molot_AKM_type_dust_cover
+b'AKS-74U dust cover (6P26 Sb.7)':/wiki/AKS-74U_dust_cover_(6P26_Sb.7)
+b'Izhmash AKS-74UB Dust cover':/wiki/Izhmash_AKS-74UB_Dust_cover
+b'PP-19-01 Vityaz-SN dust cover':/wiki/PP-19-01_Vityaz-SN_dust_cover
+b'SOK-12 dust cover (Sb.0-2)':/wiki/SOK-12_dust_cover_(Sb.0-2)
+b'AS VAL dust cover':/wiki/AS_VAL_dust_cover
+b'VSS Vintorez dust cover':/wiki/VSS_Vintorez_dust_cover
+b'Zenit B-33 dust cover for AK-74':/wiki/Zenit_B-33_dust_cover_for_AK-74
+b'M4A1 5.56x45 upper receiver':/wiki/M4A1_5.56x45_upper_receiver
+b'AR-15 Vltor MUR-1S 5.56x45 upper receiver':/wiki/AR-15_Vltor_MUR-1S_5.56x45_upper_receiver
+b'MP5SD upper receiver':/wiki/MP5SD_upper_receiver
+b'MP5 9x19 upper receiver':/wiki/MP5_9x19_upper_receiver
+b'MPX GEN1 upper receiver':/wiki/MPX_GEN1_upper_receiver
+b'P226R MK25 pistol slide':/wiki/P226R_MK25_pistol_slide
+b'PP-19-01 Vityaz-SN dust cover':/wiki/PP-19-01_Vityaz-SN_dust_cover
+b'Glock 9x19 Alpha Wolf custom pistol slide':/wiki/Glock_9x19_Alpha_Wolf_custom_pistol_slide
+b'Glock Polymer80 PS9 pistol slide':/wiki/Glock_Polymer80_PS9_pistol_slide
+b'Glock ZEV Tech HEX Gen3 pistol slide':/wiki/Glock_ZEV_Tech_HEX_Gen3_pistol_slide
+b'Glock 9x19 pistol slide':/wiki/Glock_9x19_pistol_slide
+b'Glock ZEV Tech Hex Spartan pistol slide':/wiki/Glock_ZEV_Tech_Hex_Spartan_pistol_slide
+b'Glock 9x19 Viper Cut pistol slide':/wiki/Glock_9x19_Viper_Cut_pistol_slide
+b'Glock Alpha Wolf pistol slide':/wiki/Glock_Alpha_Wolf_pistol_slide
+b'M9A3 9x19 pistol slide':/wiki/M9A3_9x19_pistol_slide
+b'FN P90 EFFEN 90 upper receiver':/wiki/FN_P90_EFFEN_90_upper_receiver
+b'FN P90 upper receiver':/wiki/FN_P90_upper_receiver
+b'FN PS90 upper receiver':/wiki/FN_PS90_upper_receiver
+b'AKademia Bastion dust cover for AK':/wiki/AKademia_Bastion_dust_cover_for_AK
+b'Fab Defence PDC dust cover for AK-74':/wiki/Fab_Defence_PDC_dust_cover_for_AK-74
+b'TWS Dog leg rail dust cover for AK':/wiki/TWS_Dog_leg_rail_dust_cover_for_AK
+b'MP5K 9x19 upper receiver':/wiki/MP5K_9x19_upper_receiver
+b'FN Five-seveN MK2 pistol slide':/wiki/FN_Five-seveN_MK2_pistol_slide
+b'TX-15 5.56x45 Lightweight upper receiver':/wiki/TX-15_5.56x45_Lightweight_upper_receiver
+b'SR-25 7.62x51 upper receiver':/wiki/SR-25_7.62x51_upper_receiver
+b'MP9-N 9x19 upper receiver':/wiki/MP9-N_9x19_upper_receiver
+b'MP9 9x19 upper receiver':/wiki/MP9_9x19_upper_receiver
+b'SVDS custom dust cover':/wiki/SVDS_custom_dust_cover
+b'M1911A1 .45 ACP pistol slide':/wiki/M1911A1_.45_ACP_pistol_slide
+b'PPSh-41 dust cover':/wiki/PPSh-41_dust_cover
+b'M45A1 .45 ACP slide':/wiki/M45A1_.45_ACP_slide
+b'MCX GEN1 upper receiver':/wiki/MCX_GEN1_upper_receiver
+b'Mk-18 .338 LM upper receiver':/wiki/Mk-18_.338_LM_upper_receiver
+b'PL-15 pistol slide':/wiki/PL-15_pistol_slide
+b'STM-9 9x19 upper receiver':/wiki/STM-9_9x19_upper_receiver

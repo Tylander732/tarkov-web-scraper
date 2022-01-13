@@ -1,8 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
 
-wikiUrlBase = "https://escapefromtarkov.fandom.com"
-
 response = requests.get(url="https://escapefromtarkov.fandom.com/wiki/Weapon_mods",)
 
 soup = BeautifulSoup(response.content, 'lxml')
@@ -16,6 +14,8 @@ for wikitableSortable in soup.find_all('table', class_='wikitable sortable'):
 		for aElement in thElement.find_all('a'):
 			#find element within tag by using dictionary syntax. Example: aElement['href']
 			href = aElement['href']
-			wikiUrlsFile.write(href + "\n")
+			title = aElement['title']
+			titleEncoded = str(title.encode('UTF-8'))
+			wikiUrlsFile.write(titleEncoded + ":" + href + "\n")
 
 wikiUrlsFile.close()
